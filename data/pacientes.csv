@@ -1,0 +1,3001 @@
+id_paciente,nombre,edad,sexo,distrito,servicio,fecha_atencion,monto
+P0001,Carlos,61,M,Los Olivos,Cardiología,2023-08-24,654.38
+P0002,Pedro,73,,Comas,Pediatría,2025-08-19,0
+P0003,Pedro,71,M,San Isidro,Emergencia,2021-08-07,
+P0004,Luis,52,,Miraflores,Pediatría,2022-11-19,NA
+P0005,Jorge,26,NA,Miraflores,Odontología,2022-05-19,
+P0006,Fernando,29,NA,Villa El Salvador,Emergencia,2022-10-10,1923.01
+P0007,Jorge,51,F,Callao,Ginecología,2024-08-19,NA
+P0008,Elena,89,M,San Miguel,Laboratorio,2020-09-19,
+P0009,Lucía,40,,Los Olivos,Laboratorio,2022-05-01,
+P0010,María,88,,San Juan de Lurigancho,Cardiología,2021-11-12,0
+P0011,Raúl,13,,San Isidro,Traumatología,2022-05-23,
+P0012,Carlos,38,,San Juan de Lurigancho,Cardiología,2024-10-06,NA
+P0013,Pedro,37,,San Miguel,Traumatología,2020-07-06,NA
+P0014,Elena,58,F,Surco,Odontología,2021-09-15,0
+P0015,Pedro,58,,San Miguel,Odontología,2024-09-12,
+P0016,Raúl,54,,San Miguel,Consulta General,2023-10-23,0
+P0017,Fernando,87,NA,Los Olivos,Pediatría,2021-09-22,NA
+P0018,Ana,17,,San Miguel,Laboratorio,2024-05-21,547.22
+P0019,Rosa,25,,Villa El Salvador,Odontología,2020-03-21,473.92
+P0020,Ana,44,F,Lima,Traumatología,2020-10-28,0
+P0021,María,90,M,San Miguel,Pediatría,2020-10-24,
+P0022,Fernando,10,M,San Isidro,Emergencia,2022-07-06,
+P0023,Rosa,6,,Lima,Pediatría,2025-06-01,
+P0024,Pedro,24,F,San Juan de Lurigancho,Emergencia,2022-06-15,0
+P0025,Lucía,7,M,San Miguel,Consulta General,2022-10-01,NA
+P0026,Fernando,23,,San Isidro,Ginecología,2022-06-23,
+P0027,Ana,88,,Miraflores,Odontología,2025-04-15,584.65
+P0028,Pedro,17,NA,Callao,Ginecología,2020-04-26,0
+P0029,Pedro,85,NA,Callao,Emergencia,2024-08-10,1933.66
+P0030,Ana,28,,Callao,Ginecología,2025-03-16,NA
+P0031,Ana,54,M,Comas,Pediatría,2021-03-12,0
+P0032,Carlos,52,NA,Los Olivos,Emergencia,2021-06-19,
+P0033,Pedro,15,F,San Isidro,Ginecología,2021-12-31,
+P0034,Fernando,87,NA,Villa El Salvador,Consulta General,2024-09-26,NA
+P0035,Fernando,50,,Comas,Laboratorio,2021-07-30,
+P0036,Elena,3,F,San Isidro,Ginecología,2021-07-07,578.05
+P0037,Rosa,8,M,Callao,Laboratorio,2023-05-12,
+P0038,Elena,18,F,Comas,Ginecología,2023-03-05,NA
+P0039,Raúl,81,,Villa El Salvador,Emergencia,2025-07-14,NA
+P0040,Pedro,2,F,San Isidro,Consulta General,2021-01-14,0
+P0041,Jorge,48,NA,Los Olivos,Ginecología,2020-01-18,0
+P0042,Pedro,77,F,Surco,Pediatría,2025-06-25,NA
+P0043,Ana,5,NA,Miraflores,Traumatología,2020-06-14,835.7
+P0044,Luis,83,M,Lima,Ginecología,2023-11-19,410.3
+P0045,Luis,54,F,Miraflores,Laboratorio,2022-03-10,NA
+P0046,Patricia,42,M,Los Olivos,Consulta General,2020-10-13,
+P0047,Jorge,40,,San Isidro,Laboratorio,2020-10-06,
+P0048,Pedro,39,,Comas,Cardiología,2021-02-18,NA
+P0049,Lucía,90,,Villa El Salvador,Consulta General,2022-06-25,
+P0050,Fernando,7,,Miraflores,Cardiología,2022-12-16,
+P0051,María,20,NA,San Miguel,Traumatología,2023-01-28,1888.53
+P0052,Rosa,14,,San Juan de Lurigancho,Consulta General,2021-05-03,117.81
+P0053,Jorge,9,NA,Lima,Pediatría,2024-05-08,NA
+P0054,Jorge,37,F,Los Olivos,Cardiología,2021-01-09,0
+P0055,Lucía,42,,Miraflores,Traumatología,2022-04-18,
+P0056,Rosa,81,NA,Callao,Odontología,2023-01-16,676.91
+P0057,Luis,13,,Surco,Laboratorio,2021-09-06,NA
+P0058,Ana,21,M,San Juan de Lurigancho,Emergencia,2020-04-18,
+P0059,Patricia,39,NA,Villa El Salvador,Ginecología,2022-03-13,1721.73
+P0060,Ana,43,M,Lima,Ginecología,2020-07-24,0
+P0061,Rosa,76,F,Lima,Odontología,2025-10-12,0
+P0062,Jorge,40,NA,Miraflores,Cardiología,2020-01-02,
+P0063,Elena,64,F,Los Olivos,Odontología,2020-10-09,1838.95
+P0064,Carlos,57,,Los Olivos,Laboratorio,2024-08-23,0
+P0065,Jorge,34,F,Los Olivos,Emergencia,2022-12-19,140.22
+P0066,Jorge,86,M,Comas,Emergencia,2023-01-05,203.93
+P0067,María,8,M,San Miguel,Traumatología,2025-03-07,0
+P0068,Raúl,6,,Surco,Laboratorio,2021-07-10,
+P0069,Elena,73,F,San Miguel,Emergencia,2021-05-27,
+P0070,Raúl,47,,San Juan de Lurigancho,Odontología,2020-01-04,
+P0071,Fernando,65,,Lima,Consulta General,2020-02-19,NA
+P0072,Jorge,85,,San Isidro,Cardiología,2025-04-15,
+P0073,Raúl,82,,Villa El Salvador,Laboratorio,2024-10-07,0
+P0074,Fernando,49,M,Los Olivos,Ginecología,2021-04-24,
+P0075,Raúl,84,,San Isidro,Consulta General,2022-03-04,
+P0076,Rosa,6,F,Miraflores,Traumatología,2024-05-06,1127.62
+P0077,Luis,20,,Los Olivos,Cardiología,2021-07-10,
+P0078,Fernando,79,NA,Comas,Laboratorio,2020-03-15,0
+P0079,Lucía,55,,Miraflores,Odontología,2020-07-22,0
+P0080,Lucía,40,,Los Olivos,Cardiología,2020-03-16,0
+P0081,Ana,80,,Surco,Cardiología,2023-05-03,824.24
+P0082,Lucía,70,,Los Olivos,Consulta General,2022-01-26,0
+P0083,Fernando,29,,San Isidro,Odontología,2024-12-18,NA
+P0084,Jorge,86,F,Lima,Ginecología,2024-09-17,0
+P0085,Fernando,38,,Comas,Emergencia,2022-08-13,0
+P0086,Carlos,86,NA,Villa El Salvador,Pediatría,2025-05-27,
+P0087,Elena,61,,Villa El Salvador,Traumatología,2024-12-07,
+P0088,Pedro,48,,Comas,Emergencia,2020-04-27,960.42
+P0089,Pedro,1,F,Villa El Salvador,Laboratorio,2025-10-04,
+P0090,Pedro,52,F,San Juan de Lurigancho,Ginecología,2024-03-13,1640.19
+P0091,Elena,86,F,Miraflores,Traumatología,2025-02-06,NA
+P0092,María,68,M,Comas,Traumatología,2024-05-10,NA
+P0093,Fernando,65,M,San Miguel,Emergencia,2023-11-24,0
+P0094,Luis,22,M,San Isidro,Pediatría,2020-10-03,NA
+P0095,Rosa,73,F,San Miguel,Consulta General,2023-01-20,
+P0096,Pedro,5,F,Comas,Traumatología,2020-06-06,
+P0097,Carlos,NA,,San Juan de Lurigancho,Cardiología,2020-01-25,NA
+P0098,Pedro,37,F,Lima,Cardiología,2021-09-29,
+P0099,María,35,,Los Olivos,Laboratorio,2023-09-05,
+P0100,Raúl,38,F,San Miguel,Odontología,2023-08-09,NA
+P0101,Patricia,7,M,San Isidro,Pediatría,2021-07-02,
+P0102,Patricia,70,NA,Lima,Ginecología,2021-10-10,NA
+P0103,Carlos,45,M,Comas,Traumatología,2022-08-28,
+P0104,Carlos,38,M,Lima,Odontología,2021-03-22,
+P0105,Ana,23,,Comas,Traumatología,2021-04-25,1514.27
+P0106,Raúl,1,NA,San Miguel,Traumatología,2024-10-13,NA
+P0107,Lucía,65,NA,San Isidro,Cardiología,2022-12-22,NA
+P0108,Fernando,43,,Los Olivos,Traumatología,2024-08-18,
+P0109,Jorge,89,F,Lima,Pediatría,2020-03-25,345.49
+P0110,Raúl,76,M,Callao,Odontología,2024-11-24,
+P0111,Ana,70,,Miraflores,Pediatría,2020-01-24,
+P0112,Pedro,4,F,Callao,Emergencia,2025-10-08,NA
+P0113,Patricia,56,NA,Los Olivos,Odontología,2021-05-05,774.25
+P0114,Fernando,72,,Callao,Cardiología,2022-09-13,0
+P0115,Luis,44,F,Villa El Salvador,Ginecología,2024-03-11,
+P0116,María,53,F,San Juan de Lurigancho,Cardiología,2023-04-27,
+P0117,Patricia,80,,Villa El Salvador,Emergencia,2023-06-15,1176.96
+P0118,Rosa,14,NA,San Isidro,Emergencia,2024-01-07,0
+P0119,Raúl,28,M,Comas,Laboratorio,2025-11-08,1488.29
+P0120,Jorge,52,F,Los Olivos,Ginecología,2025-03-18,NA
+P0121,Lucía,69,M,Callao,Traumatología,2025-02-09,665.73
+P0122,María,49,,Surco,Traumatología,2021-09-22,NA
+P0123,María,35,M,Lima,Cardiología,2023-05-19,475.85
+P0124,Raúl,46,NA,Callao,Traumatología,2022-11-07,0
+P0125,Pedro,27,M,Villa El Salvador,Traumatología,2022-11-24,
+P0126,Carlos,58,,Callao,Cardiología,2022-10-23,
+P0127,Elena,33,,Callao,Emergencia,2021-04-14,
+P0128,Luis,76,,San Juan de Lurigancho,Ginecología,2023-03-31,
+P0129,Patricia,18,,Callao,Consulta General,2024-01-27,NA
+P0130,Raúl,22,NA,Miraflores,Ginecología,2021-01-15,609.7
+P0131,Raúl,88,F,Los Olivos,Ginecología,2023-08-01,0
+P0132,María,21,,Surco,Cardiología,2025-06-03,NA
+P0133,Rosa,36,,San Isidro,Odontología,2024-09-11,0
+P0134,María,81,,San Juan de Lurigancho,Emergencia,2022-08-29,0
+P0135,Carlos,49,M,San Isidro,Traumatología,2020-02-01,
+P0136,Patricia,25,,Miraflores,Traumatología,2024-10-19,215.25
+P0137,Elena,62,F,San Juan de Lurigancho,Ginecología,2023-08-31,NA
+P0138,Fernando,14,NA,Surco,Consulta General,2025-04-18,
+P0139,Pedro,3,NA,Callao,Pediatría,2020-09-16,0
+P0140,Ana,9,M,Callao,Consulta General,2025-02-28,
+P0141,Elena,31,,San Miguel,Laboratorio,2020-09-06,334.43
+P0142,Patricia,27,F,San Miguel,Cardiología,2025-01-27,
+P0143,Luis,40,F,Surco,Ginecología,2022-12-27,
+P0144,Pedro,32,F,Comas,Emergencia,2020-10-17,0
+P0145,Fernando,38,,Lima,Emergencia,2020-02-19,0
+P0146,Luis,88,,Los Olivos,Ginecología,2024-10-13,0
+P0147,Lucía,17,,Callao,Ginecología,2023-09-09,
+P0148,Fernando,23,,San Isidro,Emergencia,2025-11-17,
+P0149,Carlos,41,NA,San Isidro,Ginecología,2023-07-11,
+P0150,Jorge,64,M,Miraflores,Emergencia,2020-04-05,
+P0151,Lucía,36,,San Juan de Lurigancho,Traumatología,2021-06-19,NA
+P0152,Rosa,47,NA,Villa El Salvador,Consulta General,2024-12-23,
+P0153,Ana,65,F,Surco,Consulta General,2024-11-17,1901.2
+P0154,Elena,59,M,Miraflores,Traumatología,2023-05-10,1808.41
+P0155,Lucía,11,F,Los Olivos,Odontología,2024-01-05,
+P0156,Patricia,74,M,San Isidro,Laboratorio,2024-02-19,
+P0157,Ana,1,M,San Juan de Lurigancho,Laboratorio,2022-10-25,
+P0158,Ana,20,,Lima,Emergencia,2023-08-08,
+P0159,María,55,NA,Miraflores,Pediatría,2024-07-03,
+P0160,Rosa,18,,San Juan de Lurigancho,Laboratorio,2022-10-26,
+P0161,Ana,71,,Villa El Salvador,Ginecología,2022-01-06,934.83
+P0162,Jorge,27,,Villa El Salvador,Ginecología,2022-07-18,
+P0163,Luis,65,,Callao,Consulta General,2024-12-09,
+P0164,Jorge,45,,San Isidro,Emergencia,2022-12-03,
+P0165,Carlos,76,,San Miguel,Traumatología,2025-06-20,652.44
+P0166,Rosa,40,M,San Miguel,Cardiología,2020-03-15,NA
+P0167,Fernando,73,,Miraflores,Odontología,2025-05-14,0
+P0168,Carlos,33,M,Callao,Traumatología,2024-08-24,
+P0169,Jorge,29,,Los Olivos,Ginecología,2023-07-07,1069.48
+P0170,Fernando,55,F,Callao,Laboratorio,2025-01-19,
+P0171,Lucía,63,M,Miraflores,Traumatología,2022-07-18,1983.34
+P0172,María,18,NA,Comas,Emergencia,2024-02-28,NA
+P0173,Fernando,17,,Comas,Traumatología,2020-08-30,1723.68
+P0174,María,17,NA,Miraflores,Ginecología,2025-08-01,
+P0175,Carlos,36,,San Juan de Lurigancho,Emergencia,2025-10-13,0
+P0176,Ana,46,,Miraflores,Emergencia,2025-11-01,1784.85
+P0177,Carlos,85,M,Comas,Ginecología,2021-06-23,1869.18
+P0178,Luis,24,NA,San Miguel,Consulta General,2020-12-27,0
+P0179,Lucía,84,,Comas,Odontología,2021-12-27,
+P0180,Raúl,34,,San Miguel,Consulta General,2020-05-13,744.91
+P0181,Luis,81,F,Los Olivos,Traumatología,2024-06-14,933.26
+P0182,Pedro,86,NA,Villa El Salvador,Consulta General,2021-11-14,
+P0183,María,83,,San Juan de Lurigancho,Laboratorio,2025-06-28,NA
+P0184,Lucía,46,M,San Miguel,Cardiología,2022-10-03,0
+P0185,Ana,24,NA,Comas,Odontología,2023-12-13,0
+P0186,Elena,83,,Lima,Ginecología,2021-12-01,
+P0187,Fernando,43,,Miraflores,Odontología,2025-03-12,
+P0188,Patricia,,F,Villa El Salvador,Consulta General,2020-04-29,0
+P0189,Elena,11,M,San Miguel,Laboratorio,2020-10-10,0
+P0190,Raúl,79,,Comas,Consulta General,2025-04-18,
+P0191,Patricia,17,NA,San Miguel,Laboratorio,2021-04-30,
+P0192,Ana,22,,Miraflores,Odontología,2023-05-29,
+P0193,María,35,F,San Juan de Lurigancho,Consulta General,2021-04-22,0
+P0194,Rosa,56,,Callao,Emergencia,2023-02-13,NA
+P0195,Fernando,54,F,Surco,Odontología,2023-03-04,1397.06
+P0196,Luis,44,M,San Isidro,Laboratorio,2020-02-08,553.21
+P0197,Luis,69,M,San Miguel,Ginecología,2024-11-29,
+P0198,Luis,22,,Miraflores,Laboratorio,2024-01-12,1392.24
+P0199,Lucía,40,,Callao,Laboratorio,2020-01-11,
+P0200,Rosa,86,NA,Surco,Laboratorio,2025-12-24,
+P0201,María,64,NA,Lima,Laboratorio,2025-01-03,
+P0202,Carlos,19,F,Comas,Laboratorio,2023-12-07,NA
+P0203,Jorge,28,,Miraflores,Consulta General,2023-12-02,266.33
+P0204,Carlos,84,NA,Villa El Salvador,Laboratorio,2024-04-06,1367.32
+P0205,Elena,63,F,Los Olivos,Ginecología,2025-01-19,
+P0206,Ana,81,,San Miguel,Traumatología,2023-11-13,0
+P0207,Ana,3,,Comas,Odontología,2025-11-16,NA
+P0208,Lucía,63,,San Isidro,Odontología,2023-03-11,NA
+P0209,Raúl,49,M,San Isidro,Pediatría,2025-04-01,
+P0210,Rosa,76,,Villa El Salvador,Ginecología,2022-10-02,1016.59
+P0211,Elena,10,NA,Los Olivos,Consulta General,2022-01-24,
+P0212,María,70,F,San Miguel,Emergencia,2021-03-18,500.77
+P0213,Rosa,31,NA,San Juan de Lurigancho,Pediatría,2021-07-13,
+P0214,María,,F,Lima,Pediatría,2022-05-20,0
+P0215,Pedro,23,NA,Lima,Odontología,2025-08-17,
+P0216,María,32,M,San Isidro,Consulta General,2025-04-26,
+P0217,Pedro,66,,Surco,Laboratorio,2021-08-26,893.27
+P0218,Pedro,44,NA,San Isidro,Odontología,2020-11-28,
+P0219,Lucía,10,NA,Villa El Salvador,Emergencia,2024-05-05,0
+P0220,Raúl,82,M,Lima,Emergencia,2020-06-09,NA
+P0221,Lucía,21,NA,Los Olivos,Consulta General,2020-01-31,NA
+P0222,Fernando,33,F,San Isidro,Traumatología,2024-07-11,0
+P0223,Carlos,70,M,San Miguel,Traumatología,2023-04-10,
+P0224,Carlos,82,,Lima,Ginecología,2025-11-08,1033.43
+P0225,Rosa,10,,Lima,Laboratorio,2020-11-17,
+P0226,Lucía,85,NA,San Isidro,Laboratorio,2025-03-01,NA
+P0227,Carlos,69,F,Callao,Odontología,2024-08-18,
+P0228,Pedro,15,,Miraflores,Cardiología,2021-01-31,
+P0229,Fernando,5,M,San Isidro,Cardiología,2022-04-23,0
+P0230,Lucía,2,M,Lima,Traumatología,2025-11-16,NA
+P0231,Ana,23,NA,Lima,Laboratorio,2022-04-10,NA
+P0232,Raúl,39,NA,Callao,Odontología,2025-07-17,
+P0233,Raúl,52,,Los Olivos,Traumatología,2022-04-19,976.17
+P0234,Jorge,54,,Callao,Traumatología,2020-07-05,0
+P0235,Rosa,69,,Miraflores,Laboratorio,2022-05-02,NA
+P0236,Pedro,19,NA,Villa El Salvador,Emergencia,2022-03-28,
+P0237,Lucía,60,F,Lima,Pediatría,2020-12-06,494.12
+P0238,Ana,56,F,Callao,Pediatría,2025-12-01,1472.94
+P0239,Patricia,2,,Surco,Odontología,2023-05-16,0
+P0240,Elena,84,,San Isidro,Traumatología,2021-06-25,0
+P0241,María,58,F,Los Olivos,Consulta General,2021-01-31,1693.09
+P0242,Jorge,63,F,Lima,Cardiología,2024-09-25,810.85
+P0243,Lucía,46,M,San Isidro,Emergencia,2023-06-30,1942.72
+P0244,Fernando,39,M,Villa El Salvador,Laboratorio,2023-09-13,NA
+P0245,Fernando,,F,Villa El Salvador,Ginecología,2023-08-06,
+P0246,Jorge,60,,Surco,Pediatría,2020-04-23,NA
+P0247,Raúl,52,,Miraflores,Ginecología,2020-01-20,1926.14
+P0248,Luis,,M,Surco,Laboratorio,2025-03-06,1527.47
+P0249,Jorge,76,NA,San Juan de Lurigancho,Laboratorio,2021-01-19,237.55
+P0250,Ana,41,M,San Isidro,Odontología,2022-01-23,0
+P0251,Pedro,68,,Lima,Odontología,2022-12-26,
+P0252,Fernando,72,F,San Miguel,Emergencia,2023-03-29,
+P0253,Fernando,79,F,Comas,Ginecología,2023-01-31,
+P0254,Patricia,76,,Comas,Odontología,2023-04-23,
+P0255,Pedro,82,M,Miraflores,Ginecología,2024-12-04,0
+P0256,Fernando,42,NA,Villa El Salvador,Consulta General,2025-04-11,0
+P0257,Pedro,22,,Miraflores,Consulta General,2024-04-06,323.93
+P0258,Lucía,14,,San Juan de Lurigancho,Odontología,2021-04-12,0
+P0259,Raúl,61,NA,Surco,Odontología,2022-09-24,
+P0260,Patricia,47,F,Comas,Consulta General,2020-09-28,
+P0261,Elena,38,M,Miraflores,Traumatología,2022-04-26,0
+P0262,Luis,40,F,Villa El Salvador,Emergencia,2022-10-09,1955.67
+P0263,María,,M,Villa El Salvador,Traumatología,2020-07-11,NA
+P0264,Raúl,64,,San Miguel,Cardiología,2024-05-12,0
+P0265,Elena,75,,Callao,Pediatría,2024-05-18,1756.65
+P0266,María,88,M,San Juan de Lurigancho,Ginecología,2021-01-22,0
+P0267,Patricia,46,,Villa El Salvador,Consulta General,2023-06-13,NA
+P0268,Fernando,39,,Surco,Odontología,2025-10-30,1519.92
+P0269,Rosa,43,F,San Juan de Lurigancho,Cardiología,2024-09-18,NA
+P0270,María,,,Comas,Cardiología,2025-12-01,NA
+P0271,Elena,28,,Villa El Salvador,Emergencia,2024-03-20,
+P0272,Carlos,1,M,Villa El Salvador,Ginecología,2020-04-26,376.22
+P0273,Rosa,32,NA,Los Olivos,Cardiología,2022-09-22,
+P0274,Lucía,33,,Callao,Emergencia,2023-04-19,
+P0275,Lucía,21,NA,San Isidro,Traumatología,2020-06-18,0
+P0276,Pedro,29,NA,Surco,Ginecología,2023-02-24,NA
+P0277,Luis,58,,Lima,Consulta General,2022-03-07,1435.92
+P0278,Lucía,18,,Comas,Odontología,2022-07-02,
+P0279,Rosa,89,,Comas,Consulta General,2024-04-04,NA
+P0280,Elena,81,NA,Callao,Consulta General,2021-09-16,NA
+P0281,Raúl,24,F,San Isidro,Odontología,2025-11-17,0
+P0282,Elena,64,F,Surco,Consulta General,2025-01-12,
+P0283,Jorge,51,,Miraflores,Traumatología,2024-09-23,NA
+P0284,Luis,32,,San Miguel,Odontología,2021-10-15,NA
+P0285,Pedro,4,M,Villa El Salvador,Odontología,2020-03-07,0
+P0286,Patricia,70,F,Comas,Consulta General,2022-04-26,
+P0287,Luis,34,NA,San Isidro,Ginecología,2023-09-20,
+P0288,Luis,,,San Isidro,Laboratorio,2023-04-09,
+P0289,Jorge,25,M,San Miguel,Traumatología,2021-11-29,
+P0290,Jorge,79,,Callao,Laboratorio,2024-05-18,825.28
+P0291,Lucía,77,M,Lima,Ginecología,2021-11-09,
+P0292,Pedro,78,,Callao,Ginecología,2021-03-13,
+P0293,Raúl,7,,San Miguel,Odontología,2024-07-26,0
+P0294,Rosa,78,M,Miraflores,Emergencia,2025-02-17,1056.46
+P0295,Jorge,10,,Surco,Laboratorio,2024-01-03,0
+P0296,Elena,61,M,Comas,Pediatría,2025-06-19,
+P0297,Fernando,77,,Miraflores,Cardiología,2023-04-20,
+P0298,Ana,19,,San Juan de Lurigancho,Cardiología,2020-01-02,731.06
+P0299,Elena,1,,Comas,Cardiología,2023-07-25,0
+P0300,Elena,61,NA,San Miguel,Pediatría,2023-06-07,0
+P0301,María,49,F,San Juan de Lurigancho,Pediatría,2023-06-10,
+P0302,María,66,,Los Olivos,Traumatología,2023-09-02,1917.54
+P0303,Raúl,32,M,Callao,Laboratorio,2024-12-05,942.25
+P0304,Lucía,84,,Surco,Pediatría,2022-05-25,NA
+P0305,Patricia,18,F,Comas,Odontología,2022-12-15,
+P0306,Rosa,71,,San Juan de Lurigancho,Ginecología,2024-06-26,0
+P0307,Carlos,39,NA,Villa El Salvador,Consulta General,2023-03-30,NA
+P0308,Raúl,22,,San Juan de Lurigancho,Cardiología,2025-12-18,0
+P0309,Lucía,51,F,Villa El Salvador,Traumatología,2025-11-22,0
+P0310,Carlos,73,M,Callao,Ginecología,2024-02-16,
+P0311,Elena,53,NA,Surco,Cardiología,2024-01-05,
+P0312,Luis,39,NA,San Juan de Lurigancho,Odontología,2022-10-19,
+P0313,Rosa,69,,Los Olivos,Pediatría,2024-05-13,1817.81
+P0314,María,82,M,Miraflores,Emergencia,2023-07-09,NA
+P0315,Ana,14,,Surco,Cardiología,2022-03-23,0
+P0316,Rosa,33,NA,Lima,Traumatología,2024-07-18,895.84
+P0317,Ana,15,F,Villa El Salvador,Traumatología,2024-05-23,
+P0318,Jorge,2,,Callao,Traumatología,2023-03-03,
+P0319,Elena,56,,Miraflores,Cardiología,2023-07-17,
+P0320,Rosa,64,,San Juan de Lurigancho,Traumatología,2021-01-03,1751.97
+P0321,Elena,75,,Lima,Ginecología,2024-10-03,0
+P0322,Patricia,50,F,Comas,Pediatría,2022-04-01,
+P0323,Elena,43,,Miraflores,Cardiología,2020-02-11,
+P0324,Jorge,51,F,Callao,Emergencia,2023-07-25,
+P0325,Ana,15,,Callao,Cardiología,2024-05-18,0
+P0326,Lucía,78,,San Juan de Lurigancho,Emergencia,2020-05-27,
+P0327,Ana,74,NA,Lima,Pediatría,2022-08-12,NA
+P0328,María,33,M,Villa El Salvador,Traumatología,2024-11-22,1419.33
+P0329,Jorge,54,NA,San Juan de Lurigancho,Consulta General,2023-09-25,193.74
+P0330,María,34,M,Miraflores,Ginecología,2025-02-18,0
+P0331,Ana,64,NA,San Juan de Lurigancho,Ginecología,2022-05-29,0
+P0332,Jorge,16,M,Callao,Pediatría,2024-05-30,1401.12
+P0333,María,61,M,Los Olivos,Odontología,2024-06-21,1109.08
+P0334,Jorge,63,,Callao,Pediatría,2024-02-05,NA
+P0335,Fernando,8,,Villa El Salvador,Traumatología,2023-09-22,255.85
+P0336,María,80,,Comas,Emergencia,2020-01-16,554.89
+P0337,Elena,75,F,Lima,Pediatría,2020-05-26,140.01
+P0338,Fernando,71,F,San Isidro,Laboratorio,2024-03-09,1628.99
+P0339,Pedro,42,F,Surco,Consulta General,2025-07-12,0
+P0340,Lucía,48,NA,San Juan de Lurigancho,Ginecología,2021-03-10,
+P0341,Elena,57,NA,Los Olivos,Traumatología,2021-12-31,NA
+P0342,Luis,25,F,Callao,Ginecología,2023-04-28,
+P0343,Lucía,89,,Comas,Emergencia,2023-02-18,1116.07
+P0344,Pedro,81,,San Isidro,Pediatría,2025-06-16,374.08
+P0345,Luis,52,NA,San Isidro,Cardiología,2021-11-04,0
+P0346,Pedro,21,M,Comas,Pediatría,2022-05-27,NA
+P0347,Fernando,68,M,Villa El Salvador,Consulta General,2022-06-27,1432.31
+P0348,Rosa,57,,Callao,Ginecología,2024-03-09,NA
+P0349,Rosa,51,NA,Miraflores,Traumatología,2023-01-30,
+P0350,Luis,28,M,Villa El Salvador,Traumatología,2024-10-12,225.36
+P0351,Pedro,NA,M,Miraflores,Laboratorio,2020-05-16,1822.19
+P0352,Luis,12,NA,Miraflores,Pediatría,2022-11-15,429.27
+P0353,Fernando,13,NA,Villa El Salvador,Pediatría,2025-07-23,NA
+P0354,Pedro,12,F,Los Olivos,Consulta General,2025-08-25,
+P0355,Fernando,44,F,San Isidro,Laboratorio,2025-10-12,0
+P0356,Pedro,11,M,Los Olivos,Laboratorio,2022-02-13,0
+P0357,Fernando,83,NA,Callao,Traumatología,2025-03-30,
+P0358,Lucía,27,,Comas,Laboratorio,2020-02-17,
+P0359,Carlos,84,,Surco,Traumatología,2022-12-04,NA
+P0360,Lucía,33,F,Comas,Cardiología,2025-08-16,
+P0361,Pedro,18,M,San Juan de Lurigancho,Consulta General,2022-12-15,0
+P0362,Fernando,57,,Comas,Pediatría,2021-06-03,1786.2
+P0363,Pedro,63,F,San Isidro,Cardiología,2024-08-22,736.0
+P0364,María,58,,Lima,Emergencia,2022-01-09,
+P0365,Elena,68,,Callao,Ginecología,2021-08-12,0
+P0366,Rosa,9,NA,San Isidro,Traumatología,2022-03-28,
+P0367,Raúl,56,F,San Miguel,Cardiología,2023-02-18,0
+P0368,Pedro,23,F,Los Olivos,Pediatría,2020-05-21,NA
+P0369,Elena,87,M,San Miguel,Traumatología,2024-06-24,
+P0370,Lucía,18,F,Villa El Salvador,Emergencia,2022-03-09,
+P0371,Luis,,,Lima,Traumatología,2020-05-13,
+P0372,Pedro,33,M,Miraflores,Pediatría,2022-04-01,
+P0373,Rosa,43,F,Los Olivos,Traumatología,2023-07-19,NA
+P0374,Ana,65,M,Comas,Odontología,2020-02-07,0
+P0375,Raúl,45,,Comas,Emergencia,2025-05-15,185.59
+P0376,Fernando,50,NA,Comas,Traumatología,2022-10-29,0
+P0377,Fernando,72,F,Comas,Laboratorio,2020-02-19,0
+P0378,Ana,43,F,San Miguel,Traumatología,2021-07-19,829.98
+P0379,Ana,46,F,Surco,Emergencia,2020-07-03,
+P0380,María,83,,Villa El Salvador,Laboratorio,2025-01-14,
+P0381,Ana,36,F,San Miguel,Odontología,2025-04-29,
+P0382,Fernando,84,M,San Miguel,Pediatría,2024-10-23,
+P0383,Carlos,65,M,Surco,Traumatología,2020-04-19,NA
+P0384,Patricia,19,,Comas,Traumatología,2024-08-09,
+P0385,Carlos,87,M,Los Olivos,Ginecología,2022-08-05,NA
+P0386,Pedro,83,F,Comas,Ginecología,2025-02-21,NA
+P0387,Pedro,21,NA,Miraflores,Ginecología,2024-06-26,
+P0388,Lucía,11,,San Juan de Lurigancho,Consulta General,2021-06-09,1815.1
+P0389,Pedro,51,M,Surco,Laboratorio,2020-09-18,
+P0390,Ana,33,,Surco,Pediatría,2023-02-20,1706.6
+P0391,Patricia,55,,Surco,Emergencia,2020-09-17,
+P0392,Raúl,56,F,Villa El Salvador,Laboratorio,2022-09-27,0
+P0393,Rosa,9,,San Miguel,Cardiología,2025-10-12,165.85
+P0394,Elena,88,,Surco,Ginecología,2025-09-16,
+P0395,Ana,5,,Miraflores,Cardiología,2020-08-12,NA
+P0396,Elena,85,F,Miraflores,Laboratorio,2021-02-24,0
+P0397,Carlos,26,,Lima,Laboratorio,2023-09-29,
+P0398,Patricia,20,F,Comas,Ginecología,2022-11-17,0
+P0399,Pedro,69,NA,Miraflores,Traumatología,2024-10-14,849.13
+P0400,Raúl,39,F,Comas,Odontología,2024-07-25,0
+P0401,Elena,32,,Villa El Salvador,Cardiología,2020-12-12,1333.46
+P0402,Luis,64,,San Juan de Lurigancho,Traumatología,2022-05-07,527.51
+P0403,Luis,81,F,Comas,Pediatría,2020-03-28,1867.81
+P0404,Jorge,43,F,Callao,Traumatología,2020-03-24,
+P0405,Raúl,15,F,Callao,Emergencia,2023-01-09,1851.68
+P0406,Lucía,66,F,Miraflores,Odontología,2023-12-11,
+P0407,Rosa,9,,San Isidro,Odontología,2025-12-31,NA
+P0408,Jorge,69,M,Surco,Laboratorio,2025-10-12,1292.91
+P0409,Lucía,2,M,San Juan de Lurigancho,Pediatría,2020-08-10,
+P0410,Elena,17,,San Miguel,Pediatría,2025-11-18,
+P0411,Carlos,14,M,Villa El Salvador,Pediatría,2024-02-08,
+P0412,Patricia,59,,San Juan de Lurigancho,Cardiología,2020-02-25,790.5
+P0413,Lucía,84,M,Callao,Laboratorio,2025-05-17,1945.16
+P0414,Jorge,16,,Miraflores,Traumatología,2025-04-10,NA
+P0415,Fernando,69,M,Los Olivos,Consulta General,2021-11-22,
+P0416,Raúl,37,,Miraflores,Odontología,2021-11-26,389.05
+P0417,Jorge,6,M,Los Olivos,Traumatología,2021-05-01,1726.8
+P0418,Fernando,81,,Lima,Consulta General,2020-06-23,NA
+P0419,Elena,24,NA,Miraflores,Odontología,2024-04-04,
+P0420,Elena,68,,Comas,Pediatría,2022-10-01,
+P0421,Jorge,16,M,San Miguel,Laboratorio,2023-05-24,NA
+P0422,Raúl,44,M,Villa El Salvador,Pediatría,2024-02-16,
+P0423,Pedro,3,,Miraflores,Laboratorio,2021-01-29,
+P0424,Carlos,16,,Los Olivos,Cardiología,2024-09-29,
+P0425,Pedro,71,F,Lima,Pediatría,2021-06-17,NA
+P0426,Pedro,90,,Callao,Emergencia,2020-09-16,0
+P0427,María,83,,San Juan de Lurigancho,Cardiología,2022-01-29,94.03
+P0428,Carlos,12,,San Miguel,Consulta General,2024-11-02,NA
+P0429,Rosa,33,NA,Callao,Cardiología,2025-02-15,1394.36
+P0430,Pedro,49,M,Surco,Odontología,2023-05-11,0
+P0431,Fernando,9,,San Miguel,Odontología,2020-01-12,1416.41
+P0432,Rosa,35,M,Surco,Odontología,2022-12-05,476.56
+P0433,María,58,NA,Comas,Emergencia,2024-01-22,
+P0434,Fernando,46,,San Juan de Lurigancho,Laboratorio,2025-06-25,1588.98
+P0435,Lucía,5,,Lima,Pediatría,2025-01-16,NA
+P0436,Elena,73,M,Lima,Consulta General,2021-05-07,0
+P0437,Rosa,34,,San Juan de Lurigancho,Cardiología,2025-12-14,1955.23
+P0438,Carlos,44,,Comas,Odontología,2020-11-03,
+P0439,Pedro,72,,San Isidro,Laboratorio,2022-08-31,
+P0440,Raúl,82,NA,San Miguel,Consulta General,2025-08-03,
+P0441,Jorge,89,,San Miguel,Cardiología,2020-05-18,0
+P0442,Raúl,61,NA,San Isidro,Traumatología,2022-12-20,NA
+P0443,Carlos,11,NA,Callao,Odontología,2020-09-28,NA
+P0444,Jorge,NA,NA,San Isidro,Odontología,2023-09-18,1064.07
+P0445,Rosa,54,NA,San Juan de Lurigancho,Odontología,2024-04-09,NA
+P0446,Pedro,49,,Los Olivos,Traumatología,2025-10-06,
+P0447,Fernando,75,F,San Miguel,Emergencia,2023-06-24,472.3
+P0448,Fernando,48,NA,Callao,Cardiología,2022-06-01,0
+P0449,Patricia,8,F,San Miguel,Odontología,2020-03-01,
+P0450,Ana,32,NA,Callao,Emergencia,2023-12-26,NA
+P0451,María,17,F,Miraflores,Consulta General,2023-02-08,
+P0452,Lucía,47,NA,Callao,Consulta General,2020-10-22,597.79
+P0453,Raúl,88,,San Isidro,Emergencia,2023-03-08,1081.47
+P0454,Ana,30,,Comas,Traumatología,2022-05-24,0
+P0455,Jorge,52,F,Los Olivos,Consulta General,2023-04-05,1409.31
+P0456,Ana,74,,Comas,Emergencia,2020-04-04,
+P0457,Jorge,,,Callao,Traumatología,2022-09-13,1255.99
+P0458,Raúl,18,F,Comas,Pediatría,2021-06-01,0
+P0459,María,76,M,Callao,Emergencia,2021-03-02,
+P0460,Rosa,25,F,Lima,Laboratorio,2025-07-02,0
+P0461,Ana,12,M,Villa El Salvador,Cardiología,2022-10-05,1004.17
+P0462,Patricia,33,NA,Comas,Ginecología,2024-04-10,
+P0463,Luis,19,,San Juan de Lurigancho,Odontología,2024-08-26,0
+P0464,Pedro,85,M,Callao,Traumatología,2023-01-03,659.35
+P0465,Luis,59,M,San Juan de Lurigancho,Ginecología,2023-11-30,
+P0466,María,6,NA,Villa El Salvador,Emergencia,2024-07-04,
+P0467,Carlos,66,F,Comas,Ginecología,2022-11-05,NA
+P0468,Ana,70,NA,Los Olivos,Odontología,2025-01-17,1518.03
+P0469,María,55,NA,San Isidro,Ginecología,2023-08-18,
+P0470,Lucía,85,,Callao,Laboratorio,2023-03-25,NA
+P0471,Patricia,17,NA,Callao,Consulta General,2025-11-15,66.5
+P0472,Rosa,65,F,San Miguel,Emergencia,2020-06-18,1924.92
+P0473,Raúl,52,NA,Villa El Salvador,Odontología,2020-02-15,205.13
+P0474,Patricia,32,M,San Juan de Lurigancho,Traumatología,2021-09-16,
+P0475,María,1,,San Isidro,Pediatría,2025-02-16,0
+P0476,Elena,87,,San Juan de Lurigancho,Ginecología,2021-02-10,1481.5
+P0477,Lucía,85,,Miraflores,Ginecología,2022-12-26,NA
+P0478,Elena,33,,Surco,Consulta General,2024-12-08,
+P0479,María,56,,Lima,Consulta General,2023-11-02,
+P0480,Elena,60,,Surco,Odontología,2024-11-19,
+P0481,Carlos,20,,San Juan de Lurigancho,Pediatría,2023-12-02,1485.62
+P0482,Elena,55,,San Juan de Lurigancho,Ginecología,2025-06-10,1404.29
+P0483,Elena,27,M,San Miguel,Cardiología,2022-08-26,NA
+P0484,Fernando,57,,San Juan de Lurigancho,Consulta General,2021-08-04,
+P0485,Rosa,2,M,Surco,Laboratorio,2024-12-31,NA
+P0486,Jorge,20,,San Miguel,Pediatría,2024-08-23,NA
+P0487,Patricia,33,,San Juan de Lurigancho,Consulta General,2020-12-19,NA
+P0488,María,46,M,Comas,Cardiología,2021-06-27,NA
+P0489,Pedro,NA,F,Los Olivos,Cardiología,2020-08-25,
+P0490,Elena,56,,Miraflores,Cardiología,2022-05-04,157.81
+P0491,María,85,NA,Callao,Cardiología,2022-08-29,0
+P0492,Fernando,89,F,Los Olivos,Consulta General,2023-04-28,
+P0493,Pedro,32,,San Miguel,Pediatría,2021-01-05,NA
+P0494,Fernando,65,,San Isidro,Traumatología,2023-04-18,
+P0495,Pedro,8,NA,Lima,Traumatología,2020-02-28,1950.34
+P0496,Raúl,31,NA,San Isidro,Odontología,2025-07-03,1686.72
+P0497,Ana,73,M,Surco,Cardiología,2023-03-10,0
+P0498,Rosa,89,,Surco,Laboratorio,2025-03-10,
+P0499,Elena,27,M,San Miguel,Traumatología,2022-11-04,NA
+P0500,Ana,,NA,Miraflores,Odontología,2023-05-07,0
+P0501,Elena,6,,Miraflores,Pediatría,2023-12-16,1418.99
+P0502,Jorge,32,,Surco,Pediatría,2023-10-04,
+P0503,Luis,78,F,Comas,Emergencia,2022-05-14,NA
+P0504,Lucía,70,,Villa El Salvador,Traumatología,2020-04-17,0
+P0505,Luis,86,NA,Surco,Traumatología,2022-07-30,1646.63
+P0506,Patricia,86,,Lima,Emergencia,2025-10-12,NA
+P0507,Lucía,72,NA,San Juan de Lurigancho,Emergencia,2020-05-19,NA
+P0508,Raúl,,NA,Miraflores,Cardiología,2024-08-11,70.49
+P0509,Fernando,68,,San Miguel,Odontología,2024-01-25,0
+P0510,Ana,9,,Miraflores,Traumatología,2025-07-28,NA
+P0511,Rosa,39,,San Isidro,Cardiología,2020-09-05,NA
+P0512,Jorge,17,,Surco,Laboratorio,2021-12-12,484.16
+P0513,Carlos,NA,NA,San Juan de Lurigancho,Ginecología,2020-11-28,
+P0514,Rosa,52,NA,Los Olivos,Consulta General,2025-09-16,0
+P0515,Lucía,13,NA,Miraflores,Pediatría,2022-07-21,
+P0516,Lucía,43,M,Los Olivos,Odontología,2024-03-10,
+P0517,Jorge,52,NA,Surco,Cardiología,2020-04-30,
+P0518,María,23,M,Lima,Ginecología,2023-03-04,NA
+P0519,Rosa,75,,San Miguel,Traumatología,2020-12-09,
+P0520,Lucía,42,M,San Juan de Lurigancho,Consulta General,2024-12-20,154.95
+P0521,Raúl,2,,Villa El Salvador,Consulta General,2022-07-11,NA
+P0522,Elena,12,,Los Olivos,Odontología,2021-06-26,920.44
+P0523,María,62,,Villa El Salvador,Pediatría,2025-08-14,NA
+P0524,Fernando,40,,Los Olivos,Ginecología,2023-08-17,0
+P0525,Raúl,79,F,Los Olivos,Consulta General,2024-10-25,
+P0526,Carlos,19,M,Villa El Salvador,Consulta General,2023-11-25,NA
+P0527,Carlos,37,,Callao,Pediatría,2021-01-24,
+P0528,Jorge,30,M,Villa El Salvador,Emergencia,2024-10-07,
+P0529,Patricia,70,F,San Miguel,Consulta General,2022-01-31,
+P0530,María,77,,Lima,Consulta General,2021-04-20,
+P0531,Elena,64,F,Surco,Pediatría,2020-04-29,0
+P0532,Rosa,62,F,Los Olivos,Pediatría,2025-04-21,
+P0533,Pedro,70,M,San Juan de Lurigancho,Emergencia,2021-05-31,
+P0534,Ana,38,,Villa El Salvador,Cardiología,2025-05-19,0
+P0535,Fernando,55,NA,Los Olivos,Consulta General,2025-09-02,
+P0536,Patricia,73,M,Comas,Laboratorio,2023-05-08,NA
+P0537,Carlos,51,M,Comas,Ginecología,2022-11-04,NA
+P0538,Pedro,20,,San Juan de Lurigancho,Cardiología,2021-11-13,1023.42
+P0539,Elena,50,NA,Callao,Emergencia,2022-03-22,
+P0540,Fernando,69,NA,Surco,Cardiología,2022-04-17,NA
+P0541,Lucía,88,M,Miraflores,Emergencia,2023-07-08,NA
+P0542,Raúl,14,F,Surco,Consulta General,2021-02-14,
+P0543,Luis,73,,Callao,Cardiología,2025-11-23,1843.3
+P0544,Lucía,85,M,Miraflores,Cardiología,2023-10-09,505.99
+P0545,Jorge,12,,Surco,Odontología,2023-10-26,1446.69
+P0546,Carlos,82,M,Los Olivos,Ginecología,2025-03-19,NA
+P0547,Elena,46,F,San Miguel,Pediatría,2021-02-18,1561.45
+P0548,Luis,85,,San Miguel,Traumatología,2020-12-11,NA
+P0549,Ana,21,F,San Juan de Lurigancho,Ginecología,2023-08-01,NA
+P0550,Raúl,13,,San Juan de Lurigancho,Emergencia,2023-01-06,0
+P0551,Rosa,81,NA,Callao,Laboratorio,2021-04-18,0
+P0552,Lucía,1,F,Villa El Salvador,Emergencia,2023-01-08,0
+P0553,Fernando,78,M,Miraflores,Traumatología,2023-04-10,1582.09
+P0554,Pedro,46,NA,Callao,Pediatría,2023-02-10,253.24
+P0555,Lucía,40,,Lima,Traumatología,2024-08-09,
+P0556,María,52,,Villa El Salvador,Traumatología,2020-06-05,NA
+P0557,Rosa,55,,San Juan de Lurigancho,Traumatología,2022-09-18,
+P0558,Carlos,56,,Surco,Laboratorio,2021-09-24,
+P0559,Pedro,59,NA,San Isidro,Ginecología,2024-05-15,1485.44
+P0560,Elena,2,NA,Lima,Pediatría,2022-05-16,1075.5
+P0561,Carlos,68,,Surco,Odontología,2021-06-14,
+P0562,Raúl,29,F,Callao,Odontología,2022-05-27,NA
+P0563,Lucía,64,,Lima,Laboratorio,2025-04-22,NA
+P0564,Patricia,54,M,Comas,Ginecología,2021-12-27,0
+P0565,Ana,80,NA,San Isidro,Laboratorio,2025-11-03,0
+P0566,Elena,1,NA,San Isidro,Ginecología,2022-07-07,NA
+P0567,María,21,,San Juan de Lurigancho,Odontología,2021-01-13,NA
+P0568,Raúl,39,NA,Villa El Salvador,Consulta General,2020-10-02,
+P0569,Carlos,6,,Miraflores,Pediatría,2021-05-25,NA
+P0570,Ana,39,,Miraflores,Traumatología,2021-11-04,
+P0571,Rosa,8,NA,Callao,Traumatología,2021-03-01,0
+P0572,Jorge,57,NA,Miraflores,Cardiología,2023-12-16,1952.72
+P0573,Elena,34,NA,Los Olivos,Consulta General,2024-10-26,0
+P0574,Luis,51,,Lima,Emergencia,2021-09-26,
+P0575,Fernando,58,M,Los Olivos,Ginecología,2025-12-16,
+P0576,Jorge,43,,Surco,Consulta General,2024-11-05,
+P0577,Ana,,F,Lima,Laboratorio,2021-07-14,
+P0578,Raúl,17,,Miraflores,Laboratorio,2024-09-16,0
+P0579,Carlos,80,F,San Miguel,Ginecología,2025-01-14,1434.27
+P0580,Luis,87,M,San Isidro,Odontología,2023-02-04,
+P0581,Fernando,47,,Lima,Odontología,2024-10-20,0
+P0582,Lucía,74,NA,Surco,Emergencia,2023-01-27,1314.0
+P0583,Lucía,81,F,Surco,Pediatría,2023-06-28,0
+P0584,María,53,M,Surco,Laboratorio,2023-02-23,0
+P0585,Fernando,36,M,Surco,Ginecología,2021-10-14,
+P0586,Patricia,33,NA,Villa El Salvador,Ginecología,2024-11-26,
+P0587,Fernando,14,,Callao,Consulta General,2021-08-16,NA
+P0588,Patricia,70,M,San Juan de Lurigancho,Traumatología,2022-12-24,0
+P0589,Patricia,1,NA,Miraflores,Odontología,2021-01-07,0
+P0590,María,31,,San Juan de Lurigancho,Ginecología,2023-09-26,1967.78
+P0591,María,25,F,Callao,Odontología,2020-10-07,
+P0592,Ana,82,NA,San Isidro,Emergencia,2020-01-26,0
+P0593,Carlos,34,M,Comas,Traumatología,2021-04-02,0
+P0594,Patricia,56,NA,San Isidro,Emergencia,2024-06-09,0
+P0595,Carlos,52,,San Juan de Lurigancho,Cardiología,2023-07-08,0
+P0596,Patricia,28,F,Villa El Salvador,Odontología,2022-11-22,NA
+P0597,Luis,NA,F,Surco,Odontología,2021-09-27,
+P0598,Fernando,29,F,Surco,Consulta General,2024-06-29,NA
+P0599,Elena,18,,Lima,Pediatría,2020-05-21,NA
+P0600,Luis,37,NA,Comas,Pediatría,2023-07-20,
+P0601,Jorge,78,F,Callao,Pediatría,2024-01-24,
+P0602,Luis,90,F,Comas,Cardiología,2023-07-24,0
+P0603,Fernando,18,,Comas,Laboratorio,2022-09-17,NA
+P0604,Fernando,22,,Comas,Laboratorio,2021-02-01,NA
+P0605,Ana,76,,Lima,Odontología,2022-11-06,0
+P0606,Luis,52,NA,San Isidro,Laboratorio,2020-10-30,1865.63
+P0607,Carlos,41,,Los Olivos,Pediatría,2022-09-29,NA
+P0608,Raúl,9,,Los Olivos,Laboratorio,2024-01-03,1337.6
+P0609,Carlos,7,,Surco,Odontología,2020-07-05,NA
+P0610,Pedro,37,,Miraflores,Ginecología,2025-05-15,
+P0611,María,61,F,San Miguel,Ginecología,2023-10-19,0
+P0612,Rosa,2,,Surco,Ginecología,2021-09-17,
+P0613,Patricia,2,,San Isidro,Ginecología,2024-02-23,1303.67
+P0614,Carlos,53,M,San Isidro,Emergencia,2024-12-23,1600.66
+P0615,Raúl,22,F,San Miguel,Laboratorio,2025-06-01,0
+P0616,Raúl,34,M,Lima,Laboratorio,2025-09-04,0
+P0617,María,16,F,San Miguel,Consulta General,2022-11-03,
+P0618,Jorge,41,,Comas,Pediatría,2025-05-01,
+P0619,Pedro,1,,Comas,Emergencia,2023-10-10,1119.57
+P0620,Fernando,80,M,Lima,Ginecología,2021-04-07,
+P0621,Ana,43,NA,Surco,Traumatología,2020-09-06,0
+P0622,Ana,68,M,Villa El Salvador,Emergencia,2023-12-07,
+P0623,Pedro,72,,San Miguel,Consulta General,2020-10-28,
+P0624,Ana,17,M,Los Olivos,Ginecología,2022-01-20,NA
+P0625,Luis,49,,San Isidro,Ginecología,2023-03-31,NA
+P0626,Carlos,61,M,Miraflores,Laboratorio,2023-11-02,
+P0627,Fernando,50,NA,Comas,Cardiología,2023-02-04,0
+P0628,Carlos,5,,Surco,Odontología,2024-02-04,1269.18
+P0629,María,8,M,Comas,Traumatología,2022-09-24,
+P0630,Ana,50,,San Isidro,Cardiología,2023-06-16,
+P0631,Elena,88,,Surco,Odontología,2025-04-15,0
+P0632,Ana,82,,Callao,Consulta General,2023-04-25,NA
+P0633,Luis,60,,Lima,Cardiología,2024-05-07,0
+P0634,Carlos,77,F,San Miguel,Pediatría,2023-09-13,NA
+P0635,Ana,71,,Villa El Salvador,Pediatría,2024-09-04,
+P0636,Rosa,3,NA,Callao,Traumatología,2024-09-15,NA
+P0637,Carlos,62,,Surco,Laboratorio,2023-12-12,
+P0638,Rosa,23,,Comas,Odontología,2022-04-15,
+P0639,Elena,74,,Villa El Salvador,Odontología,2021-09-26,
+P0640,Elena,5,,Miraflores,Emergencia,2024-09-11,
+P0641,Elena,74,F,San Miguel,Laboratorio,2022-06-20,1025.35
+P0642,Carlos,33,M,Los Olivos,Laboratorio,2023-05-11,
+P0643,Carlos,2,,San Miguel,Laboratorio,2023-11-16,1280.55
+P0644,Patricia,63,NA,Callao,Cardiología,2023-07-07,0
+P0645,Luis,40,,Callao,Ginecología,2025-05-01,NA
+P0646,Rosa,62,NA,Surco,Laboratorio,2024-07-17,
+P0647,Raúl,NA,F,Comas,Emergencia,2020-08-18,1099.14
+P0648,Elena,81,,Lima,Laboratorio,2021-05-10,
+P0649,Ana,66,M,Surco,Consulta General,2023-08-25,
+P0650,Carlos,77,,Callao,Emergencia,2024-06-09,1170.1
+P0651,Raúl,51,,Comas,Consulta General,2020-04-04,236.35
+P0652,Pedro,48,NA,Miraflores,Consulta General,2020-05-11,NA
+P0653,Patricia,66,,San Miguel,Traumatología,2024-11-17,NA
+P0654,Carlos,9,NA,Los Olivos,Pediatría,2024-07-26,NA
+P0655,Raúl,45,,San Isidro,Odontología,2023-01-27,NA
+P0656,Luis,56,,Callao,Emergencia,2022-09-08,NA
+P0657,Fernando,87,,Los Olivos,Consulta General,2024-11-13,0
+P0658,Carlos,72,F,Lima,Odontología,2024-02-19,NA
+P0659,Elena,18,F,San Juan de Lurigancho,Consulta General,2020-05-22,NA
+P0660,Jorge,68,M,San Juan de Lurigancho,Ginecología,2021-09-29,72.83
+P0661,Lucía,4,M,Los Olivos,Laboratorio,2021-08-16,365.01
+P0662,Rosa,9,,Comas,Ginecología,2022-09-04,1850.81
+P0663,Pedro,89,,Surco,Odontología,2023-04-18,
+P0664,Carlos,55,,San Juan de Lurigancho,Pediatría,2023-11-15,
+P0665,Elena,NA,F,Callao,Pediatría,2024-01-10,
+P0666,Patricia,10,M,Surco,Cardiología,2021-07-15,NA
+P0667,Pedro,55,F,San Juan de Lurigancho,Odontología,2025-02-03,
+P0668,Patricia,39,F,Comas,Traumatología,2024-04-16,1883.11
+P0669,Carlos,31,M,Villa El Salvador,Ginecología,2021-07-24,148.98
+P0670,Jorge,39,,Miraflores,Laboratorio,2024-06-17,
+P0671,María,58,NA,Surco,Cardiología,2020-03-11,
+P0672,Rosa,25,NA,San Miguel,Pediatría,2025-08-22,
+P0673,Rosa,82,NA,San Miguel,Emergencia,2025-07-16,
+P0674,Raúl,29,,Lima,Consulta General,2021-09-23,1345.04
+P0675,Ana,1,M,San Juan de Lurigancho,Consulta General,2024-02-12,NA
+P0676,Ana,27,,San Juan de Lurigancho,Laboratorio,2025-10-27,1557.37
+P0677,Carlos,34,,Lima,Odontología,2023-11-16,0
+P0678,Raúl,85,,Comas,Pediatría,2021-04-17,
+P0679,Fernando,69,,Comas,Consulta General,2020-10-27,0
+P0680,Rosa,15,NA,Los Olivos,Traumatología,2020-11-27,
+P0681,Elena,23,,Miraflores,Pediatría,2022-12-19,
+P0682,Carlos,23,,Lima,Traumatología,2022-05-18,0
+P0683,Carlos,56,,Surco,Consulta General,2023-11-23,0
+P0684,Lucía,18,,Villa El Salvador,Cardiología,2021-03-14,
+P0685,Luis,62,,Surco,Ginecología,2022-02-26,
+P0686,María,10,,San Isidro,Odontología,2022-06-17,0
+P0687,Fernando,11,M,San Juan de Lurigancho,Consulta General,2022-05-26,NA
+P0688,Luis,44,,Surco,Ginecología,2022-03-04,
+P0689,Raúl,4,NA,Villa El Salvador,Cardiología,2024-07-16,
+P0690,Raúl,35,,Los Olivos,Laboratorio,2023-08-24,0
+P0691,Carlos,51,M,San Isidro,Laboratorio,2020-10-20,0
+P0692,Pedro,4,,Miraflores,Odontología,2024-04-14,1809.3
+P0693,Raúl,78,,San Miguel,Consulta General,2020-07-19,126.57
+P0694,Patricia,74,F,Comas,Consulta General,2020-05-23,
+P0695,Carlos,79,F,San Juan de Lurigancho,Odontología,2020-12-10,NA
+P0696,Rosa,23,M,Lima,Pediatría,2020-07-18,0
+P0697,Luis,1,,Comas,Odontología,2023-05-02,0
+P0698,Elena,36,,Lima,Laboratorio,2023-06-06,0
+P0699,Fernando,76,NA,San Isidro,Consulta General,2023-04-28,0
+P0700,Jorge,23,,Villa El Salvador,Odontología,2021-11-27,
+P0701,Pedro,47,M,San Miguel,Traumatología,2021-08-07,
+P0702,Fernando,6,,Comas,Pediatría,2021-08-15,0
+P0703,Ana,33,F,Lima,Odontología,2022-12-19,
+P0704,Rosa,47,,San Miguel,Odontología,2022-12-24,
+P0705,Luis,29,NA,Lima,Odontología,2020-03-15,
+P0706,Fernando,81,M,Lima,Odontología,2023-06-11,
+P0707,Raúl,56,F,Villa El Salvador,Emergencia,2025-07-12,
+P0708,Raúl,13,NA,Lima,Odontología,2022-12-11,
+P0709,Rosa,9,NA,Comas,Laboratorio,2024-09-06,
+P0710,Elena,71,F,San Miguel,Emergencia,2024-05-15,0
+P0711,Jorge,68,,San Isidro,Emergencia,2023-01-04,1243.36
+P0712,Luis,34,,Los Olivos,Emergencia,2023-06-07,
+P0713,María,66,,San Isidro,Laboratorio,2021-05-27,
+P0714,Rosa,72,,San Juan de Lurigancho,Pediatría,2020-11-02,
+P0715,Carlos,29,NA,Comas,Odontología,2024-01-07,1451.19
+P0716,Carlos,33,F,San Isidro,Cardiología,2023-08-12,NA
+P0717,Carlos,61,M,Miraflores,Cardiología,2025-12-26,
+P0718,Rosa,36,NA,San Isidro,Odontología,2025-11-13,
+P0719,Ana,45,M,San Miguel,Cardiología,2022-01-25,413.38
+P0720,Patricia,57,NA,Lima,Emergencia,2025-09-10,0
+P0721,Elena,17,M,Miraflores,Consulta General,2020-06-15,1065.49
+P0722,Fernando,59,F,San Juan de Lurigancho,Pediatría,2020-11-08,
+P0723,Fernando,68,,Surco,Traumatología,2022-12-02,0
+P0724,Luis,78,NA,Comas,Pediatría,2022-11-07,0
+P0725,Fernando,57,F,Lima,Consulta General,2025-08-23,NA
+P0726,Pedro,46,F,Surco,Ginecología,2024-06-30,
+P0727,Rosa,72,,Comas,Cardiología,2024-04-23,
+P0728,Patricia,68,NA,Los Olivos,Laboratorio,2022-01-19,
+P0729,Patricia,3,NA,Villa El Salvador,Consulta General,2022-12-03,
+P0730,Luis,28,M,Surco,Laboratorio,2025-07-17,
+P0731,Elena,55,NA,Miraflores,Odontología,2022-04-05,0
+P0732,Patricia,74,M,Comas,Odontología,2022-06-05,1965.12
+P0733,María,63,,San Miguel,Odontología,2024-09-11,
+P0734,Luis,2,M,Comas,Pediatría,2021-09-07,
+P0735,Fernando,18,,San Isidro,Laboratorio,2023-04-11,1907.44
+P0736,Fernando,82,F,San Miguel,Pediatría,2022-10-22,482.67
+P0737,Pedro,70,,Miraflores,Pediatría,2023-04-23,
+P0738,Rosa,83,,Villa El Salvador,Laboratorio,2020-04-12,
+P0739,Fernando,66,F,Villa El Salvador,Laboratorio,2022-05-15,0
+P0740,Raúl,59,M,San Isidro,Ginecología,2023-08-01,
+P0741,Lucía,81,NA,Villa El Salvador,Odontología,2025-09-15,
+P0742,María,29,M,San Miguel,Laboratorio,2022-06-20,1583.94
+P0743,Luis,17,NA,Surco,Cardiología,2025-07-08,
+P0744,Elena,85,NA,Los Olivos,Traumatología,2021-12-29,
+P0745,María,80,F,Lima,Traumatología,2020-10-28,0
+P0746,María,44,,San Juan de Lurigancho,Laboratorio,2023-08-13,996.89
+P0747,Patricia,57,F,Callao,Pediatría,2020-09-05,390.71
+P0748,Ana,27,F,Comas,Odontología,2025-11-23,
+P0749,Pedro,42,M,Lima,Consulta General,2025-10-23,0
+P0750,Fernando,32,NA,Callao,Cardiología,2023-03-14,
+P0751,Elena,76,,Callao,Traumatología,2025-08-07,
+P0752,Jorge,36,M,Villa El Salvador,Laboratorio,2021-05-07,0
+P0753,María,80,M,Lima,Laboratorio,2021-09-22,
+P0754,Luis,26,,Miraflores,Pediatría,2023-12-21,NA
+P0755,Carlos,17,M,Callao,Odontología,2020-05-10,
+P0756,Jorge,65,M,San Juan de Lurigancho,Consulta General,2024-01-20,
+P0757,Lucía,27,NA,Surco,Emergencia,2024-06-24,
+P0758,Elena,,F,Miraflores,Ginecología,2023-07-31,0
+P0759,Pedro,3,M,San Isidro,Consulta General,2021-11-25,0
+P0760,Ana,53,NA,San Miguel,Cardiología,2020-09-14,263.79
+P0761,Ana,14,F,Los Olivos,Odontología,2021-02-09,NA
+P0762,Pedro,68,,Callao,Cardiología,2024-08-28,0
+P0763,Rosa,80,F,Miraflores,Cardiología,2022-05-10,
+P0764,Jorge,4,NA,Los Olivos,Traumatología,2022-02-12,0
+P0765,Patricia,8,M,San Isidro,Ginecología,2024-10-28,
+P0766,Patricia,84,,Villa El Salvador,Pediatría,2020-12-22,1863.8
+P0767,Ana,83,,Lima,Emergencia,2023-10-03,0
+P0768,Elena,87,,Miraflores,Laboratorio,2022-04-05,NA
+P0769,Lucía,54,,Callao,Laboratorio,2022-07-30,0
+P0770,Fernando,70,NA,San Miguel,Cardiología,2025-05-12,0
+P0771,Rosa,33,M,Villa El Salvador,Ginecología,2020-12-08,0
+P0772,Raúl,45,,Villa El Salvador,Laboratorio,2022-03-16,NA
+P0773,Raúl,1,F,San Juan de Lurigancho,Ginecología,2025-12-11,
+P0774,Pedro,38,,Los Olivos,Ginecología,2021-04-06,81.52
+P0775,María,35,M,Surco,Laboratorio,2024-12-12,NA
+P0776,Elena,75,,Comas,Odontología,2020-03-19,NA
+P0777,Pedro,51,M,Callao,Odontología,2022-02-16,NA
+P0778,María,52,,Villa El Salvador,Ginecología,2021-10-19,0
+P0779,Ana,74,,Villa El Salvador,Pediatría,2020-07-11,
+P0780,Lucía,29,NA,Lima,Pediatría,2022-03-20,1117.35
+P0781,María,3,NA,Lima,Laboratorio,2021-06-28,0
+P0782,Lucía,78,,Comas,Ginecología,2021-08-08,
+P0783,Fernando,79,M,Callao,Laboratorio,2024-11-19,
+P0784,Raúl,2,NA,San Miguel,Laboratorio,2021-07-08,1269.62
+P0785,Luis,3,NA,Villa El Salvador,Consulta General,2025-05-22,
+P0786,Luis,64,M,San Miguel,Odontología,2021-02-06,
+P0787,María,40,F,Miraflores,Cardiología,2024-07-08,
+P0788,Fernando,39,M,San Isidro,Laboratorio,2023-09-24,
+P0789,Pedro,10,,Villa El Salvador,Ginecología,2023-09-06,0
+P0790,Jorge,33,,Lima,Cardiología,2020-12-18,1701.15
+P0791,María,89,NA,Villa El Salvador,Laboratorio,2024-12-25,NA
+P0792,Raúl,54,,Villa El Salvador,Pediatría,2020-12-25,
+P0793,Carlos,69,M,Lima,Laboratorio,2021-07-19,0
+P0794,Carlos,86,NA,Villa El Salvador,Laboratorio,2021-10-23,0
+P0795,Carlos,11,NA,Surco,Cardiología,2020-06-15,
+P0796,Fernando,4,NA,Villa El Salvador,Laboratorio,2025-12-03,
+P0797,Raúl,41,M,Callao,Laboratorio,2021-12-11,NA
+P0798,Rosa,50,,Surco,Pediatría,2021-09-12,NA
+P0799,Pedro,3,F,Lima,Consulta General,2021-04-08,
+P0800,Carlos,89,M,Lima,Cardiología,2025-08-07,
+P0801,Jorge,86,F,Lima,Emergencia,2025-05-16,1075.77
+P0802,Elena,52,F,San Juan de Lurigancho,Consulta General,2020-01-09,1006.01
+P0803,Lucía,60,F,Surco,Pediatría,2020-11-14,0
+P0804,Luis,68,NA,Callao,Traumatología,2025-06-04,1552.9
+P0805,Raúl,48,,San Miguel,Laboratorio,2024-10-16,0
+P0806,Raúl,9,F,San Miguel,Pediatría,2021-11-15,0
+P0807,Luis,84,M,Callao,Traumatología,2022-04-05,
+P0808,Rosa,46,,San Isidro,Traumatología,2020-12-06,
+P0809,Pedro,83,NA,Callao,Odontología,2024-10-24,0
+P0810,Elena,5,M,San Juan de Lurigancho,Pediatría,2024-02-04,
+P0811,Rosa,69,M,Surco,Pediatría,2025-01-11,
+P0812,Patricia,64,,San Miguel,Ginecología,2020-11-24,NA
+P0813,Luis,48,,Surco,Emergencia,2022-01-11,NA
+P0814,Fernando,1,F,Lima,Consulta General,2021-04-02,NA
+P0815,Carlos,68,,San Isidro,Pediatría,2025-01-11,0
+P0816,Carlos,29,F,Surco,Pediatría,2023-11-08,
+P0817,Pedro,7,,San Isidro,Emergencia,2022-03-22,0
+P0818,Raúl,87,,Callao,Traumatología,2023-04-28,
+P0819,Ana,35,NA,San Isidro,Cardiología,2020-05-02,0
+P0820,Raúl,66,M,San Miguel,Pediatría,2025-09-03,NA
+P0821,María,12,F,San Isidro,Pediatría,2021-11-20,
+P0822,Raúl,37,,San Isidro,Cardiología,2020-08-11,
+P0823,Ana,74,,Miraflores,Laboratorio,2021-04-24,
+P0824,Rosa,78,M,Callao,Consulta General,2023-08-10,
+P0825,Patricia,24,,Villa El Salvador,Odontología,2024-06-29,1956.33
+P0826,Ana,77,M,Callao,Pediatría,2020-09-28,
+P0827,Rosa,67,,Miraflores,Emergencia,2024-08-21,
+P0828,Luis,32,F,Callao,Laboratorio,2023-10-14,1795.07
+P0829,Fernando,78,F,Lima,Traumatología,2022-05-01,
+P0830,Lucía,81,,Surco,Laboratorio,2025-10-27,
+P0831,Carlos,4,F,Los Olivos,Cardiología,2021-11-30,0
+P0832,Jorge,25,F,San Miguel,Consulta General,2024-09-28,0
+P0833,Raúl,37,,Miraflores,Cardiología,2024-07-01,0
+P0834,Fernando,80,M,Lima,Cardiología,2024-12-05,
+P0835,Fernando,80,,San Isidro,Traumatología,2021-04-14,839.75
+P0836,Pedro,89,M,Lima,Consulta General,2024-06-09,
+P0837,Ana,,,Los Olivos,Emergencia,2025-02-08,
+P0838,María,18,F,Miraflores,Emergencia,2022-11-09,1607.37
+P0839,Patricia,38,,Los Olivos,Consulta General,2023-01-12,
+P0840,Carlos,50,,Callao,Laboratorio,2024-02-15,0
+P0841,Ana,31,,San Isidro,Ginecología,2024-02-29,NA
+P0842,Lucía,75,F,Callao,Ginecología,2021-10-01,NA
+P0843,Elena,45,F,Miraflores,Cardiología,2025-03-10,NA
+P0844,María,42,,Callao,Pediatría,2022-07-22,
+P0845,Lucía,73,,Villa El Salvador,Odontología,2020-02-05,
+P0846,Fernando,89,NA,Comas,Odontología,2025-12-23,NA
+P0847,Patricia,3,NA,Los Olivos,Pediatría,2022-09-27,NA
+P0848,Elena,2,,San Miguel,Cardiología,2022-11-30,0
+P0849,Rosa,27,NA,Miraflores,Cardiología,2020-09-20,740.86
+P0850,Ana,9,,Callao,Laboratorio,2022-09-30,NA
+P0851,Rosa,12,,Comas,Traumatología,2025-07-19,0
+P0852,Carlos,52,,Surco,Consulta General,2020-03-29,1396.32
+P0853,Ana,81,,Lima,Emergencia,2022-08-23,
+P0854,Rosa,26,,Villa El Salvador,Ginecología,2020-08-28,NA
+P0855,Raúl,4,,San Juan de Lurigancho,Laboratorio,2025-07-08,NA
+P0856,Carlos,61,,Surco,Odontología,2022-06-23,635.17
+P0857,Jorge,32,,Villa El Salvador,Pediatría,2022-12-13,
+P0858,Fernando,34,,Callao,Ginecología,2025-11-15,789.6
+P0859,Elena,12,,San Juan de Lurigancho,Traumatología,2025-07-18,
+P0860,Fernando,10,,San Isidro,Odontología,2024-10-06,
+P0861,Carlos,18,F,Comas,Traumatología,2020-05-11,NA
+P0862,Lucía,48,M,San Miguel,Emergencia,2022-10-03,796.94
+P0863,Rosa,45,,Comas,Consulta General,2020-04-02,1584.83
+P0864,Raúl,68,,Lima,Odontología,2021-07-17,
+P0865,Pedro,76,NA,Callao,Odontología,2024-04-22,
+P0866,Rosa,54,M,Surco,Odontología,2021-03-27,NA
+P0867,Lucía,18,,San Juan de Lurigancho,Laboratorio,2022-05-22,0
+P0868,Lucía,17,NA,San Isidro,Odontología,2022-10-16,327.36
+P0869,Patricia,NA,,Villa El Salvador,Pediatría,2024-01-27,NA
+P0870,Fernando,4,F,San Isidro,Consulta General,2024-06-07,
+P0871,Carlos,23,NA,Lima,Ginecología,2021-01-07,NA
+P0872,Fernando,61,,Surco,Ginecología,2021-03-01,
+P0873,Rosa,58,NA,Los Olivos,Ginecología,2024-09-01,0
+P0874,Jorge,33,NA,San Juan de Lurigancho,Emergencia,2022-07-15,0
+P0875,Patricia,34,,Los Olivos,Traumatología,2025-08-21,
+P0876,Fernando,33,M,Callao,Pediatría,2021-08-27,0
+P0877,Elena,37,F,Villa El Salvador,Odontología,2022-11-14,
+P0878,Patricia,48,F,Lima,Consulta General,2022-01-23,
+P0879,Carlos,49,M,Villa El Salvador,Ginecología,2022-09-25,NA
+P0880,Luis,4,F,Lima,Cardiología,2023-11-22,0
+P0881,Raúl,74,NA,Comas,Cardiología,2025-08-03,
+P0882,Patricia,75,M,San Isidro,Laboratorio,2022-01-03,
+P0883,Carlos,1,M,San Miguel,Emergencia,2020-02-03,NA
+P0884,Rosa,63,,San Isidro,Consulta General,2021-08-02,1344.56
+P0885,Luis,43,M,Miraflores,Traumatología,2023-05-08,0
+P0886,Ana,57,NA,San Miguel,Traumatología,2025-02-08,426.72
+P0887,Carlos,88,F,Surco,Laboratorio,2023-03-10,1559.28
+P0888,Elena,39,,San Miguel,Consulta General,2025-01-23,438.56
+P0889,Fernando,20,NA,Comas,Ginecología,2020-11-10,0
+P0890,Ana,11,F,Surco,Pediatría,2023-05-16,
+P0891,Luis,42,M,San Miguel,Pediatría,2024-05-06,
+P0892,Ana,57,M,Surco,Traumatología,2022-08-04,
+P0893,Fernando,6,,Lima,Consulta General,2020-06-04,
+P0894,Raúl,80,,Surco,Consulta General,2022-08-18,NA
+P0895,Pedro,9,,Lima,Traumatología,2023-06-04,0
+P0896,Elena,85,M,Surco,Pediatría,2022-09-16,0
+P0897,Pedro,6,,San Isidro,Odontología,2023-09-28,
+P0898,Pedro,51,NA,Comas,Ginecología,2020-11-07,NA
+P0899,Fernando,43,NA,San Miguel,Ginecología,2025-07-24,NA
+P0900,Fernando,32,,Comas,Pediatría,2022-05-15,786.22
+P0901,Ana,60,,Comas,Pediatría,2023-05-27,
+P0902,Ana,64,,San Miguel,Pediatría,2025-08-23,
+P0903,María,20,M,Villa El Salvador,Cardiología,2025-07-28,1771.81
+P0904,Carlos,13,,San Miguel,Odontología,2025-04-11,
+P0905,María,47,,San Miguel,Laboratorio,2024-10-18,0
+P0906,María,48,,Villa El Salvador,Consulta General,2020-01-15,
+P0907,Carlos,32,,San Juan de Lurigancho,Odontología,2023-04-29,1686.35
+P0908,Rosa,31,F,Callao,Laboratorio,2021-01-29,1636.06
+P0909,Pedro,77,M,San Miguel,Consulta General,2023-05-07,
+P0910,María,47,F,Lima,Cardiología,2021-08-05,
+P0911,Luis,11,M,San Miguel,Laboratorio,2021-06-08,0
+P0912,Lucía,4,,San Miguel,Emergencia,2022-06-14,
+P0913,Fernando,79,,Callao,Cardiología,2025-06-11,
+P0914,Carlos,32,F,San Isidro,Consulta General,2023-09-10,0
+P0915,Raúl,32,M,Los Olivos,Emergencia,2025-07-28,
+P0916,Luis,7,,Surco,Odontología,2022-11-30,NA
+P0917,María,57,F,Los Olivos,Ginecología,2024-09-28,NA
+P0918,Raúl,62,NA,Lima,Traumatología,2021-06-06,
+P0919,Ana,64,,Los Olivos,Laboratorio,2021-03-27,NA
+P0920,Luis,57,M,Miraflores,Traumatología,2024-11-15,
+P0921,Lucía,27,F,Villa El Salvador,Cardiología,2022-05-23,0
+P0922,Lucía,70,NA,Miraflores,Emergencia,2023-05-23,
+P0923,María,5,F,Villa El Salvador,Cardiología,2022-09-16,NA
+P0924,Jorge,1,,Surco,Consulta General,2021-11-03,NA
+P0925,Luis,,M,Villa El Salvador,Laboratorio,2020-11-21,
+P0926,Luis,68,,Callao,Traumatología,2023-08-18,
+P0927,Luis,58,M,Los Olivos,Traumatología,2022-06-08,NA
+P0928,Elena,36,,Miraflores,Odontología,2020-02-12,
+P0929,María,23,M,San Juan de Lurigancho,Emergencia,2020-12-23,
+P0930,Patricia,12,NA,San Juan de Lurigancho,Consulta General,2025-05-18,
+P0931,Raúl,82,,Surco,Odontología,2023-07-30,1404.46
+P0932,Raúl,76,M,Callao,Cardiología,2025-10-08,90.96
+P0933,Lucía,6,F,Villa El Salvador,Laboratorio,2020-02-18,118.68
+P0934,Jorge,63,F,Villa El Salvador,Ginecología,2025-08-12,
+P0935,Raúl,60,,Comas,Laboratorio,2021-05-02,NA
+P0936,Rosa,45,,San Miguel,Ginecología,2024-08-03,1431.03
+P0937,Raúl,6,,Lima,Cardiología,2024-07-29,1019.36
+P0938,Elena,18,M,Los Olivos,Traumatología,2023-11-23,NA
+P0939,Ana,74,NA,Miraflores,Consulta General,2024-01-19,1045.1
+P0940,Patricia,15,,Comas,Cardiología,2021-12-06,1411.93
+P0941,Carlos,22,NA,Surco,Traumatología,2020-11-30,
+P0942,Carlos,80,,San Juan de Lurigancho,Laboratorio,2020-07-26,NA
+P0943,Ana,28,,Callao,Traumatología,2024-06-21,
+P0944,Pedro,21,M,San Isidro,Laboratorio,2020-06-25,
+P0945,Raúl,50,F,Callao,Traumatología,2022-02-02,1425.29
+P0946,Patricia,3,,Comas,Traumatología,2023-10-21,525.72
+P0947,Fernando,61,,San Isidro,Laboratorio,2023-03-31,0
+P0948,Lucía,63,NA,San Juan de Lurigancho,Ginecología,2023-07-30,
+P0949,Rosa,5,M,Lima,Pediatría,2025-06-27,NA
+P0950,María,29,,Surco,Pediatría,2023-05-05,191.67
+P0951,María,1,,Lima,Cardiología,2021-07-10,1732.44
+P0952,Luis,,NA,Miraflores,Pediatría,2023-04-14,1493.19
+P0953,Rosa,90,M,San Miguel,Emergencia,2022-01-15,
+P0954,Fernando,NA,F,Lima,Laboratorio,2023-03-07,
+P0955,Patricia,13,M,Comas,Ginecología,2025-10-16,
+P0956,Pedro,20,,San Juan de Lurigancho,Laboratorio,2021-10-04,
+P0957,Pedro,,,Los Olivos,Odontología,2024-04-14,0
+P0958,Elena,17,,Lima,Emergencia,2024-02-02,0
+P0959,Lucía,60,F,Surco,Emergencia,2025-04-14,0
+P0960,Luis,12,NA,Lima,Ginecología,2025-07-01,1701.16
+P0961,Fernando,60,,Villa El Salvador,Pediatría,2023-10-17,
+P0962,Ana,1,,Villa El Salvador,Traumatología,2025-02-24,0
+P0963,Patricia,63,F,Villa El Salvador,Laboratorio,2023-11-24,
+P0964,Patricia,20,,Comas,Consulta General,2020-01-11,NA
+P0965,Luis,62,F,San Miguel,Laboratorio,2025-01-07,718.84
+P0966,Luis,2,M,Villa El Salvador,Laboratorio,2024-12-19,NA
+P0967,Luis,38,F,Surco,Traumatología,2022-05-12,405.79
+P0968,Jorge,13,,San Miguel,Ginecología,2024-02-07,
+P0969,Raúl,72,,Villa El Salvador,Consulta General,2020-03-15,1295.2
+P0970,Patricia,65,,Lima,Traumatología,2020-06-19,0
+P0971,María,48,NA,Callao,Odontología,2020-07-26,NA
+P0972,Pedro,64,F,Villa El Salvador,Consulta General,2023-06-14,
+P0973,María,9,,Miraflores,Emergencia,2024-06-17,NA
+P0974,Pedro,12,F,Callao,Emergencia,2025-02-11,
+P0975,Carlos,56,,Villa El Salvador,Odontología,2025-01-02,
+P0976,Elena,17,,San Miguel,Consulta General,2020-06-16,
+P0977,Rosa,60,,Comas,Ginecología,2020-07-27,0
+P0978,Lucía,40,,San Isidro,Consulta General,2023-07-13,NA
+P0979,Luis,38,M,Miraflores,Odontología,2023-01-03,
+P0980,Ana,10,M,San Juan de Lurigancho,Laboratorio,2025-09-02,
+P0981,Pedro,20,M,Comas,Pediatría,2023-05-06,NA
+P0982,Jorge,61,,Los Olivos,Laboratorio,2024-12-13,
+P0983,Fernando,16,M,Villa El Salvador,Traumatología,2024-05-27,NA
+P0984,Jorge,47,M,Comas,Ginecología,2021-06-13,NA
+P0985,Jorge,22,NA,San Juan de Lurigancho,Traumatología,2025-07-07,1228.92
+P0986,Ana,51,F,Miraflores,Pediatría,2023-07-24,
+P0987,Luis,79,,Comas,Pediatría,2023-12-31,1464.75
+P0988,Raúl,15,NA,San Miguel,Emergencia,2023-02-03,
+P0989,Rosa,82,,Callao,Ginecología,2024-05-05,
+P0990,Raúl,62,F,Los Olivos,Laboratorio,2023-10-24,0
+P0991,María,66,,Miraflores,Laboratorio,2023-12-03,
+P0992,María,27,M,Los Olivos,Cardiología,2023-03-16,0
+P0993,Pedro,26,M,Lima,Traumatología,2023-07-06,
+P0994,Luis,87,NA,Callao,Pediatría,2021-11-05,
+P0995,María,35,F,Villa El Salvador,Cardiología,2025-05-08,0
+P0996,Patricia,17,,Lima,Laboratorio,2022-10-07,
+P0997,Raúl,61,NA,Surco,Emergencia,2022-04-24,
+P0998,Fernando,28,NA,Callao,Odontología,2024-01-02,0
+P0999,Raúl,76,,San Miguel,Pediatría,2020-02-03,NA
+P1000,Elena,13,M,Callao,Consulta General,2022-08-03,
+P1001,Elena,46,,Los Olivos,Laboratorio,2022-11-02,
+P1002,Patricia,27,,Comas,Traumatología,2025-06-04,0
+P1003,Carlos,39,M,Los Olivos,Emergencia,2024-03-17,NA
+P1004,Jorge,88,NA,San Isidro,Laboratorio,2025-02-14,NA
+P1005,María,43,,Surco,Emergencia,2024-12-27,
+P1006,Carlos,87,M,Lima,Pediatría,2024-10-04,
+P1007,Rosa,29,M,San Miguel,Ginecología,2021-04-14,
+P1008,Elena,87,M,Lima,Odontología,2022-11-01,0
+P1009,Patricia,67,,Miraflores,Laboratorio,2021-08-09,747.78
+P1010,Jorge,62,F,Surco,Cardiología,2023-11-16,
+P1011,Rosa,8,,Los Olivos,Odontología,2024-12-23,
+P1012,María,88,,Los Olivos,Odontología,2025-09-08,
+P1013,Pedro,50,,Villa El Salvador,Cardiología,2025-04-30,1467.1
+P1014,María,15,,San Juan de Lurigancho,Cardiología,2025-10-29,
+P1015,Elena,1,,Los Olivos,Traumatología,2024-02-02,NA
+P1016,Luis,19,,San Juan de Lurigancho,Pediatría,2023-02-16,0
+P1017,Patricia,44,,Villa El Salvador,Traumatología,2023-07-13,
+P1018,María,80,,Lima,Ginecología,2021-07-24,0
+P1019,Elena,81,F,San Isidro,Consulta General,2025-03-13,
+P1020,Ana,81,,San Isidro,Odontología,2021-11-14,
+P1021,Patricia,12,F,Villa El Salvador,Cardiología,2022-01-08,
+P1022,Pedro,76,NA,San Miguel,Odontología,2022-06-18,NA
+P1023,Jorge,NA,NA,Villa El Salvador,Traumatología,2024-03-28,
+P1024,Elena,87,,Los Olivos,Emergencia,2021-04-03,NA
+P1025,Fernando,51,F,San Juan de Lurigancho,Pediatría,2022-12-13,NA
+P1026,Carlos,17,M,San Miguel,Cardiología,2022-06-06,275.5
+P1027,Ana,37,F,Villa El Salvador,Cardiología,2024-01-04,1717.83
+P1028,Elena,5,,Lima,Emergencia,2023-02-09,NA
+P1029,Elena,28,F,Villa El Salvador,Pediatría,2021-06-14,0
+P1030,Carlos,5,M,Miraflores,Ginecología,2022-10-26,
+P1031,Ana,10,F,Comas,Laboratorio,2024-08-18,
+P1032,Lucía,84,M,San Isidro,Cardiología,2024-06-01,
+P1033,Ana,29,,Surco,Traumatología,2024-08-18,
+P1034,Lucía,15,,San Isidro,Consulta General,2024-05-02,0
+P1035,María,4,M,Comas,Pediatría,2021-10-04,
+P1036,Raúl,38,NA,Surco,Odontología,2025-07-01,454.53
+P1037,Patricia,18,,San Miguel,Pediatría,2021-04-19,
+P1038,Lucía,3,NA,San Miguel,Laboratorio,2023-06-15,NA
+P1039,María,15,,Comas,Cardiología,2025-01-24,1876.12
+P1040,Carlos,21,,Callao,Emergencia,2023-11-26,468.64
+P1041,Patricia,64,M,Surco,Emergencia,2022-09-16,
+P1042,Raúl,69,M,Callao,Traumatología,2024-07-13,107.09
+P1043,Patricia,8,F,San Juan de Lurigancho,Consulta General,2021-08-08,845.31
+P1044,Elena,85,,San Isidro,Odontología,2021-10-22,
+P1045,Carlos,19,,Comas,Pediatría,2025-07-15,
+P1046,Fernando,87,M,Comas,Laboratorio,2020-04-06,
+P1047,Jorge,15,M,San Juan de Lurigancho,Cardiología,2024-11-30,NA
+P1048,Jorge,34,,Villa El Salvador,Ginecología,2020-04-07,
+P1049,Pedro,44,F,San Isidro,Laboratorio,2020-04-01,
+P1050,María,24,,San Isidro,Traumatología,2024-09-25,1273.14
+P1051,Patricia,30,,Miraflores,Ginecología,2024-06-01,
+P1052,María,NA,,Lima,Pediatría,2022-04-21,NA
+P1053,Pedro,5,,Comas,Laboratorio,2023-09-24,
+P1054,Luis,27,NA,San Juan de Lurigancho,Consulta General,2025-04-13,
+P1055,Fernando,82,NA,San Isidro,Odontología,2021-03-13,0
+P1056,Carlos,59,,San Juan de Lurigancho,Cardiología,2021-04-22,859.99
+P1057,Luis,70,NA,San Juan de Lurigancho,Ginecología,2024-06-13,0
+P1058,Raúl,90,,Los Olivos,Ginecología,2023-10-17,NA
+P1059,Patricia,23,,Comas,Emergencia,2024-07-27,NA
+P1060,Lucía,12,M,Surco,Consulta General,2025-09-21,0
+P1061,Fernando,18,M,Lima,Ginecología,2021-01-07,371.54
+P1062,Jorge,12,F,San Isidro,Traumatología,2020-08-24,
+P1063,María,88,F,San Isidro,Emergencia,2025-07-05,
+P1064,Rosa,57,F,San Isidro,Pediatría,2021-03-27,0
+P1065,Carlos,1,M,Miraflores,Laboratorio,2025-06-20,
+P1066,Lucía,54,F,Surco,Emergencia,2025-05-20,1626.86
+P1067,Lucía,65,M,Callao,Pediatría,2021-02-20,
+P1068,Raúl,5,,Lima,Ginecología,2025-05-19,
+P1069,Jorge,41,,Surco,Laboratorio,2020-05-01,
+P1070,Ana,41,M,Comas,Traumatología,2023-01-10,56.56
+P1071,Jorge,15,NA,Callao,Odontología,2024-02-16,NA
+P1072,Lucía,39,NA,Los Olivos,Odontología,2025-12-11,0
+P1073,Fernando,86,M,San Miguel,Ginecología,2022-06-03,
+P1074,Patricia,19,,San Isidro,Ginecología,2022-04-11,NA
+P1075,Fernando,28,F,San Isidro,Consulta General,2021-01-25,
+P1076,Luis,23,M,San Miguel,Cardiología,2023-06-08,
+P1077,Fernando,47,,Callao,Ginecología,2025-06-19,86.28
+P1078,Ana,57,F,San Isidro,Odontología,2025-08-04,1247.14
+P1079,Lucía,74,,Villa El Salvador,Emergencia,2023-12-22,0
+P1080,Rosa,83,F,Villa El Salvador,Ginecología,2025-11-05,
+P1081,Pedro,73,M,Comas,Consulta General,2024-12-25,
+P1082,Luis,5,NA,Lima,Consulta General,2020-07-21,NA
+P1083,Elena,16,F,San Miguel,Laboratorio,2022-12-22,0
+P1084,Pedro,84,M,San Juan de Lurigancho,Consulta General,2022-12-17,
+P1085,Rosa,48,,Comas,Emergencia,2025-07-21,
+P1086,Ana,87,F,San Miguel,Odontología,2021-07-19,
+P1087,Luis,4,M,Villa El Salvador,Ginecología,2021-04-11,0
+P1088,Elena,82,M,San Miguel,Cardiología,2024-06-13,
+P1089,Ana,25,,San Miguel,Odontología,2022-12-03,1682.7
+P1090,Rosa,NA,,San Isidro,Consulta General,2024-09-20,534.91
+P1091,Lucía,26,M,San Isidro,Traumatología,2020-03-01,NA
+P1092,Rosa,,,Callao,Emergencia,2020-08-07,NA
+P1093,Rosa,13,NA,Miraflores,Ginecología,2023-12-05,1064.54
+P1094,María,10,,Los Olivos,Consulta General,2023-12-31,NA
+P1095,Jorge,86,F,Callao,Odontología,2021-08-15,NA
+P1096,Raúl,26,,Villa El Salvador,Odontología,2023-08-24,NA
+P1097,Luis,61,NA,San Juan de Lurigancho,Traumatología,2021-05-29,
+P1098,Patricia,79,NA,Comas,Traumatología,2020-12-28,
+P1099,Fernando,37,,Callao,Cardiología,2024-02-12,
+P1100,Raúl,68,F,San Isidro,Ginecología,2025-01-13,
+P1101,Pedro,45,F,Villa El Salvador,Ginecología,2022-06-29,0
+P1102,Jorge,15,,Villa El Salvador,Traumatología,2023-06-03,0
+P1103,Rosa,59,M,San Juan de Lurigancho,Ginecología,2024-07-08,1951.95
+P1104,Raúl,14,,Callao,Consulta General,2021-01-02,NA
+P1105,Fernando,50,F,San Isidro,Pediatría,2021-07-27,
+P1106,Rosa,48,F,San Juan de Lurigancho,Odontología,2020-12-17,NA
+P1107,Ana,36,,San Miguel,Laboratorio,2023-02-03,
+P1108,Ana,13,F,Villa El Salvador,Consulta General,2024-06-10,0
+P1109,Elena,89,F,San Miguel,Traumatología,2025-03-25,
+P1110,Lucía,56,NA,Villa El Salvador,Ginecología,2024-01-13,
+P1111,María,6,,San Isidro,Emergencia,2024-04-25,0
+P1112,Jorge,87,F,Callao,Odontología,2021-08-02,
+P1113,Elena,74,M,Lima,Pediatría,2022-05-19,NA
+P1114,Ana,32,,Los Olivos,Odontología,2024-01-10,NA
+P1115,Carlos,47,M,Lima,Consulta General,2022-06-14,
+P1116,Pedro,,NA,Lima,Laboratorio,2020-02-25,0
+P1117,Luis,1,M,San Juan de Lurigancho,Traumatología,2023-10-06,
+P1118,Carlos,48,M,San Juan de Lurigancho,Emergencia,2025-03-09,1394.22
+P1119,Pedro,6,NA,Lima,Odontología,2024-09-06,
+P1120,Carlos,NA,M,Los Olivos,Ginecología,2021-06-08,NA
+P1121,Fernando,59,NA,Villa El Salvador,Emergencia,2023-03-06,1684.49
+P1122,Rosa,75,F,Comas,Consulta General,2021-03-09,921.91
+P1123,Raúl,60,F,San Isidro,Laboratorio,2020-12-16,0
+P1124,María,37,F,Surco,Traumatología,2025-07-07,NA
+P1125,Jorge,62,,Villa El Salvador,Odontología,2022-03-19,863.54
+P1126,María,74,NA,San Juan de Lurigancho,Traumatología,2022-08-17,909.96
+P1127,Fernando,12,M,Villa El Salvador,Cardiología,2025-06-25,NA
+P1128,Raúl,22,F,Villa El Salvador,Traumatología,2022-11-01,
+P1129,Fernando,9,M,Comas,Ginecología,2021-03-07,NA
+P1130,Patricia,51,F,San Isidro,Traumatología,2025-10-11,
+P1131,Fernando,29,F,San Miguel,Ginecología,2021-07-18,
+P1132,Lucía,24,F,Villa El Salvador,Laboratorio,2024-04-24,
+P1133,Pedro,32,M,Lima,Cardiología,2023-05-05,1128.93
+P1134,Fernando,34,F,Comas,Laboratorio,2021-08-17,701.38
+P1135,Pedro,54,NA,Miraflores,Traumatología,2021-10-09,
+P1136,Ana,4,,Los Olivos,Consulta General,2020-04-28,0
+P1137,Rosa,14,F,San Juan de Lurigancho,Emergencia,2020-05-30,NA
+P1138,Rosa,45,M,San Isidro,Pediatría,2022-04-06,0
+P1139,Fernando,NA,M,Villa El Salvador,Cardiología,2025-04-15,
+P1140,Patricia,18,F,Lima,Odontología,2021-05-24,NA
+P1141,Fernando,19,NA,San Miguel,Traumatología,2025-06-04,
+P1142,Rosa,60,F,Callao,Cardiología,2023-10-10,
+P1143,Lucía,31,F,San Miguel,Consulta General,2023-05-12,760.96
+P1144,Raúl,25,M,Los Olivos,Pediatría,2021-08-02,
+P1145,Raúl,41,,Surco,Cardiología,2020-07-30,NA
+P1146,Raúl,14,,Callao,Ginecología,2025-05-15,0
+P1147,Fernando,42,,Lima,Odontología,2025-11-11,NA
+P1148,Elena,78,,Miraflores,Emergencia,2022-09-27,0
+P1149,Raúl,18,,Surco,Emergencia,2022-07-04,68.52
+P1150,Elena,65,,Callao,Consulta General,2022-12-10,1811.66
+P1151,Elena,21,NA,San Isidro,Laboratorio,2021-04-26,1688.72
+P1152,Ana,19,,Surco,Emergencia,2021-05-29,1066.02
+P1153,María,51,M,Villa El Salvador,Laboratorio,2020-12-18,1970.11
+P1154,Rosa,67,,Miraflores,Pediatría,2022-09-21,
+P1155,Lucía,8,,San Isidro,Consulta General,2021-12-28,0
+P1156,Patricia,41,,San Juan de Lurigancho,Traumatología,2023-08-31,1569.34
+P1157,María,36,,Los Olivos,Emergencia,2021-03-31,NA
+P1158,María,9,,Lima,Consulta General,2021-10-06,
+P1159,Fernando,90,,Miraflores,Emergencia,2023-06-13,0
+P1160,Jorge,41,,San Miguel,Cardiología,2025-02-03,1398.06
+P1161,Elena,34,NA,San Juan de Lurigancho,Consulta General,2023-09-15,0
+P1162,Lucía,80,NA,Comas,Consulta General,2022-12-16,
+P1163,Carlos,40,M,Lima,Ginecología,2025-06-20,0
+P1164,Pedro,27,M,Callao,Consulta General,2025-06-29,521.39
+P1165,Lucía,16,NA,Comas,Odontología,2025-04-22,0
+P1166,Luis,69,NA,San Miguel,Traumatología,2025-08-27,
+P1167,Pedro,6,F,Callao,Pediatría,2024-06-21,0
+P1168,Luis,47,,San Juan de Lurigancho,Pediatría,2025-04-12,
+P1169,Raúl,23,F,Lima,Laboratorio,2021-04-30,NA
+P1170,Luis,85,NA,Callao,Pediatría,2022-05-10,
+P1171,Jorge,52,M,Lima,Odontología,2021-07-09,
+P1172,Lucía,82,F,Surco,Consulta General,2022-08-03,0
+P1173,Lucía,57,M,San Miguel,Cardiología,2021-12-13,1719.64
+P1174,María,2,,Comas,Laboratorio,2022-06-12,0
+P1175,Lucía,33,,San Isidro,Traumatología,2022-09-10,
+P1176,Patricia,44,,Villa El Salvador,Ginecología,2021-05-06,
+P1177,María,84,M,Los Olivos,Consulta General,2025-10-14,1131.07
+P1178,Ana,25,NA,San Isidro,Emergencia,2023-05-06,
+P1179,Elena,4,M,Villa El Salvador,Odontología,2021-09-21,NA
+P1180,Lucía,2,NA,Comas,Pediatría,2023-11-15,0
+P1181,Pedro,51,,San Isidro,Consulta General,2022-04-17,1561.83
+P1182,Carlos,63,,San Isidro,Emergencia,2025-12-10,
+P1183,Luis,40,,Comas,Traumatología,2025-11-05,NA
+P1184,Pedro,89,,San Juan de Lurigancho,Odontología,2021-12-10,NA
+P1185,Patricia,54,F,Villa El Salvador,Consulta General,2024-09-05,537.31
+P1186,Rosa,53,,Los Olivos,Ginecología,2021-10-25,
+P1187,Ana,81,M,Miraflores,Consulta General,2025-03-11,
+P1188,Raúl,,,Villa El Salvador,Laboratorio,2021-03-09,695.29
+P1189,Patricia,55,F,Surco,Odontología,2020-08-09,
+P1190,Carlos,53,,Surco,Traumatología,2022-06-06,0
+P1191,Jorge,43,,Villa El Salvador,Ginecología,2021-10-20,
+P1192,Elena,23,,San Juan de Lurigancho,Laboratorio,2025-11-07,1258.32
+P1193,Rosa,44,,Comas,Traumatología,2022-06-24,
+P1194,Ana,69,,Los Olivos,Emergencia,2024-10-04,1394.83
+P1195,Rosa,49,F,Miraflores,Pediatría,2020-06-19,0
+P1196,Rosa,36,,San Isidro,Ginecología,2025-03-17,
+P1197,Ana,4,,Miraflores,Emergencia,2020-03-26,
+P1198,Luis,49,,Lima,Ginecología,2025-04-25,0
+P1199,Lucía,40,,Lima,Emergencia,2020-10-12,NA
+P1200,Rosa,35,NA,Lima,Odontología,2020-06-26,
+P1201,Fernando,23,M,San Miguel,Traumatología,2023-02-17,0
+P1202,Elena,73,,Los Olivos,Consulta General,2025-05-25,693.31
+P1203,María,31,,Callao,Ginecología,2021-11-01,
+P1204,Carlos,41,NA,San Isidro,Odontología,2024-06-25,510.5
+P1205,Jorge,29,F,Miraflores,Emergencia,2022-09-20,
+P1206,Luis,29,,Los Olivos,Traumatología,2024-02-03,0
+P1207,Patricia,74,,San Miguel,Consulta General,2022-08-12,
+P1208,Pedro,,F,Villa El Salvador,Emergencia,2023-10-17,218.96
+P1209,Pedro,58,F,Miraflores,Ginecología,2025-07-01,634.43
+P1210,María,80,NA,Callao,Pediatría,2021-08-12,
+P1211,Luis,51,M,Villa El Salvador,Pediatría,2021-10-24,
+P1212,Patricia,89,,Comas,Cardiología,2020-04-13,
+P1213,Rosa,63,,Callao,Laboratorio,2023-01-15,
+P1214,Pedro,58,,Villa El Salvador,Laboratorio,2023-02-11,NA
+P1215,Pedro,,M,Los Olivos,Pediatría,2022-04-06,NA
+P1216,Carlos,63,M,San Juan de Lurigancho,Ginecología,2021-11-22,641.78
+P1217,María,73,,Comas,Odontología,2022-12-27,409.52
+P1218,Luis,16,,San Miguel,Pediatría,2020-04-25,1474.13
+P1219,Ana,89,M,Villa El Salvador,Pediatría,2020-11-01,0
+P1220,Luis,35,NA,Los Olivos,Consulta General,2023-10-18,NA
+P1221,Carlos,87,NA,Villa El Salvador,Consulta General,2024-11-23,606.25
+P1222,Jorge,38,M,San Juan de Lurigancho,Cardiología,2023-09-19,
+P1223,Lucía,2,,San Juan de Lurigancho,Pediatría,2025-11-14,0
+P1224,Elena,72,,Villa El Salvador,Cardiología,2022-10-22,0
+P1225,María,44,NA,Villa El Salvador,Cardiología,2023-05-08,
+P1226,Carlos,49,,Comas,Cardiología,2021-11-01,
+P1227,Luis,57,M,Miraflores,Consulta General,2021-05-22,0
+P1228,Raúl,22,,Lima,Cardiología,2022-09-19,
+P1229,Ana,30,,Lima,Ginecología,2023-11-18,
+P1230,Luis,7,,Lima,Odontología,2022-01-27,
+P1231,María,40,NA,San Juan de Lurigancho,Ginecología,2020-08-16,0
+P1232,Elena,68,F,Callao,Cardiología,2022-05-21,
+P1233,María,70,,San Miguel,Ginecología,2024-07-04,
+P1234,Raúl,74,M,Lima,Emergencia,2022-05-10,
+P1235,Raúl,58,,Villa El Salvador,Cardiología,2023-12-16,0
+P1236,Elena,89,M,Lima,Ginecología,2025-05-28,
+P1237,Lucía,44,NA,Surco,Pediatría,2025-02-12,0
+P1238,Carlos,9,M,Callao,Cardiología,2020-05-09,0
+P1239,Ana,73,,Miraflores,Odontología,2022-03-20,1140.54
+P1240,Jorge,27,F,San Isidro,Odontología,2024-01-12,NA
+P1241,Patricia,33,M,Comas,Traumatología,2022-06-12,
+P1242,Rosa,58,F,Comas,Traumatología,2021-12-05,
+P1243,Rosa,78,M,San Isidro,Consulta General,2020-07-06,
+P1244,Raúl,23,F,San Juan de Lurigancho,Consulta General,2022-08-24,758.66
+P1245,Ana,38,M,Lima,Cardiología,2021-05-27,0
+P1246,Elena,82,NA,San Juan de Lurigancho,Ginecología,2022-08-30,
+P1247,Elena,15,,Los Olivos,Laboratorio,2022-07-17,
+P1248,Lucía,3,NA,Surco,Pediatría,2024-07-08,
+P1249,María,37,F,Surco,Traumatología,2024-05-05,846.26
+P1250,Rosa,49,,Los Olivos,Consulta General,2020-08-20,
+P1251,Rosa,8,,San Isidro,Ginecología,2021-03-06,1742.95
+P1252,Jorge,72,M,Surco,Laboratorio,2024-03-22,
+P1253,Rosa,52,F,Surco,Cardiología,2020-10-12,NA
+P1254,Luis,77,,Comas,Traumatología,2024-03-18,1024.35
+P1255,Patricia,75,NA,Callao,Traumatología,2020-02-24,
+P1256,Patricia,50,,Callao,Odontología,2023-06-04,
+P1257,Raúl,NA,M,Villa El Salvador,Emergencia,2025-06-09,
+P1258,Rosa,73,NA,Callao,Ginecología,2023-11-06,1466.49
+P1259,Carlos,6,,Callao,Traumatología,2023-11-02,1572.67
+P1260,Pedro,14,,Villa El Salvador,Emergencia,2022-08-15,
+P1261,Fernando,37,,San Miguel,Cardiología,2021-10-29,1716.8
+P1262,Carlos,67,,Villa El Salvador,Ginecología,2022-07-03,NA
+P1263,Luis,1,F,San Miguel,Emergencia,2023-12-25,NA
+P1264,Rosa,35,M,Callao,Traumatología,2022-10-30,NA
+P1265,Luis,31,NA,San Isidro,Pediatría,2023-11-26,0
+P1266,Patricia,79,M,Surco,Traumatología,2023-04-08,
+P1267,Carlos,54,M,Comas,Ginecología,2024-11-22,
+P1268,Carlos,41,,San Juan de Lurigancho,Consulta General,2023-02-08,NA
+P1269,Patricia,16,NA,Surco,Odontología,2024-06-19,
+P1270,Jorge,37,F,Miraflores,Emergencia,2023-10-17,
+P1271,Elena,87,M,San Isidro,Consulta General,2023-10-09,
+P1272,Fernando,65,NA,San Isidro,Odontología,2022-10-07,NA
+P1273,Raúl,14,F,Comas,Pediatría,2024-09-14,NA
+P1274,Patricia,22,,San Juan de Lurigancho,Cardiología,2023-01-13,
+P1275,Carlos,33,M,Surco,Emergencia,2021-05-01,
+P1276,Elena,77,NA,San Miguel,Consulta General,2022-02-17,634.89
+P1277,Jorge,57,M,San Miguel,Odontología,2020-11-06,
+P1278,Elena,1,F,Callao,Emergencia,2024-03-14,363.76
+P1279,Pedro,33,M,Lima,Odontología,2022-07-26,318.15
+P1280,Jorge,66,M,San Isidro,Laboratorio,2021-12-22,
+P1281,Luis,14,,Los Olivos,Ginecología,2023-06-15,0
+P1282,Elena,35,,San Juan de Lurigancho,Consulta General,2025-05-15,
+P1283,Rosa,79,NA,Miraflores,Odontología,2025-04-07,
+P1284,Elena,67,NA,San Juan de Lurigancho,Pediatría,2021-05-02,
+P1285,Pedro,10,NA,Los Olivos,Pediatría,2021-12-05,
+P1286,Lucía,45,F,Miraflores,Laboratorio,2023-07-06,892.19
+P1287,Rosa,25,NA,San Isidro,Consulta General,2023-11-26,NA
+P1288,Elena,71,,Comas,Laboratorio,2021-08-21,
+P1289,María,56,M,San Miguel,Consulta General,2025-08-02,
+P1290,Luis,20,M,San Miguel,Odontología,2025-12-06,1668.14
+P1291,Fernando,49,,Miraflores,Pediatría,2025-05-19,
+P1292,Lucía,71,,San Miguel,Ginecología,2021-05-22,0
+P1293,Luis,70,M,Lima,Traumatología,2023-11-08,
+P1294,Carlos,36,,San Juan de Lurigancho,Ginecología,2020-01-21,
+P1295,Elena,66,,Lima,Cardiología,2022-12-15,226.56
+P1296,Jorge,18,M,San Isidro,Traumatología,2024-06-25,0
+P1297,Elena,18,NA,Miraflores,Ginecología,2020-05-16,
+P1298,Carlos,25,F,Lima,Pediatría,2025-03-09,0
+P1299,Rosa,32,,Comas,Ginecología,2025-08-01,
+P1300,Pedro,7,,San Juan de Lurigancho,Cardiología,2022-05-21,NA
+P1301,Ana,57,,San Miguel,Laboratorio,2020-04-01,
+P1302,Elena,87,M,San Miguel,Consulta General,2024-01-09,
+P1303,Patricia,29,F,Miraflores,Laboratorio,2024-03-27,
+P1304,Pedro,88,M,Surco,Emergencia,2024-08-14,
+P1305,Fernando,42,,Los Olivos,Pediatría,2020-10-07,
+P1306,Lucía,82,M,Comas,Pediatría,2022-02-20,
+P1307,Pedro,25,,Los Olivos,Odontología,2020-06-19,
+P1308,Luis,36,,San Juan de Lurigancho,Pediatría,2025-10-14,NA
+P1309,Jorge,50,,Los Olivos,Odontología,2020-07-27,NA
+P1310,Lucía,18,F,Los Olivos,Odontología,2025-02-27,
+P1311,Rosa,69,,Miraflores,Pediatría,2021-04-28,
+P1312,Raúl,3,,Miraflores,Laboratorio,2021-06-29,1563.94
+P1313,Carlos,55,,Villa El Salvador,Laboratorio,2020-06-01,
+P1314,Lucía,25,,San Isidro,Laboratorio,2024-10-06,
+P1315,Pedro,49,F,San Isidro,Ginecología,2022-02-25,0
+P1316,Pedro,81,NA,Surco,Consulta General,2021-08-27,NA
+P1317,Elena,20,M,Lima,Traumatología,2023-03-12,1998.15
+P1318,Jorge,6,NA,Comas,Ginecología,2020-09-05,NA
+P1319,Lucía,79,,San Juan de Lurigancho,Pediatría,2021-10-13,1894.72
+P1320,Lucía,86,F,Lima,Odontología,2020-05-24,
+P1321,Ana,82,,Los Olivos,Pediatría,2020-01-07,
+P1322,Jorge,41,M,Miraflores,Consulta General,2021-12-04,0
+P1323,Ana,16,F,Villa El Salvador,Emergencia,2024-06-04,
+P1324,Carlos,79,F,San Miguel,Cardiología,2021-08-03,
+P1325,Raúl,74,,Callao,Ginecología,2020-07-13,
+P1326,Fernando,78,NA,Lima,Odontología,2023-04-21,NA
+P1327,Fernando,43,,Villa El Salvador,Consulta General,2020-11-03,
+P1328,Rosa,38,M,Lima,Emergencia,2025-09-09,1457.88
+P1329,Luis,35,NA,Surco,Laboratorio,2021-02-01,NA
+P1330,María,23,,San Juan de Lurigancho,Traumatología,2023-04-24,
+P1331,Elena,12,NA,San Isidro,Emergencia,2020-07-09,
+P1332,Jorge,61,M,San Juan de Lurigancho,Ginecología,2024-02-12,
+P1333,Fernando,74,,Miraflores,Consulta General,2022-05-03,
+P1334,Luis,38,F,Miraflores,Ginecología,2025-11-16,NA
+P1335,Rosa,84,,Surco,Cardiología,2022-05-25,
+P1336,Fernando,12,F,Los Olivos,Pediatría,2023-03-13,0
+P1337,Patricia,89,M,Villa El Salvador,Laboratorio,2021-12-22,NA
+P1338,Lucía,58,NA,San Isidro,Laboratorio,2020-02-19,0
+P1339,Luis,70,M,Villa El Salvador,Consulta General,2020-07-06,NA
+P1340,Lucía,25,,San Juan de Lurigancho,Emergencia,2020-04-17,0
+P1341,Elena,69,,Callao,Pediatría,2020-07-10,NA
+P1342,Patricia,59,,Comas,Ginecología,2025-09-09,
+P1343,Carlos,49,NA,Callao,Laboratorio,2020-10-11,
+P1344,Elena,9,,San Miguel,Cardiología,2025-08-24,0
+P1345,Jorge,78,F,San Miguel,Odontología,2023-06-04,NA
+P1346,Raúl,43,,Lima,Laboratorio,2022-09-15,NA
+P1347,Patricia,2,M,Los Olivos,Ginecología,2024-01-24,NA
+P1348,Fernando,29,NA,Surco,Cardiología,2022-02-17,
+P1349,Elena,1,,Villa El Salvador,Ginecología,2020-02-19,NA
+P1350,Jorge,28,NA,San Isidro,Odontología,2023-09-25,
+P1351,Raúl,47,M,San Isidro,Emergencia,2020-08-01,0
+P1352,María,18,M,Surco,Pediatría,2021-10-24,
+P1353,María,75,,Villa El Salvador,Ginecología,2024-05-18,
+P1354,Lucía,27,NA,Surco,Emergencia,2024-03-01,
+P1355,Rosa,60,,Surco,Cardiología,2025-12-19,
+P1356,Lucía,80,,Los Olivos,Traumatología,2023-07-05,1532.05
+P1357,Carlos,72,F,Villa El Salvador,Odontología,2025-10-21,
+P1358,Carlos,72,,Villa El Salvador,Ginecología,2024-10-02,
+P1359,Ana,80,,Villa El Salvador,Pediatría,2021-08-06,
+P1360,Lucía,55,,San Isidro,Traumatología,2024-10-24,1059.0
+P1361,Jorge,42,NA,San Miguel,Traumatología,2020-02-28,1103.75
+P1362,Jorge,25,F,Miraflores,Laboratorio,2024-08-28,
+P1363,Lucía,8,NA,Surco,Pediatría,2024-09-17,900.15
+P1364,Ana,22,M,Callao,Cardiología,2023-10-31,
+P1365,Rosa,48,NA,Miraflores,Cardiología,2024-07-23,
+P1366,Rosa,60,M,San Miguel,Odontología,2022-04-19,
+P1367,Jorge,NA,NA,Villa El Salvador,Traumatología,2024-11-15,
+P1368,Rosa,13,F,Callao,Pediatría,2025-07-14,
+P1369,Fernando,8,,San Juan de Lurigancho,Odontología,2020-04-29,0
+P1370,Elena,87,M,San Juan de Lurigancho,Ginecología,2022-10-25,543.68
+P1371,Pedro,9,NA,Comas,Laboratorio,2021-01-19,0
+P1372,Luis,14,F,San Miguel,Ginecología,2024-04-17,
+P1373,Pedro,58,M,Comas,Cardiología,2023-09-13,
+P1374,María,23,M,Villa El Salvador,Odontología,2022-11-03,1068.61
+P1375,María,73,NA,Comas,Pediatría,2024-04-05,
+P1376,Raúl,NA,F,San Juan de Lurigancho,Laboratorio,2025-08-09,1189.83
+P1377,Fernando,77,M,Comas,Consulta General,2022-09-25,0
+P1378,María,17,,Miraflores,Laboratorio,2022-08-28,663.58
+P1379,Raúl,6,NA,Miraflores,Consulta General,2024-05-15,NA
+P1380,Luis,37,,San Juan de Lurigancho,Traumatología,2023-03-20,0
+P1381,Ana,59,NA,Villa El Salvador,Consulta General,2020-07-29,0
+P1382,Raúl,31,,Los Olivos,Traumatología,2023-11-07,
+P1383,Carlos,65,,Surco,Emergencia,2024-03-01,803.56
+P1384,Patricia,80,F,San Miguel,Cardiología,2020-10-12,1081.97
+P1385,Jorge,18,M,Callao,Laboratorio,2020-03-11,
+P1386,Fernando,47,F,San Isidro,Traumatología,2025-07-20,NA
+P1387,Carlos,61,,San Juan de Lurigancho,Pediatría,2021-02-25,
+P1388,Luis,9,NA,San Miguel,Ginecología,2025-05-12,0
+P1389,Carlos,,M,Surco,Emergencia,2023-09-03,
+P1390,Patricia,84,NA,Villa El Salvador,Emergencia,2025-03-02,NA
+P1391,Carlos,10,NA,San Isidro,Ginecología,2022-06-09,0
+P1392,Fernando,11,F,Callao,Laboratorio,2022-02-24,
+P1393,Luis,37,,Los Olivos,Laboratorio,2023-01-27,
+P1394,Pedro,14,F,San Isidro,Odontología,2024-11-13,
+P1395,Jorge,59,NA,Surco,Traumatología,2025-08-27,0
+P1396,Raúl,52,M,San Miguel,Emergencia,2021-10-10,1380.26
+P1397,Elena,37,,Villa El Salvador,Consulta General,2023-07-18,
+P1398,Jorge,37,F,Miraflores,Traumatología,2022-04-02,0
+P1399,Rosa,87,F,San Juan de Lurigancho,Pediatría,2020-08-07,
+P1400,Luis,12,,San Juan de Lurigancho,Laboratorio,2020-12-08,NA
+P1401,María,63,NA,Los Olivos,Cardiología,2022-09-01,NA
+P1402,Rosa,33,M,Surco,Ginecología,2023-01-01,1111.42
+P1403,Fernando,52,F,Lima,Traumatología,2023-05-02,
+P1404,María,81,F,Callao,Traumatología,2024-09-26,269.88
+P1405,Elena,81,F,San Juan de Lurigancho,Laboratorio,2025-02-03,
+P1406,Ana,42,F,Callao,Consulta General,2021-02-02,
+P1407,Pedro,65,F,Miraflores,Ginecología,2020-12-03,65.87
+P1408,Pedro,80,,San Juan de Lurigancho,Ginecología,2021-03-08,1482.73
+P1409,Rosa,44,F,San Miguel,Emergencia,2025-08-23,
+P1410,Luis,89,,Lima,Odontología,2024-07-22,1386.11
+P1411,Jorge,74,,Lima,Laboratorio,2022-04-04,0
+P1412,Luis,74,,Los Olivos,Odontología,2024-07-29,0
+P1413,Elena,36,,Surco,Pediatría,2023-09-10,
+P1414,Raúl,59,,Callao,Emergencia,2021-06-16,71.23
+P1415,Rosa,,M,Miraflores,Odontología,2020-09-30,NA
+P1416,Pedro,59,F,San Miguel,Consulta General,2025-09-10,
+P1417,Carlos,83,M,Villa El Salvador,Pediatría,2025-02-22,1416.31
+P1418,Luis,60,,San Isidro,Odontología,2022-02-24,492.32
+P1419,Lucía,31,F,Surco,Ginecología,2020-01-29,NA
+P1420,Raúl,67,,Villa El Salvador,Cardiología,2022-05-03,
+P1421,Rosa,9,F,Callao,Emergencia,2021-05-22,362.72
+P1422,Ana,55,M,Villa El Salvador,Consulta General,2022-03-06,575.26
+P1423,Jorge,21,,Lima,Cardiología,2020-10-20,0
+P1424,Raúl,73,,Surco,Laboratorio,2023-01-16,NA
+P1425,María,3,M,Surco,Emergencia,2022-07-16,1733.47
+P1426,Fernando,22,M,Comas,Emergencia,2024-06-02,0
+P1427,Jorge,86,M,Miraflores,Ginecología,2020-04-19,NA
+P1428,Ana,19,,San Juan de Lurigancho,Odontología,2025-02-26,
+P1429,Raúl,83,,San Juan de Lurigancho,Odontología,2020-05-06,147.72
+P1430,Patricia,14,,Lima,Ginecología,2025-09-11,0
+P1431,María,15,,Surco,Emergencia,2020-11-24,
+P1432,Pedro,37,NA,San Isidro,Laboratorio,2025-01-08,0
+P1433,Pedro,1,M,Miraflores,Consulta General,2021-03-09,0
+P1434,Jorge,61,,Lima,Emergencia,2021-01-04,0
+P1435,Ana,49,F,Los Olivos,Pediatría,2023-07-14,873.79
+P1436,Carlos,40,NA,Miraflores,Odontología,2023-04-23,
+P1437,Pedro,66,,Callao,Ginecología,2021-03-15,
+P1438,Jorge,37,NA,Surco,Emergencia,2025-03-31,0
+P1439,Rosa,17,M,San Juan de Lurigancho,Pediatría,2020-10-18,NA
+P1440,Pedro,58,F,Comas,Traumatología,2025-03-04,124.39
+P1441,Raúl,44,,Surco,Cardiología,2022-01-23,
+P1442,Lucía,85,,Callao,Emergencia,2021-04-13,0
+P1443,Fernando,81,F,Callao,Traumatología,2020-06-26,
+P1444,Lucía,62,NA,Surco,Consulta General,2021-11-30,0
+P1445,Ana,45,F,Villa El Salvador,Consulta General,2025-12-09,228.59
+P1446,María,55,,Comas,Ginecología,2021-10-14,1653.35
+P1447,Lucía,59,F,San Isidro,Odontología,2023-07-15,
+P1448,Fernando,19,M,San Miguel,Consulta General,2023-04-09,1722.31
+P1449,Rosa,83,M,San Miguel,Pediatría,2023-06-29,
+P1450,Carlos,67,M,San Miguel,Odontología,2024-04-26,
+P1451,Fernando,2,,Surco,Cardiología,2021-04-06,621.22
+P1452,María,NA,NA,Callao,Pediatría,2022-08-27,0
+P1453,María,58,F,Surco,Cardiología,2023-02-03,
+P1454,María,9,,San Juan de Lurigancho,Pediatría,2022-12-16,
+P1455,Elena,53,M,Surco,Consulta General,2020-08-21,
+P1456,Pedro,19,,San Isidro,Pediatría,2023-12-14,
+P1457,Luis,81,,San Isidro,Cardiología,2023-02-19,1506.42
+P1458,María,37,,San Isidro,Pediatría,2022-11-27,NA
+P1459,Pedro,68,M,Miraflores,Odontología,2025-06-04,1761.02
+P1460,Rosa,7,,San Isidro,Pediatría,2023-07-19,
+P1461,Raúl,62,,Callao,Consulta General,2024-04-12,735.05
+P1462,Patricia,86,,Comas,Odontología,2020-07-13,
+P1463,Ana,31,,Lima,Ginecología,2023-05-15,NA
+P1464,Elena,66,,Surco,Cardiología,2025-03-29,NA
+P1465,Carlos,71,,Los Olivos,Consulta General,2023-09-12,NA
+P1466,Elena,10,,Miraflores,Emergencia,2025-03-18,806.93
+P1467,María,76,F,Comas,Emergencia,2024-07-27,NA
+P1468,Patricia,48,,San Miguel,Ginecología,2021-05-27,
+P1469,María,NA,NA,San Juan de Lurigancho,Emergencia,2021-08-11,0
+P1470,Fernando,59,,Callao,Odontología,2025-07-13,NA
+P1471,Patricia,63,,San Juan de Lurigancho,Laboratorio,2023-03-25,NA
+P1472,Raúl,51,NA,Los Olivos,Emergencia,2020-02-08,0
+P1473,María,9,M,Los Olivos,Laboratorio,2021-02-27,
+P1474,Fernando,75,M,San Juan de Lurigancho,Emergencia,2023-01-19,0
+P1475,Jorge,47,,Callao,Traumatología,2025-10-30,0
+P1476,Jorge,53,M,Callao,Emergencia,2024-10-22,671.8
+P1477,Luis,32,M,Lima,Cardiología,2025-02-12,1552.82
+P1478,Luis,26,M,Comas,Laboratorio,2020-03-21,0
+P1479,Luis,84,M,San Miguel,Ginecología,2023-03-04,
+P1480,Patricia,55,,Surco,Emergencia,2022-03-20,
+P1481,Raúl,10,NA,Los Olivos,Consulta General,2020-03-01,0
+P1482,Jorge,65,,San Juan de Lurigancho,Cardiología,2020-10-02,
+P1483,María,23,F,San Isidro,Pediatría,2021-12-16,0
+P1484,Patricia,46,M,San Miguel,Cardiología,2023-08-30,
+P1485,Carlos,70,NA,Lima,Consulta General,2023-02-11,714.06
+P1486,Pedro,45,F,Callao,Consulta General,2023-08-09,
+P1487,Carlos,26,,Miraflores,Odontología,2025-04-09,NA
+P1488,Carlos,58,M,San Juan de Lurigancho,Odontología,2023-09-12,0
+P1489,Patricia,49,NA,San Isidro,Laboratorio,2024-09-04,
+P1490,Ana,6,M,San Juan de Lurigancho,Pediatría,2020-04-21,0
+P1491,Raúl,55,,Villa El Salvador,Odontología,2024-06-13,0
+P1492,Fernando,7,F,Villa El Salvador,Cardiología,2025-05-19,0
+P1493,Jorge,56,F,Callao,Cardiología,2023-02-24,NA
+P1494,Raúl,,NA,Comas,Laboratorio,2021-01-17,0
+P1495,Carlos,9,M,San Juan de Lurigancho,Odontología,2022-03-07,0
+P1496,Luis,69,,Villa El Salvador,Traumatología,2021-03-12,
+P1497,Lucía,25,F,Los Olivos,Laboratorio,2022-10-16,164.02
+P1498,Jorge,36,,Miraflores,Cardiología,2020-10-15,1295.53
+P1499,Jorge,8,,San Isidro,Odontología,2020-01-28,
+P1500,Patricia,68,NA,Lima,Consulta General,2024-06-14,
+P1501,Raúl,36,NA,Villa El Salvador,Emergencia,2021-01-07,NA
+P1502,Lucía,23,,San Juan de Lurigancho,Emergencia,2024-09-08,0
+P1503,Raúl,57,NA,Surco,Emergencia,2020-05-09,0
+P1504,Pedro,33,NA,San Isidro,Consulta General,2020-05-19,
+P1505,Lucía,69,F,Miraflores,Odontología,2021-12-01,
+P1506,Ana,82,,Villa El Salvador,Consulta General,2021-11-04,0
+P1507,Rosa,62,,Surco,Laboratorio,2023-02-11,1732.33
+P1508,Luis,4,,Lima,Laboratorio,2022-06-10,
+P1509,Lucía,31,,Surco,Odontología,2024-08-28,1731.67
+P1510,Patricia,76,M,Comas,Laboratorio,2025-06-11,941.54
+P1511,Fernando,53,,Lima,Ginecología,2020-06-17,NA
+P1512,Rosa,18,,San Miguel,Odontología,2022-03-25,
+P1513,Ana,16,M,San Juan de Lurigancho,Consulta General,2024-04-27,
+P1514,Patricia,33,M,San Juan de Lurigancho,Pediatría,2025-03-14,1988.07
+P1515,María,27,,Miraflores,Cardiología,2020-04-08,0
+P1516,Patricia,85,F,Los Olivos,Laboratorio,2025-07-25,NA
+P1517,Ana,73,,Los Olivos,Traumatología,2023-02-15,0
+P1518,Carlos,14,,San Isidro,Cardiología,2024-03-25,NA
+P1519,Elena,72,F,Los Olivos,Pediatría,2025-11-22,313.18
+P1520,Jorge,41,,Miraflores,Traumatología,2023-10-03,956.02
+P1521,Elena,51,M,Surco,Pediatría,2024-02-10,0
+P1522,Jorge,5,M,Surco,Ginecología,2021-08-13,
+P1523,Ana,,NA,Los Olivos,Odontología,2023-06-28,
+P1524,Ana,14,,San Miguel,Cardiología,2025-07-10,0
+P1525,Luis,NA,,Callao,Laboratorio,2025-09-24,0
+P1526,Fernando,79,M,San Isidro,Consulta General,2023-01-13,826.76
+P1527,Luis,65,F,San Isidro,Traumatología,2023-03-28,904.61
+P1528,Elena,76,M,Lima,Pediatría,2023-11-13,
+P1529,María,38,M,San Isidro,Consulta General,2025-09-22,
+P1530,Carlos,18,,Surco,Consulta General,2025-05-15,0
+P1531,Ana,58,F,Miraflores,Odontología,2020-06-16,0
+P1532,Lucía,75,NA,San Miguel,Emergencia,2022-03-10,NA
+P1533,Luis,65,NA,San Miguel,Emergencia,2020-01-14,
+P1534,María,61,F,San Juan de Lurigancho,Ginecología,2020-08-25,0
+P1535,Patricia,39,,Surco,Ginecología,2021-02-14,548.95
+P1536,Luis,7,NA,Callao,Emergencia,2021-01-05,NA
+P1537,Fernando,7,,San Isidro,Cardiología,2022-12-31,0
+P1538,Fernando,43,,Miraflores,Laboratorio,2022-02-25,1865.95
+P1539,Carlos,27,M,Los Olivos,Traumatología,2021-09-02,
+P1540,Raúl,21,M,Comas,Emergencia,2023-10-24,0
+P1541,Ana,44,M,Callao,Emergencia,2021-04-20,525.09
+P1542,Pedro,76,F,Los Olivos,Laboratorio,2025-04-26,
+P1543,Ana,56,F,Villa El Salvador,Laboratorio,2023-09-24,
+P1544,Raúl,9,M,Comas,Laboratorio,2023-09-17,NA
+P1545,Raúl,65,F,San Juan de Lurigancho,Emergencia,2023-09-26,
+P1546,Raúl,87,,Lima,Consulta General,2021-11-07,1042.68
+P1547,Carlos,41,NA,Comas,Consulta General,2022-07-17,1806.5
+P1548,Elena,76,NA,Miraflores,Consulta General,2022-09-26,630.3
+P1549,Pedro,5,M,Callao,Pediatría,2024-01-19,
+P1550,María,65,,Comas,Consulta General,2024-07-15,0
+P1551,Carlos,69,,Villa El Salvador,Traumatología,2025-05-11,0
+P1552,Rosa,56,M,Lima,Laboratorio,2023-01-18,
+P1553,Elena,31,NA,San Juan de Lurigancho,Odontología,2021-10-26,634.54
+P1554,Pedro,57,,Callao,Consulta General,2025-02-19,365.05
+P1555,Lucía,90,,Surco,Traumatología,2024-07-29,403.38
+P1556,María,77,F,Comas,Cardiología,2022-03-25,
+P1557,Ana,48,F,San Isidro,Cardiología,2021-04-29,750.93
+P1558,María,35,,San Miguel,Ginecología,2020-01-07,
+P1559,Elena,12,M,Surco,Ginecología,2025-12-10,309.14
+P1560,Patricia,2,F,Lima,Odontología,2020-03-21,805.11
+P1561,Rosa,65,,San Isidro,Laboratorio,2022-11-06,
+P1562,Carlos,22,,Callao,Cardiología,2024-12-30,
+P1563,Ana,69,,Villa El Salvador,Laboratorio,2025-01-21,276.74
+P1564,Jorge,22,,San Juan de Lurigancho,Ginecología,2023-11-27,
+P1565,Luis,82,,Los Olivos,Consulta General,2021-08-08,71.72
+P1566,Patricia,57,M,Villa El Salvador,Laboratorio,2021-09-04,
+P1567,Fernando,64,NA,Villa El Salvador,Odontología,2020-08-22,0
+P1568,Jorge,65,NA,San Isidro,Odontología,2023-08-04,
+P1569,Patricia,55,M,Surco,Cardiología,2024-10-04,0
+P1570,Ana,48,M,Miraflores,Laboratorio,2020-11-25,
+P1571,Carlos,85,,Villa El Salvador,Pediatría,2021-12-08,
+P1572,Raúl,16,NA,Comas,Consulta General,2021-05-25,0
+P1573,María,66,,Lima,Cardiología,2025-12-26,
+P1574,Ana,31,,San Miguel,Consulta General,2021-09-20,1746.13
+P1575,Raúl,62,,San Isidro,Odontología,2024-03-12,0
+P1576,Lucía,88,M,Miraflores,Ginecología,2025-04-07,
+P1577,Rosa,16,,Miraflores,Cardiología,2023-12-11,0
+P1578,Elena,22,M,Los Olivos,Consulta General,2020-11-05,NA
+P1579,Ana,26,,Miraflores,Consulta General,2025-10-10,1427.92
+P1580,Pedro,2,F,Comas,Laboratorio,2022-05-25,1646.55
+P1581,Ana,26,,San Miguel,Laboratorio,2020-07-14,NA
+P1582,Patricia,71,M,Callao,Laboratorio,2025-04-12,786.64
+P1583,Jorge,67,NA,Villa El Salvador,Ginecología,2024-04-16,NA
+P1584,Rosa,56,NA,Comas,Ginecología,2021-10-27,NA
+P1585,Ana,45,F,San Isidro,Pediatría,2024-08-27,NA
+P1586,Luis,71,NA,Miraflores,Pediatría,2025-04-19,
+P1587,Rosa,29,,Miraflores,Odontología,2024-10-20,1658.37
+P1588,Patricia,35,M,San Juan de Lurigancho,Cardiología,2024-01-10,
+P1589,Luis,68,F,Miraflores,Ginecología,2024-08-05,0
+P1590,Fernando,81,F,Villa El Salvador,Odontología,2022-06-17,1787.22
+P1591,Pedro,65,,San Miguel,Ginecología,2021-09-25,
+P1592,Carlos,47,,Surco,Traumatología,2022-05-30,0
+P1593,Rosa,56,M,San Isidro,Cardiología,2022-12-17,NA
+P1594,Fernando,51,,Lima,Cardiología,2021-07-04,
+P1595,Carlos,62,F,Surco,Cardiología,2022-01-05,1477.25
+P1596,Elena,38,F,Surco,Ginecología,2021-05-14,
+P1597,María,32,,Comas,Traumatología,2022-12-07,0
+P1598,María,15,NA,Surco,Cardiología,2022-01-13,
+P1599,Luis,13,M,Lima,Laboratorio,2025-06-24,396.37
+P1600,Luis,16,,Comas,Ginecología,2020-10-18,275.55
+P1601,Elena,72,M,Surco,Pediatría,2022-11-07,NA
+P1602,Luis,58,F,Surco,Laboratorio,2020-11-12,NA
+P1603,Jorge,47,F,Callao,Traumatología,2025-09-07,
+P1604,Lucía,52,,San Miguel,Ginecología,2023-09-22,0
+P1605,Raúl,53,M,Callao,Laboratorio,2022-04-11,0
+P1606,Ana,8,,Comas,Pediatría,2025-04-29,0
+P1607,Lucía,72,,Surco,Cardiología,2022-07-02,NA
+P1608,Luis,81,M,Villa El Salvador,Pediatría,2022-07-09,0
+P1609,Ana,78,,San Isidro,Odontología,2022-06-21,959.86
+P1610,Patricia,71,,San Juan de Lurigancho,Pediatría,2020-08-24,1168.85
+P1611,Luis,38,F,San Miguel,Pediatría,2021-05-06,NA
+P1612,Lucía,84,,San Juan de Lurigancho,Emergencia,2024-09-10,
+P1613,Elena,48,,Villa El Salvador,Emergencia,2025-08-10,
+P1614,Fernando,67,F,Los Olivos,Cardiología,2024-12-02,
+P1615,Raúl,67,F,San Juan de Lurigancho,Consulta General,2025-08-26,NA
+P1616,Jorge,56,,San Miguel,Pediatría,2025-04-07,
+P1617,Rosa,14,M,Lima,Laboratorio,2024-10-03,
+P1618,Raúl,69,M,Villa El Salvador,Odontología,2020-02-01,0
+P1619,Patricia,48,M,Callao,Pediatría,2025-12-04,
+P1620,María,76,,Los Olivos,Consulta General,2021-08-21,204.0
+P1621,Carlos,40,,Lima,Cardiología,2022-01-30,1831.28
+P1622,Jorge,NA,M,Los Olivos,Traumatología,2025-11-27,NA
+P1623,Carlos,58,F,San Juan de Lurigancho,Consulta General,2023-06-17,
+P1624,Fernando,4,,San Isidro,Pediatría,2025-05-21,0
+P1625,Lucía,55,,Lima,Consulta General,2023-04-23,
+P1626,Pedro,90,,Miraflores,Cardiología,2020-10-22,
+P1627,Carlos,26,F,Comas,Odontología,2024-06-16,
+P1628,Jorge,17,M,Miraflores,Odontología,2022-04-23,
+P1629,Lucía,37,NA,Callao,Laboratorio,2021-11-27,
+P1630,Carlos,48,M,Los Olivos,Emergencia,2024-09-10,
+P1631,Raúl,13,M,Los Olivos,Laboratorio,2021-10-28,
+P1632,Carlos,38,,Callao,Odontología,2022-07-25,0
+P1633,Lucía,60,,San Miguel,Odontología,2023-02-15,1334.49
+P1634,Jorge,35,M,Comas,Pediatría,2025-10-18,307.86
+P1635,Elena,87,M,San Juan de Lurigancho,Consulta General,2020-11-01,1447.15
+P1636,María,67,F,Lima,Emergencia,2021-12-23,0
+P1637,Elena,28,NA,Comas,Consulta General,2025-02-18,0
+P1638,Patricia,67,M,Surco,Odontología,2024-06-14,0
+P1639,Jorge,4,F,Lima,Traumatología,2021-05-08,
+P1640,Lucía,83,F,Villa El Salvador,Laboratorio,2020-03-05,NA
+P1641,María,8,M,Villa El Salvador,Emergencia,2022-12-02,
+P1642,Ana,29,F,Los Olivos,Emergencia,2021-04-22,
+P1643,Luis,8,F,San Miguel,Pediatría,2020-02-05,378.48
+P1644,Fernando,54,F,San Isidro,Laboratorio,2023-03-26,
+P1645,Fernando,27,F,San Isidro,Emergencia,2020-10-14,875.78
+P1646,Patricia,78,,San Juan de Lurigancho,Laboratorio,2022-10-01,NA
+P1647,Fernando,47,F,San Isidro,Pediatría,2025-07-05,NA
+P1648,Raúl,46,M,San Juan de Lurigancho,Emergencia,2025-07-01,
+P1649,María,20,M,Comas,Ginecología,2021-06-23,
+P1650,Luis,41,NA,San Isidro,Odontología,2025-10-24,
+P1651,Elena,10,F,San Juan de Lurigancho,Odontología,2025-10-08,NA
+P1652,Raúl,40,,Lima,Ginecología,2024-03-06,0
+P1653,Lucía,38,F,Villa El Salvador,Ginecología,2024-07-05,
+P1654,María,1,,Villa El Salvador,Cardiología,2023-08-31,NA
+P1655,Luis,49,F,San Isidro,Pediatría,2025-02-05,0
+P1656,María,37,,San Juan de Lurigancho,Emergencia,2023-03-11,1708.75
+P1657,María,37,F,San Miguel,Emergencia,2025-06-08,
+P1658,María,57,,Callao,Pediatría,2024-01-09,
+P1659,Raúl,NA,,Los Olivos,Pediatría,2025-05-10,0
+P1660,Carlos,75,NA,San Miguel,Laboratorio,2021-12-28,
+P1661,Fernando,79,F,San Miguel,Traumatología,2020-12-25,
+P1662,Rosa,52,,Surco,Laboratorio,2022-03-19,
+P1663,Ana,17,,Callao,Emergencia,2025-04-18,NA
+P1664,Pedro,35,NA,Surco,Odontología,2022-04-20,
+P1665,María,47,,Villa El Salvador,Emergencia,2025-04-04,NA
+P1666,María,28,,San Juan de Lurigancho,Consulta General,2022-04-13,
+P1667,María,14,,Callao,Ginecología,2022-06-22,
+P1668,Patricia,83,NA,Lima,Pediatría,2025-06-28,NA
+P1669,Lucía,85,NA,Callao,Pediatría,2022-03-04,
+P1670,Lucía,86,M,Villa El Salvador,Traumatología,2020-06-01,1554.57
+P1671,Pedro,74,M,Comas,Cardiología,2020-12-16,
+P1672,Elena,89,NA,Los Olivos,Consulta General,2022-07-25,0
+P1673,Jorge,35,NA,Los Olivos,Odontología,2020-11-19,NA
+P1674,Fernando,23,,Lima,Laboratorio,2021-08-22,0
+P1675,Rosa,75,,Miraflores,Laboratorio,2020-05-28,1746.68
+P1676,María,16,,Los Olivos,Emergencia,2023-08-22,
+P1677,Raúl,84,,Callao,Laboratorio,2024-04-29,NA
+P1678,Patricia,2,F,Lima,Traumatología,2023-02-22,
+P1679,Ana,44,F,Miraflores,Ginecología,2023-08-21,NA
+P1680,Raúl,20,NA,Miraflores,Cardiología,2021-03-28,
+P1681,Carlos,42,,Lima,Pediatría,2023-06-26,
+P1682,Patricia,13,,San Juan de Lurigancho,Laboratorio,2025-02-05,0
+P1683,Rosa,87,NA,Miraflores,Emergencia,2025-04-08,NA
+P1684,Patricia,39,,Callao,Consulta General,2023-10-17,
+P1685,Elena,63,F,San Miguel,Ginecología,2022-04-02,0
+P1686,Jorge,28,,San Juan de Lurigancho,Ginecología,2021-01-17,
+P1687,María,15,F,San Isidro,Ginecología,2025-11-02,1944.15
+P1688,Pedro,9,,San Miguel,Ginecología,2020-05-18,1288.88
+P1689,Lucía,47,,San Miguel,Emergencia,2024-05-09,1268.7
+P1690,Carlos,71,,San Miguel,Emergencia,2021-03-30,NA
+P1691,Fernando,,,Los Olivos,Laboratorio,2025-11-15,0
+P1692,Ana,50,F,San Miguel,Ginecología,2022-02-21,
+P1693,Jorge,36,M,San Miguel,Cardiología,2022-05-31,
+P1694,Ana,77,,Villa El Salvador,Laboratorio,2023-08-11,1934.4
+P1695,Rosa,53,F,San Isidro,Cardiología,2021-04-07,
+P1696,María,,,Callao,Cardiología,2023-01-16,0
+P1697,Lucía,52,,San Juan de Lurigancho,Emergencia,2024-02-29,0
+P1698,Rosa,57,NA,Los Olivos,Cardiología,2022-09-20,
+P1699,Raúl,22,,Miraflores,Laboratorio,2025-11-20,
+P1700,Carlos,77,M,Comas,Laboratorio,2023-03-01,NA
+P1701,Jorge,13,M,Comas,Pediatría,2022-05-30,0
+P1702,Pedro,83,NA,Lima,Emergencia,2021-08-24,1293.07
+P1703,Pedro,29,,Comas,Traumatología,2022-05-05,0
+P1704,Lucía,67,NA,Miraflores,Pediatría,2022-04-14,
+P1705,Raúl,85,NA,Lima,Odontología,2023-06-12,NA
+P1706,Lucía,12,NA,San Juan de Lurigancho,Ginecología,2025-05-05,
+P1707,Elena,42,F,Miraflores,Traumatología,2020-03-25,0
+P1708,Rosa,31,,San Miguel,Traumatología,2020-05-31,NA
+P1709,Raúl,44,F,Callao,Consulta General,2025-03-15,0
+P1710,Luis,31,F,Callao,Consulta General,2020-03-02,
+P1711,Fernando,39,,San Isidro,Cardiología,2021-05-11,NA
+P1712,Jorge,82,,San Juan de Lurigancho,Consulta General,2021-07-29,869.55
+P1713,Elena,13,F,San Miguel,Laboratorio,2025-08-23,0
+P1714,Ana,55,NA,Surco,Cardiología,2020-11-13,
+P1715,Elena,50,,Comas,Pediatría,2020-03-01,NA
+P1716,Raúl,63,NA,Comas,Odontología,2025-07-09,NA
+P1717,Elena,16,,Los Olivos,Emergencia,2025-01-11,
+P1718,Patricia,4,NA,Callao,Consulta General,2020-05-05,0
+P1719,Lucía,61,,San Isidro,Ginecología,2020-06-05,NA
+P1720,Jorge,12,M,San Miguel,Cardiología,2024-10-06,
+P1721,Carlos,3,NA,Comas,Laboratorio,2025-04-22,NA
+P1722,Ana,84,F,Los Olivos,Odontología,2022-08-29,
+P1723,Raúl,90,,San Miguel,Pediatría,2023-10-17,
+P1724,Luis,55,M,San Miguel,Emergencia,2021-12-30,NA
+P1725,Carlos,90,,Comas,Pediatría,2021-06-12,0
+P1726,Lucía,75,,San Miguel,Traumatología,2021-10-03,416.3
+P1727,Carlos,31,,San Juan de Lurigancho,Traumatología,2021-09-03,
+P1728,Carlos,66,,San Isidro,Pediatría,2021-11-13,NA
+P1729,Carlos,10,M,Lima,Traumatología,2021-07-18,
+P1730,Fernando,76,,Comas,Cardiología,2021-11-23,1212.02
+P1731,Ana,37,NA,Los Olivos,Consulta General,2022-05-21,
+P1732,Ana,31,F,Callao,Pediatría,2021-05-16,0
+P1733,Ana,67,,Los Olivos,Emergencia,2025-03-09,
+P1734,Elena,18,F,Villa El Salvador,Pediatría,2020-03-14,
+P1735,Luis,55,,San Isidro,Laboratorio,2023-07-26,0
+P1736,Ana,71,,Callao,Pediatría,2025-04-14,
+P1737,Ana,31,,Surco,Traumatología,2022-05-27,
+P1738,Luis,16,M,Surco,Laboratorio,2021-10-16,NA
+P1739,Luis,37,,Comas,Cardiología,2020-07-21,0
+P1740,Luis,3,,Surco,Cardiología,2022-10-02,
+P1741,Pedro,89,,Villa El Salvador,Consulta General,2024-11-12,0
+P1742,Raúl,,,Miraflores,Cardiología,2023-11-02,
+P1743,Fernando,27,NA,San Miguel,Cardiología,2020-12-05,132.5
+P1744,Elena,50,F,Comas,Consulta General,2025-04-03,
+P1745,Patricia,61,,Villa El Salvador,Traumatología,2025-06-26,0
+P1746,Fernando,36,,San Isidro,Traumatología,2024-07-16,1706.23
+P1747,Elena,11,M,San Isidro,Pediatría,2020-06-02,
+P1748,Lucía,73,,Lima,Emergencia,2022-01-03,
+P1749,Fernando,56,F,San Isidro,Emergencia,2020-06-30,NA
+P1750,Fernando,56,M,Lima,Traumatología,2023-12-11,NA
+P1751,Lucía,15,F,San Isidro,Ginecología,2021-10-21,0
+P1752,Luis,19,,Villa El Salvador,Cardiología,2023-04-21,
+P1753,Jorge,31,,Villa El Salvador,Emergencia,2023-08-23,1033.16
+P1754,Elena,3,F,Surco,Cardiología,2023-11-09,514.5
+P1755,Lucía,21,M,Surco,Cardiología,2020-09-28,NA
+P1756,Patricia,8,,Miraflores,Odontología,2024-12-04,
+P1757,Raúl,54,NA,Miraflores,Cardiología,2024-05-24,NA
+P1758,Jorge,48,,San Juan de Lurigancho,Pediatría,2024-05-23,NA
+P1759,Carlos,4,M,San Juan de Lurigancho,Laboratorio,2021-04-04,
+P1760,Pedro,83,,Comas,Traumatología,2023-11-17,
+P1761,Pedro,51,,Los Olivos,Pediatría,2023-10-18,
+P1762,Carlos,41,NA,Miraflores,Cardiología,2020-02-07,1798.69
+P1763,Rosa,10,F,Villa El Salvador,Consulta General,2025-06-23,
+P1764,Pedro,16,,Lima,Odontología,2023-11-11,470.26
+P1765,Luis,56,F,Los Olivos,Pediatría,2025-04-05,0
+P1766,María,29,,San Isidro,Cardiología,2020-01-01,0
+P1767,Jorge,51,,Comas,Cardiología,2020-11-16,
+P1768,Rosa,67,,San Miguel,Traumatología,2021-03-19,0
+P1769,Elena,6,M,Villa El Salvador,Emergencia,2022-12-08,0
+P1770,Luis,47,M,Surco,Consulta General,2022-06-09,1245.1
+P1771,Luis,74,NA,Los Olivos,Laboratorio,2025-04-06,NA
+P1772,María,33,,Miraflores,Emergencia,2022-12-31,
+P1773,Lucía,73,F,San Juan de Lurigancho,Odontología,2020-07-20,NA
+P1774,Lucía,20,,Comas,Cardiología,2025-12-27,
+P1775,Lucía,27,F,Lima,Laboratorio,2024-02-05,
+P1776,Elena,47,NA,San Isidro,Consulta General,2023-06-22,NA
+P1777,Rosa,65,,Callao,Emergencia,2025-09-25,982.09
+P1778,Pedro,2,F,Surco,Pediatría,2024-10-25,NA
+P1779,Raúl,72,,Comas,Cardiología,2024-11-15,NA
+P1780,Carlos,82,,Los Olivos,Emergencia,2021-05-13,
+P1781,Carlos,90,,Miraflores,Ginecología,2023-05-07,0
+P1782,Carlos,9,,Comas,Cardiología,2021-05-02,
+P1783,Rosa,28,M,Callao,Pediatría,2020-04-22,0
+P1784,María,55,,Miraflores,Laboratorio,2021-12-23,NA
+P1785,María,81,,Surco,Ginecología,2023-11-23,
+P1786,María,4,,Los Olivos,Laboratorio,2022-11-20,1260.16
+P1787,Elena,9,F,Villa El Salvador,Emergencia,2022-12-15,0
+P1788,Jorge,52,NA,Callao,Traumatología,2022-10-25,0
+P1789,Lucía,3,,Comas,Traumatología,2024-02-17,
+P1790,Elena,58,F,San Isidro,Ginecología,2021-06-10,
+P1791,María,53,NA,Los Olivos,Laboratorio,2022-05-13,835.85
+P1792,Luis,1,M,Surco,Laboratorio,2020-11-16,
+P1793,Pedro,36,M,San Juan de Lurigancho,Ginecología,2022-07-20,
+P1794,Pedro,46,,San Juan de Lurigancho,Ginecología,2021-04-30,0
+P1795,Luis,47,M,Surco,Consulta General,2023-07-06,
+P1796,Raúl,50,,Callao,Laboratorio,2022-09-10,
+P1797,Ana,23,F,Comas,Emergencia,2022-10-25,NA
+P1798,María,38,M,Villa El Salvador,Odontología,2023-01-05,
+P1799,Jorge,24,NA,San Juan de Lurigancho,Ginecología,2024-11-01,1318.96
+P1800,Elena,67,M,San Miguel,Emergencia,2023-07-11,1431.47
+P1801,Lucía,90,,San Juan de Lurigancho,Ginecología,2024-06-10,
+P1802,Pedro,10,F,Miraflores,Odontología,2022-09-05,
+P1803,Raúl,54,M,Los Olivos,Pediatría,2024-12-09,
+P1804,Elena,15,NA,San Miguel,Consulta General,2023-02-25,768.84
+P1805,Raúl,21,F,Los Olivos,Laboratorio,2022-11-20,0
+P1806,Lucía,33,,San Juan de Lurigancho,Pediatría,2025-09-30,0
+P1807,Elena,37,F,Miraflores,Traumatología,2023-11-09,827.58
+P1808,Lucía,31,M,Comas,Traumatología,2024-11-01,NA
+P1809,Elena,19,,Lima,Emergencia,2025-09-19,NA
+P1810,Ana,38,M,Surco,Traumatología,2023-12-30,NA
+P1811,Carlos,9,,Lima,Laboratorio,2022-10-25,
+P1812,Patricia,37,M,San Isidro,Odontología,2025-12-23,1941.02
+P1813,Rosa,38,M,Los Olivos,Cardiología,2024-12-11,0
+P1814,Pedro,3,NA,San Isidro,Laboratorio,2020-04-19,
+P1815,Jorge,47,,San Juan de Lurigancho,Laboratorio,2024-04-30,NA
+P1816,María,83,NA,San Miguel,Consulta General,2022-12-07,
+P1817,Rosa,49,F,San Miguel,Pediatría,2024-10-12,NA
+P1818,Carlos,22,NA,San Isidro,Ginecología,2022-11-24,
+P1819,Elena,19,,San Juan de Lurigancho,Ginecología,2021-09-13,NA
+P1820,Jorge,,NA,Comas,Pediatría,2023-12-29,NA
+P1821,Luis,67,NA,San Isidro,Ginecología,2021-07-13,0
+P1822,Pedro,27,,Comas,Traumatología,2023-01-17,1796.26
+P1823,Carlos,14,F,Comas,Ginecología,2020-10-31,1003.13
+P1824,Carlos,63,,Callao,Odontología,2022-05-19,
+P1825,Carlos,61,F,San Juan de Lurigancho,Odontología,2021-10-20,
+P1826,Patricia,23,,Miraflores,Consulta General,2023-07-17,NA
+P1827,Rosa,18,M,San Isidro,Cardiología,2023-02-09,
+P1828,Patricia,69,,Surco,Ginecología,2021-03-22,NA
+P1829,Patricia,20,M,San Miguel,Odontología,2020-11-17,0
+P1830,Jorge,70,F,Callao,Traumatología,2021-04-21,
+P1831,Carlos,73,M,Los Olivos,Cardiología,2021-11-25,1564.4
+P1832,Lucía,34,F,San Isidro,Odontología,2023-11-29,0
+P1833,Pedro,9,M,Surco,Consulta General,2024-01-23,
+P1834,Carlos,85,,San Isidro,Consulta General,2022-11-12,69.4
+P1835,Raúl,3,,Callao,Ginecología,2024-09-03,
+P1836,Raúl,4,,Comas,Laboratorio,2024-09-10,0
+P1837,Jorge,21,,San Miguel,Traumatología,2023-11-01,
+P1838,Patricia,64,,Miraflores,Ginecología,2020-02-12,0
+P1839,María,11,NA,Comas,Ginecología,2020-08-16,NA
+P1840,Luis,56,M,San Miguel,Emergencia,2023-03-01,274.49
+P1841,Ana,73,,San Juan de Lurigancho,Odontología,2024-01-23,129.55
+P1842,Fernando,12,F,Lima,Pediatría,2020-09-02,NA
+P1843,Raúl,68,,San Isidro,Ginecología,2024-08-24,0
+P1844,Raúl,88,M,San Juan de Lurigancho,Cardiología,2024-04-24,
+P1845,Rosa,41,M,San Juan de Lurigancho,Cardiología,2021-10-20,
+P1846,María,13,NA,Callao,Laboratorio,2024-03-23,NA
+P1847,Jorge,70,,San Miguel,Traumatología,2023-06-03,
+P1848,Ana,45,F,Callao,Ginecología,2021-04-30,
+P1849,Fernando,82,F,San Isidro,Laboratorio,2022-01-16,
+P1850,Ana,78,,Comas,Traumatología,2021-08-13,
+P1851,Rosa,46,M,Lima,Ginecología,2022-06-12,
+P1852,Carlos,5,,Miraflores,Ginecología,2021-09-23,
+P1853,Raúl,18,,San Miguel,Ginecología,2021-11-16,
+P1854,María,66,M,San Juan de Lurigancho,Traumatología,2025-10-05,
+P1855,Luis,73,NA,San Juan de Lurigancho,Ginecología,2024-07-26,0
+P1856,Lucía,11,M,Miraflores,Odontología,2024-08-17,
+P1857,Rosa,62,M,San Juan de Lurigancho,Ginecología,2025-09-12,NA
+P1858,Rosa,49,F,San Miguel,Ginecología,2022-08-07,
+P1859,Elena,45,F,San Isidro,Pediatría,2025-05-05,
+P1860,Elena,24,,Callao,Consulta General,2021-12-03,NA
+P1861,Fernando,31,,Surco,Emergencia,2023-04-02,1228.89
+P1862,Carlos,41,,Villa El Salvador,Traumatología,2024-01-12,NA
+P1863,Jorge,18,M,Comas,Ginecología,2023-11-23,0
+P1864,María,41,,Surco,Traumatología,2021-07-06,0
+P1865,Ana,44,M,Lima,Emergencia,2023-08-29,926.71
+P1866,Ana,53,,San Miguel,Emergencia,2025-03-22,1239.79
+P1867,Raúl,84,M,Surco,Cardiología,2022-08-11,0
+P1868,Elena,40,,Surco,Pediatría,2020-12-26,0
+P1869,Raúl,17,F,Los Olivos,Pediatría,2021-08-05,0
+P1870,Raúl,32,F,San Juan de Lurigancho,Ginecología,2020-09-23,121.46
+P1871,Raúl,7,F,Los Olivos,Laboratorio,2020-11-22,0
+P1872,Patricia,69,,San Isidro,Consulta General,2020-01-03,0
+P1873,Rosa,85,NA,Comas,Emergencia,2025-01-05,NA
+P1874,Fernando,85,NA,Villa El Salvador,Traumatología,2024-01-09,
+P1875,Jorge,,,Los Olivos,Laboratorio,2024-05-17,
+P1876,Raúl,6,,Callao,Pediatría,2022-05-08,
+P1877,Ana,33,NA,San Juan de Lurigancho,Laboratorio,2025-11-21,NA
+P1878,María,6,NA,Villa El Salvador,Ginecología,2023-08-10,0
+P1879,Ana,31,,San Juan de Lurigancho,Odontología,2022-10-30,76.72
+P1880,Fernando,52,NA,Miraflores,Traumatología,2023-12-13,
+P1881,Raúl,71,M,San Miguel,Emergencia,2024-04-01,NA
+P1882,Ana,4,M,Comas,Cardiología,2021-03-02,
+P1883,Pedro,47,M,Villa El Salvador,Laboratorio,2023-11-20,659.68
+P1884,Ana,58,NA,Villa El Salvador,Cardiología,2021-11-30,
+P1885,Patricia,32,M,San Miguel,Emergencia,2025-05-25,
+P1886,Elena,23,M,San Juan de Lurigancho,Pediatría,2024-07-07,1317.76
+P1887,Lucía,37,F,Villa El Salvador,Pediatría,2025-05-09,111.76
+P1888,Rosa,19,NA,Los Olivos,Consulta General,2022-04-09,
+P1889,Luis,21,F,Miraflores,Laboratorio,2021-05-07,
+P1890,Lucía,80,,Miraflores,Traumatología,2021-10-14,
+P1891,Ana,41,,Miraflores,Laboratorio,2025-05-14,
+P1892,Patricia,55,M,San Miguel,Cardiología,2020-02-09,NA
+P1893,Patricia,78,,Comas,Laboratorio,2024-02-18,NA
+P1894,María,90,M,Lima,Odontología,2022-10-11,934.91
+P1895,Elena,69,,Surco,Pediatría,2024-08-01,858.34
+P1896,Fernando,80,,Lima,Ginecología,2025-04-09,
+P1897,Fernando,26,,San Miguel,Consulta General,2023-02-20,0
+P1898,Pedro,71,NA,Lima,Laboratorio,2023-11-22,
+P1899,Ana,76,M,Lima,Consulta General,2021-11-05,NA
+P1900,Patricia,39,F,Comas,Cardiología,2022-03-31,1492.19
+P1901,Luis,53,,Miraflores,Emergencia,2023-08-18,NA
+P1902,Fernando,18,NA,Comas,Cardiología,2020-02-11,NA
+P1903,Jorge,50,M,Villa El Salvador,Laboratorio,2022-01-02,
+P1904,Fernando,17,NA,San Juan de Lurigancho,Ginecología,2023-08-30,NA
+P1905,Lucía,41,F,Surco,Cardiología,2023-06-13,
+P1906,Ana,32,M,San Miguel,Odontología,2025-10-21,NA
+P1907,Patricia,,M,Lima,Traumatología,2025-12-08,0
+P1908,Luis,16,F,San Miguel,Odontología,2024-07-22,0
+P1909,Pedro,9,M,San Juan de Lurigancho,Traumatología,2025-02-08,361.73
+P1910,Patricia,45,M,San Miguel,Cardiología,2024-07-21,
+P1911,Pedro,47,,San Miguel,Emergencia,2024-02-04,NA
+P1912,Pedro,2,,Villa El Salvador,Consulta General,2023-09-28,1503.16
+P1913,Carlos,54,,Lima,Traumatología,2023-10-15,
+P1914,Patricia,31,,San Miguel,Ginecología,2023-11-22,
+P1915,Jorge,70,,Surco,Cardiología,2025-09-15,
+P1916,Pedro,72,F,Callao,Laboratorio,2020-04-13,
+P1917,Patricia,73,M,San Isidro,Traumatología,2025-05-15,NA
+P1918,Carlos,85,M,Miraflores,Traumatología,2021-07-06,
+P1919,Carlos,31,,San Juan de Lurigancho,Laboratorio,2022-01-21,0
+P1920,Ana,19,NA,San Miguel,Ginecología,2024-11-15,NA
+P1921,Ana,60,,San Isidro,Odontología,2022-04-01,
+P1922,Patricia,37,,Surco,Laboratorio,2025-12-01,0
+P1923,Pedro,56,NA,Villa El Salvador,Cardiología,2022-12-01,
+P1924,Lucía,53,NA,Callao,Laboratorio,2023-11-05,NA
+P1925,Lucía,65,M,San Isidro,Traumatología,2023-02-09,
+P1926,Ana,41,,Comas,Traumatología,2023-10-08,0
+P1927,Rosa,66,NA,Los Olivos,Emergencia,2023-02-06,
+P1928,Jorge,86,,Lima,Ginecología,2020-05-08,NA
+P1929,Elena,78,M,Miraflores,Odontología,2021-08-26,NA
+P1930,Fernando,29,M,San Isidro,Consulta General,2020-10-26,
+P1931,Carlos,40,,San Isidro,Consulta General,2020-07-08,
+P1932,María,9,NA,Miraflores,Laboratorio,2021-01-06,
+P1933,Rosa,55,,Miraflores,Traumatología,2025-07-24,
+P1934,Luis,,,San Isidro,Emergencia,2024-04-05,NA
+P1935,Jorge,56,NA,Los Olivos,Odontología,2021-06-01,298.99
+P1936,Luis,69,NA,San Miguel,Pediatría,2022-01-03,NA
+P1937,Pedro,27,NA,Callao,Ginecología,2023-06-24,
+P1938,Fernando,13,F,Callao,Traumatología,2022-10-10,
+P1939,Pedro,5,F,Lima,Pediatría,2025-11-05,161.14
+P1940,Pedro,17,M,Miraflores,Laboratorio,2022-01-23,
+P1941,Patricia,42,F,San Juan de Lurigancho,Odontología,2022-12-26,0
+P1942,Ana,29,,Miraflores,Pediatría,2023-06-15,0
+P1943,Luis,30,M,Lima,Cardiología,2021-06-04,
+P1944,Patricia,69,M,Callao,Odontología,2021-05-23,
+P1945,Patricia,28,F,Comas,Laboratorio,2023-06-27,NA
+P1946,Pedro,57,,Surco,Emergencia,2024-01-30,
+P1947,Rosa,87,M,Los Olivos,Emergencia,2025-08-01,0
+P1948,Pedro,82,NA,San Juan de Lurigancho,Laboratorio,2025-07-14,
+P1949,Lucía,74,M,Villa El Salvador,Traumatología,2020-10-20,
+P1950,Ana,76,,Miraflores,Odontología,2020-09-30,0
+P1951,Carlos,19,,San Juan de Lurigancho,Traumatología,2022-05-22,
+P1952,Lucía,64,,Villa El Salvador,Cardiología,2020-03-20,0
+P1953,Carlos,70,,Miraflores,Consulta General,2022-05-12,664.16
+P1954,Ana,34,M,Callao,Ginecología,2023-03-10,NA
+P1955,Lucía,52,NA,San Miguel,Pediatría,2022-12-19,NA
+P1956,Luis,75,F,Lima,Consulta General,2021-01-08,
+P1957,Carlos,66,NA,Villa El Salvador,Pediatría,2023-05-08,
+P1958,Ana,57,,San Juan de Lurigancho,Emergencia,2025-02-15,
+P1959,María,83,NA,Los Olivos,Odontología,2023-07-08,
+P1960,Pedro,79,NA,Villa El Salvador,Odontología,2024-06-12,980.56
+P1961,María,81,M,Comas,Consulta General,2024-04-28,
+P1962,Raúl,82,,Comas,Ginecología,2021-12-22,0
+P1963,Fernando,5,F,San Miguel,Consulta General,2021-11-29,
+P1964,Elena,36,,San Isidro,Cardiología,2025-06-05,
+P1965,Pedro,63,,Lima,Odontología,2021-07-05,
+P1966,Elena,57,NA,San Isidro,Consulta General,2023-05-23,1659.44
+P1967,Lucía,9,,Lima,Pediatría,2020-02-26,1066.91
+P1968,Ana,58,M,Lima,Ginecología,2020-06-06,790.39
+P1969,Luis,27,,Villa El Salvador,Cardiología,2020-08-20,745.11
+P1970,Lucía,69,NA,Los Olivos,Emergencia,2024-11-07,NA
+P1971,Elena,90,,Los Olivos,Traumatología,2025-07-14,NA
+P1972,Elena,NA,M,Lima,Ginecología,2020-01-11,1199.07
+P1973,Ana,75,,Comas,Ginecología,2025-07-10,160.09
+P1974,Rosa,51,,San Isidro,Odontología,2022-08-22,472.58
+P1975,María,47,NA,San Juan de Lurigancho,Traumatología,2025-07-30,
+P1976,Jorge,50,,Villa El Salvador,Ginecología,2025-09-14,154.14
+P1977,Jorge,44,M,San Isidro,Emergencia,2023-04-14,1699.41
+P1978,Elena,6,NA,Comas,Laboratorio,2025-08-13,
+P1979,Fernando,56,F,San Juan de Lurigancho,Traumatología,2023-03-31,
+P1980,Pedro,54,M,Comas,Pediatría,2021-12-14,NA
+P1981,Fernando,84,,Los Olivos,Emergencia,2020-11-07,
+P1982,Ana,5,NA,Miraflores,Traumatología,2022-09-06,491.05
+P1983,Raúl,73,M,San Isidro,Cardiología,2025-10-28,1531.57
+P1984,Raúl,28,,San Isidro,Ginecología,2024-02-23,
+P1985,Fernando,52,,Surco,Laboratorio,2021-06-26,0
+P1986,Ana,41,M,San Juan de Lurigancho,Emergencia,2020-01-07,
+P1987,Ana,30,,Los Olivos,Emergencia,2021-01-01,0
+P1988,Fernando,70,NA,San Juan de Lurigancho,Consulta General,2021-03-10,NA
+P1989,Ana,4,F,Surco,Laboratorio,2021-12-03,
+P1990,Lucía,35,,Miraflores,Consulta General,2025-08-26,
+P1991,Jorge,39,F,San Miguel,Pediatría,2025-01-29,
+P1992,Raúl,68,,San Isidro,Consulta General,2023-06-13,0
+P1993,Pedro,55,F,Lima,Ginecología,2023-07-26,
+P1994,Patricia,6,,Los Olivos,Odontología,2020-03-06,1734.22
+P1995,Raúl,32,,Comas,Laboratorio,2020-06-20,0
+P1996,Pedro,87,F,Miraflores,Consulta General,2023-02-08,
+P1997,Elena,63,F,Surco,Cardiología,2021-04-22,
+P1998,Elena,73,M,Comas,Pediatría,2023-05-25,730.73
+P1999,Jorge,4,NA,Los Olivos,Odontología,2024-02-16,0
+P2000,Patricia,3,,Comas,Emergencia,2020-12-14,
+P2001,Ana,43,NA,San Isidro,Cardiología,2023-10-02,NA
+P2002,Pedro,65,,Surco,Pediatría,2022-07-14,1229.32
+P2003,Rosa,73,F,Los Olivos,Traumatología,2020-04-12,0
+P2004,Luis,2,F,Callao,Pediatría,2022-08-13,
+P2005,Rosa,72,,Los Olivos,Emergencia,2025-04-30,0
+P2006,Patricia,81,,San Miguel,Traumatología,2024-07-04,1420.5
+P2007,Raúl,90,NA,Villa El Salvador,Cardiología,2024-02-17,1103.96
+P2008,Elena,65,F,Los Olivos,Emergencia,2022-11-28,NA
+P2009,María,59,,Los Olivos,Odontología,2023-05-01,
+P2010,Luis,17,F,Comas,Emergencia,2022-03-26,NA
+P2011,María,85,NA,Lima,Traumatología,2024-01-13,
+P2012,Raúl,4,,San Miguel,Emergencia,2024-04-13,NA
+P2013,María,55,,San Isidro,Cardiología,2024-02-18,NA
+P2014,Pedro,76,,Miraflores,Odontología,2023-03-12,
+P2015,Pedro,55,F,Surco,Cardiología,2021-01-30,
+P2016,Luis,30,F,San Isidro,Cardiología,2020-04-15,
+P2017,Lucía,54,F,Los Olivos,Cardiología,2021-03-09,1994.88
+P2018,Luis,40,,San Juan de Lurigancho,Cardiología,2021-06-23,NA
+P2019,María,31,,Callao,Pediatría,2020-05-02,
+P2020,Fernando,14,F,Surco,Cardiología,2024-09-04,1435.98
+P2021,Carlos,17,NA,Callao,Cardiología,2024-05-14,1015.65
+P2022,María,71,NA,Los Olivos,Traumatología,2022-08-22,NA
+P2023,Carlos,9,,Miraflores,Odontología,2022-03-31,0
+P2024,Fernando,34,F,Surco,Emergencia,2021-09-01,
+P2025,Luis,61,,San Miguel,Cardiología,2024-02-03,
+P2026,Raúl,65,,San Isidro,Ginecología,2023-05-04,1660.08
+P2027,Luis,57,,Callao,Emergencia,2024-12-17,NA
+P2028,Lucía,88,F,Callao,Pediatría,2022-03-16,
+P2029,Patricia,50,M,Los Olivos,Consulta General,2022-09-20,0
+P2030,Luis,54,,Callao,Cardiología,2022-08-03,
+P2031,Carlos,88,NA,Villa El Salvador,Odontología,2022-06-01,
+P2032,Raúl,39,NA,San Juan de Lurigancho,Odontología,2024-07-28,
+P2033,Ana,86,F,Lima,Traumatología,2021-06-06,
+P2034,Rosa,60,,Comas,Odontología,2023-12-08,
+P2035,Fernando,25,,Callao,Cardiología,2020-07-17,NA
+P2036,María,43,M,Los Olivos,Traumatología,2020-05-02,
+P2037,Rosa,78,,San Juan de Lurigancho,Traumatología,2024-08-01,NA
+P2038,Fernando,10,F,Los Olivos,Traumatología,2020-01-21,
+P2039,Jorge,77,,San Juan de Lurigancho,Consulta General,2024-04-27,0
+P2040,Pedro,11,F,Callao,Consulta General,2021-04-18,NA
+P2041,Luis,63,M,Lima,Pediatría,2024-07-22,1924.84
+P2042,Lucía,16,,San Juan de Lurigancho,Cardiología,2023-08-21,0
+P2043,Jorge,87,M,Callao,Ginecología,2022-09-29,
+P2044,Pedro,52,NA,San Miguel,Emergencia,2023-01-30,679.48
+P2045,Fernando,74,NA,Surco,Cardiología,2021-07-30,0
+P2046,Pedro,16,M,San Isidro,Ginecología,2020-04-28,
+P2047,Rosa,48,M,Comas,Ginecología,2022-06-24,
+P2048,Pedro,30,NA,Surco,Odontología,2025-05-29,NA
+P2049,Pedro,10,,San Juan de Lurigancho,Ginecología,2022-07-12,1331.54
+P2050,Raúl,12,NA,Lima,Emergencia,2024-08-28,
+P2051,Jorge,58,NA,San Juan de Lurigancho,Ginecología,2024-10-31,
+P2052,María,75,,San Isidro,Consulta General,2021-07-05,
+P2053,Elena,1,,San Isidro,Cardiología,2024-08-03,
+P2054,Elena,32,F,Comas,Cardiología,2020-10-24,925.88
+P2055,Pedro,38,,Callao,Emergencia,2021-09-11,
+P2056,Jorge,38,,Lima,Consulta General,2024-09-24,NA
+P2057,Pedro,39,NA,Lima,Emergencia,2021-02-15,
+P2058,Raúl,47,NA,Comas,Ginecología,2025-01-06,0
+P2059,Fernando,49,,Callao,Pediatría,2022-04-15,
+P2060,Ana,41,M,Surco,Traumatología,2024-05-19,
+P2061,Lucía,35,,Callao,Pediatría,2022-02-01,
+P2062,Pedro,21,NA,San Juan de Lurigancho,Emergencia,2023-09-10,764.46
+P2063,Elena,76,,Lima,Ginecología,2023-06-13,
+P2064,Lucía,81,M,Comas,Pediatría,2020-04-01,948.46
+P2065,María,76,NA,Lima,Cardiología,2020-10-24,
+P2066,Jorge,33,NA,San Juan de Lurigancho,Emergencia,2020-11-06,NA
+P2067,Jorge,69,,San Isidro,Cardiología,2020-05-16,1906.65
+P2068,Elena,44,NA,Miraflores,Odontología,2020-12-25,
+P2069,Lucía,59,,San Miguel,Consulta General,2023-09-14,
+P2070,Fernando,34,NA,Surco,Consulta General,2020-03-01,1154.53
+P2071,Raúl,81,,Surco,Odontología,2025-10-08,0
+P2072,Raúl,14,,Callao,Cardiología,2025-11-30,
+P2073,Ana,21,NA,San Isidro,Odontología,2020-05-03,0
+P2074,Patricia,21,,Surco,Odontología,2021-10-13,
+P2075,Luis,51,M,Villa El Salvador,Emergencia,2023-08-15,0
+P2076,Rosa,50,,Surco,Laboratorio,2025-04-24,
+P2077,Ana,87,M,Miraflores,Emergencia,2020-10-26,
+P2078,Patricia,42,NA,San Miguel,Odontología,2024-03-06,
+P2079,Lucía,58,,Callao,Odontología,2024-11-12,758.81
+P2080,Ana,41,,San Miguel,Laboratorio,2021-06-30,1206.02
+P2081,Pedro,79,NA,San Juan de Lurigancho,Consulta General,2022-01-28,
+P2082,Elena,25,,Miraflores,Laboratorio,2024-08-23,
+P2083,Fernando,25,,Surco,Traumatología,2020-12-16,NA
+P2084,Jorge,60,NA,Callao,Laboratorio,2022-02-19,1459.26
+P2085,Jorge,18,NA,Comas,Emergencia,2023-12-05,
+P2086,Pedro,3,M,Callao,Cardiología,2022-04-24,0
+P2087,Lucía,83,M,Miraflores,Traumatología,2020-01-06,0
+P2088,Elena,56,F,San Juan de Lurigancho,Cardiología,2025-10-06,
+P2089,Fernando,83,,Lima,Odontología,2023-06-28,0
+P2090,Ana,89,,San Miguel,Laboratorio,2020-06-26,
+P2091,Rosa,34,NA,San Juan de Lurigancho,Pediatría,2021-04-08,NA
+P2092,Patricia,12,,Callao,Pediatría,2020-04-08,0
+P2093,Luis,70,F,Surco,Consulta General,2021-02-13,NA
+P2094,Luis,56,F,Miraflores,Odontología,2024-08-18,
+P2095,María,28,M,Comas,Cardiología,2025-07-03,
+P2096,Jorge,39,M,Surco,Cardiología,2025-10-29,795.81
+P2097,Jorge,5,,Surco,Cardiología,2023-05-06,0
+P2098,Luis,46,M,Villa El Salvador,Emergencia,2020-04-17,
+P2099,María,69,F,San Miguel,Odontología,2023-02-27,
+P2100,Lucía,74,NA,Miraflores,Ginecología,2021-01-29,0
+P2101,Raúl,64,,Comas,Cardiología,2021-02-09,0
+P2102,Lucía,16,,San Miguel,Consulta General,2022-03-18,1770.31
+P2103,Lucía,36,,San Isidro,Traumatología,2024-05-19,1296.47
+P2104,Pedro,40,F,Los Olivos,Consulta General,2025-10-31,
+P2105,María,63,NA,San Juan de Lurigancho,Laboratorio,2023-02-09,
+P2106,Elena,65,,Miraflores,Laboratorio,2024-09-11,
+P2107,Pedro,53,F,Los Olivos,Laboratorio,2025-08-29,
+P2108,Patricia,35,NA,Lima,Emergencia,2023-12-01,NA
+P2109,Luis,71,F,Lima,Cardiología,2021-12-15,
+P2110,Elena,1,,Lima,Cardiología,2025-09-27,
+P2111,Patricia,89,NA,Comas,Consulta General,2022-01-26,NA
+P2112,Pedro,19,NA,Callao,Pediatría,2022-05-22,NA
+P2113,Lucía,,,Surco,Pediatría,2021-03-31,0
+P2114,Carlos,89,F,Los Olivos,Laboratorio,2022-11-15,
+P2115,Jorge,71,M,Lima,Emergencia,2025-04-15,
+P2116,María,44,,Miraflores,Consulta General,2022-12-08,
+P2117,Ana,67,,Surco,Ginecología,2021-07-15,
+P2118,Raúl,72,,Callao,Consulta General,2023-09-29,0
+P2119,Jorge,1,F,Los Olivos,Emergencia,2025-09-03,0
+P2120,Fernando,52,,Lima,Traumatología,2022-06-14,
+P2121,Pedro,62,NA,Comas,Odontología,2025-01-13,0
+P2122,Patricia,61,NA,Lima,Pediatría,2023-10-19,
+P2123,Rosa,67,F,Lima,Odontología,2021-02-20,
+P2124,Fernando,48,NA,Callao,Consulta General,2024-08-21,NA
+P2125,Jorge,28,,Villa El Salvador,Traumatología,2023-02-14,
+P2126,Raúl,16,NA,Los Olivos,Cardiología,2024-07-28,749.56
+P2127,Patricia,41,F,San Juan de Lurigancho,Odontología,2020-11-19,
+P2128,Ana,17,,Villa El Salvador,Traumatología,2025-07-06,NA
+P2129,Fernando,57,NA,Los Olivos,Laboratorio,2020-10-08,
+P2130,Lucía,10,F,San Juan de Lurigancho,Pediatría,2023-11-28,
+P2131,María,82,F,Lima,Ginecología,2022-01-24,NA
+P2132,María,39,,San Juan de Lurigancho,Consulta General,2023-11-26,NA
+P2133,Elena,90,F,Surco,Cardiología,2022-03-16,0
+P2134,Patricia,90,NA,Lima,Ginecología,2021-11-02,0
+P2135,Pedro,43,NA,San Miguel,Cardiología,2020-03-22,NA
+P2136,Raúl,43,M,Comas,Emergencia,2024-10-03,
+P2137,Elena,28,F,Miraflores,Cardiología,2020-05-11,
+P2138,Lucía,76,NA,Callao,Traumatología,2024-12-31,NA
+P2139,Jorge,80,F,San Isidro,Odontología,2020-08-18,
+P2140,Luis,8,NA,San Juan de Lurigancho,Odontología,2023-01-07,
+P2141,Carlos,28,,Callao,Ginecología,2024-12-28,
+P2142,Patricia,72,F,Villa El Salvador,Laboratorio,2025-06-28,NA
+P2143,Patricia,32,F,San Miguel,Pediatría,2021-05-25,0
+P2144,Patricia,78,M,Miraflores,Traumatología,2022-07-11,
+P2145,Elena,,,San Isidro,Cardiología,2023-03-13,NA
+P2146,María,25,M,Comas,Ginecología,2021-02-03,
+P2147,Fernando,52,F,San Juan de Lurigancho,Emergencia,2023-03-10,NA
+P2148,Luis,69,M,Los Olivos,Laboratorio,2022-07-16,1259.16
+P2149,Raúl,18,NA,San Juan de Lurigancho,Ginecología,2020-10-12,NA
+P2150,Pedro,14,NA,Villa El Salvador,Laboratorio,2021-03-17,
+P2151,Luis,6,M,San Miguel,Ginecología,2022-03-26,1299.08
+P2152,Luis,42,M,San Juan de Lurigancho,Laboratorio,2020-07-22,0
+P2153,María,44,,Los Olivos,Emergencia,2020-01-09,0
+P2154,Lucía,64,,Villa El Salvador,Ginecología,2024-11-02,
+P2155,Luis,41,,Surco,Traumatología,2022-01-05,
+P2156,Fernando,48,M,Villa El Salvador,Cardiología,2025-03-19,0
+P2157,Luis,8,,Comas,Pediatría,2023-04-11,0
+P2158,Elena,76,,Miraflores,Pediatría,2022-03-23,NA
+P2159,Patricia,78,M,Lima,Consulta General,2020-02-24,
+P2160,Pedro,21,,Comas,Ginecología,2023-10-03,NA
+P2161,Elena,,M,Villa El Salvador,Emergencia,2025-03-19,0
+P2162,Fernando,87,,Lima,Traumatología,2023-12-20,0
+P2163,Elena,3,F,San Isidro,Laboratorio,2024-07-16,0
+P2164,Patricia,38,M,San Isidro,Traumatología,2022-10-24,
+P2165,María,68,,Los Olivos,Odontología,2020-12-01,NA
+P2166,Rosa,20,F,Miraflores,Cardiología,2023-11-29,NA
+P2167,Raúl,57,,Surco,Consulta General,2022-06-29,
+P2168,María,69,,Comas,Odontología,2022-06-17,
+P2169,Elena,75,,San Miguel,Laboratorio,2024-10-04,NA
+P2170,Jorge,59,,Surco,Cardiología,2023-10-13,
+P2171,Luis,29,NA,San Juan de Lurigancho,Ginecología,2020-02-29,
+P2172,Elena,61,NA,Los Olivos,Cardiología,2024-11-21,NA
+P2173,Luis,58,,Los Olivos,Consulta General,2025-02-20,
+P2174,Pedro,56,F,San Miguel,Odontología,2024-12-25,0
+P2175,Lucía,13,,San Miguel,Cardiología,2024-09-25,
+P2176,Rosa,52,,Villa El Salvador,Cardiología,2020-01-04,316.04
+P2177,Luis,76,,Lima,Laboratorio,2023-09-09,
+P2178,Jorge,62,M,Miraflores,Consulta General,2024-11-22,
+P2179,Luis,37,NA,Lima,Odontología,2024-07-01,975.81
+P2180,María,19,F,Comas,Pediatría,2025-06-17,
+P2181,Patricia,1,F,San Isidro,Ginecología,2023-11-05,
+P2182,Jorge,37,,Miraflores,Cardiología,2020-06-24,250.87
+P2183,Elena,59,NA,San Miguel,Odontología,2022-09-29,0
+P2184,Jorge,63,F,San Juan de Lurigancho,Traumatología,2024-05-15,1809.85
+P2185,Pedro,37,,Los Olivos,Pediatría,2022-06-14,1534.02
+P2186,Lucía,22,,San Juan de Lurigancho,Traumatología,2024-02-10,
+P2187,Raúl,26,,Surco,Pediatría,2024-01-10,166.19
+P2188,Pedro,21,F,San Isidro,Ginecología,2020-08-09,0
+P2189,Patricia,52,,Surco,Pediatría,2024-10-18,
+P2190,Elena,38,,Miraflores,Emergencia,2025-11-15,NA
+P2191,Rosa,64,NA,Los Olivos,Traumatología,2021-09-07,0
+P2192,Pedro,86,F,Callao,Cardiología,2022-08-24,1531.54
+P2193,Elena,72,M,Callao,Consulta General,2020-07-23,
+P2194,Lucía,10,,Villa El Salvador,Pediatría,2021-12-22,1580.09
+P2195,Pedro,11,F,San Miguel,Ginecología,2024-03-04,
+P2196,Elena,61,F,Surco,Ginecología,2020-03-05,NA
+P2197,Rosa,69,M,Los Olivos,Laboratorio,2023-11-05,1314.03
+P2198,Carlos,55,NA,Comas,Ginecología,2024-12-30,
+P2199,Carlos,79,NA,Surco,Traumatología,2023-04-04,
+P2200,Carlos,37,F,Villa El Salvador,Laboratorio,2021-07-13,0
+P2201,Carlos,22,F,Miraflores,Traumatología,2025-01-27,NA
+P2202,Fernando,59,,Lima,Traumatología,2023-03-01,0
+P2203,Elena,43,,Comas,Pediatría,2020-03-12,NA
+P2204,Ana,73,M,San Isidro,Consulta General,2020-06-24,1622.74
+P2205,Carlos,20,,San Miguel,Consulta General,2025-08-01,
+P2206,Ana,47,,Miraflores,Emergencia,2022-01-10,
+P2207,Jorge,70,M,Surco,Traumatología,2022-06-22,
+P2208,María,48,F,San Juan de Lurigancho,Consulta General,2025-10-11,
+P2209,Luis,70,M,Comas,Cardiología,2021-11-15,
+P2210,Fernando,66,F,Comas,Odontología,2023-05-16,NA
+P2211,Ana,88,,Villa El Salvador,Cardiología,2021-11-19,
+P2212,Lucía,88,,Villa El Salvador,Emergencia,2024-03-26,
+P2213,Patricia,27,,San Miguel,Traumatología,2021-07-18,
+P2214,Fernando,34,M,Los Olivos,Emergencia,2022-02-09,
+P2215,Pedro,88,F,San Juan de Lurigancho,Traumatología,2024-05-25,
+P2216,Fernando,90,M,Miraflores,Ginecología,2021-12-24,
+P2217,Carlos,16,NA,San Juan de Lurigancho,Cardiología,2025-05-20,0
+P2218,Fernando,49,,San Juan de Lurigancho,Emergencia,2021-09-03,
+P2219,María,22,,Lima,Laboratorio,2024-05-11,
+P2220,Fernando,78,NA,Los Olivos,Ginecología,2021-05-01,
+P2221,Patricia,22,,Los Olivos,Laboratorio,2025-12-27,NA
+P2222,Rosa,47,,Los Olivos,Odontología,2020-01-12,
+P2223,Raúl,84,,Lima,Consulta General,2022-11-25,NA
+P2224,Rosa,51,M,Callao,Traumatología,2024-04-10,1672.26
+P2225,Rosa,40,M,Villa El Salvador,Ginecología,2022-12-08,
+P2226,Luis,81,M,Los Olivos,Emergencia,2023-11-09,
+P2227,Carlos,44,NA,Comas,Pediatría,2020-12-19,1652.58
+P2228,Lucía,85,NA,Villa El Salvador,Laboratorio,2022-10-12,622.03
+P2229,Pedro,40,F,Comas,Traumatología,2021-08-03,
+P2230,Pedro,45,,Miraflores,Emergencia,2023-03-17,
+P2231,María,7,M,Lima,Cardiología,2024-05-19,1958.53
+P2232,Jorge,62,NA,San Miguel,Traumatología,2025-05-07,0
+P2233,Luis,80,M,San Miguel,Laboratorio,2023-11-12,
+P2234,Pedro,36,F,San Miguel,Laboratorio,2020-06-11,
+P2235,Rosa,6,F,Los Olivos,Emergencia,2025-03-21,0
+P2236,Raúl,19,,San Juan de Lurigancho,Cardiología,2024-08-17,NA
+P2237,Rosa,72,NA,Villa El Salvador,Odontología,2025-04-21,0
+P2238,Pedro,42,,Surco,Pediatría,2025-10-18,0
+P2239,Jorge,20,NA,Surco,Laboratorio,2020-03-11,0
+P2240,Carlos,80,M,San Miguel,Consulta General,2025-01-12,
+P2241,Jorge,54,F,Los Olivos,Pediatría,2021-02-14,NA
+P2242,Carlos,64,F,San Miguel,Odontología,2020-03-01,790.34
+P2243,Elena,79,,Miraflores,Ginecología,2021-03-15,NA
+P2244,Rosa,,NA,Callao,Ginecología,2020-04-08,0
+P2245,Fernando,45,,San Isidro,Consulta General,2020-08-12,128.66
+P2246,Elena,41,NA,Villa El Salvador,Cardiología,2024-07-20,
+P2247,Jorge,1,F,Villa El Salvador,Odontología,2023-06-15,0
+P2248,Carlos,33,F,San Isidro,Ginecología,2025-04-02,
+P2249,Jorge,83,M,Comas,Emergencia,2020-09-05,
+P2250,Ana,10,,San Isidro,Traumatología,2023-01-27,NA
+P2251,Ana,5,,Los Olivos,Odontología,2024-09-15,
+P2252,Elena,3,F,Callao,Emergencia,2024-01-27,918.69
+P2253,Carlos,40,,Surco,Cardiología,2021-01-11,
+P2254,Luis,83,,Surco,Traumatología,2021-01-02,0
+P2255,María,60,,Lima,Cardiología,2021-05-20,
+P2256,Patricia,63,M,Lima,Cardiología,2020-05-01,0
+P2257,Ana,40,,Callao,Laboratorio,2023-01-23,0
+P2258,Jorge,38,NA,Comas,Emergencia,2023-04-21,NA
+P2259,Carlos,29,,San Isidro,Laboratorio,2025-03-05,285.31
+P2260,Luis,70,NA,San Juan de Lurigancho,Pediatría,2024-09-27,563.21
+P2261,Patricia,47,F,Los Olivos,Pediatría,2020-02-02,806.17
+P2262,Carlos,75,,San Miguel,Odontología,2022-10-11,NA
+P2263,Fernando,38,NA,San Miguel,Laboratorio,2023-08-17,0
+P2264,Luis,67,,San Isidro,Odontología,2022-06-05,0
+P2265,Raúl,21,NA,Surco,Pediatría,2023-06-28,
+P2266,Luis,50,M,San Miguel,Consulta General,2020-06-02,NA
+P2267,Jorge,79,NA,San Miguel,Traumatología,2024-04-08,
+P2268,Lucía,48,,San Miguel,Odontología,2025-05-20,1526.99
+P2269,Pedro,8,,Comas,Laboratorio,2023-03-29,
+P2270,Patricia,4,,San Juan de Lurigancho,Pediatría,2020-11-05,
+P2271,Jorge,65,F,Los Olivos,Pediatría,2025-04-14,161.17
+P2272,Pedro,65,M,Villa El Salvador,Odontología,2020-12-31,0
+P2273,Elena,58,,Lima,Ginecología,2025-05-29,
+P2274,Raúl,42,,San Miguel,Consulta General,2024-02-21,
+P2275,Ana,29,F,Villa El Salvador,Traumatología,2024-06-09,1897.99
+P2276,Patricia,47,M,Lima,Emergencia,2025-10-26,1755.15
+P2277,Raúl,25,,San Juan de Lurigancho,Traumatología,2023-10-10,NA
+P2278,Lucía,31,,Miraflores,Emergencia,2025-11-01,
+P2279,Luis,54,NA,Los Olivos,Cardiología,2023-02-01,NA
+P2280,Lucía,33,,Comas,Ginecología,2021-03-28,821.55
+P2281,Elena,72,M,Los Olivos,Emergencia,2020-10-25,NA
+P2282,Elena,58,NA,San Isidro,Emergencia,2022-04-09,NA
+P2283,Ana,NA,,Villa El Salvador,Ginecología,2022-06-08,NA
+P2284,Ana,19,F,Lima,Laboratorio,2020-10-19,0
+P2285,Pedro,10,,Callao,Traumatología,2023-06-10,0
+P2286,Ana,60,,Los Olivos,Traumatología,2023-03-16,986.41
+P2287,Lucía,81,F,Villa El Salvador,Traumatología,2025-03-14,0
+P2288,Ana,63,F,San Miguel,Emergencia,2021-10-03,
+P2289,Fernando,82,NA,Surco,Laboratorio,2023-05-03,NA
+P2290,Jorge,46,M,Lima,Consulta General,2022-04-19,0
+P2291,Raúl,36,F,Comas,Emergencia,2023-07-06,
+P2292,Ana,50,,San Miguel,Traumatología,2023-01-14,
+P2293,Ana,90,,San Juan de Lurigancho,Laboratorio,2020-03-17,0
+P2294,Luis,82,NA,Surco,Cardiología,2024-07-12,NA
+P2295,Pedro,76,NA,Lima,Cardiología,2021-12-26,NA
+P2296,Fernando,76,NA,Lima,Traumatología,2024-03-23,NA
+P2297,Elena,9,,Lima,Pediatría,2020-01-14,0
+P2298,Fernando,2,F,San Isidro,Laboratorio,2022-12-22,376.76
+P2299,María,81,,Los Olivos,Traumatología,2024-01-09,
+P2300,Raúl,80,NA,San Miguel,Pediatría,2024-10-20,
+P2301,Carlos,24,F,Callao,Odontología,2024-03-29,
+P2302,Elena,2,M,Villa El Salvador,Cardiología,2024-07-05,
+P2303,Luis,87,NA,Callao,Consulta General,2024-06-10,0
+P2304,María,88,M,San Miguel,Pediatría,2023-08-20,NA
+P2305,Jorge,20,,Los Olivos,Traumatología,2022-05-25,1307.17
+P2306,Patricia,37,,San Miguel,Pediatría,2021-04-04,NA
+P2307,Pedro,43,,Surco,Ginecología,2023-03-25,884.75
+P2308,Pedro,53,F,San Miguel,Emergencia,2025-07-11,
+P2309,María,26,,Miraflores,Odontología,2020-11-25,1183.87
+P2310,Patricia,87,M,Callao,Emergencia,2024-06-09,
+P2311,Elena,18,NA,San Juan de Lurigancho,Consulta General,2025-05-18,0
+P2312,Lucía,85,F,Callao,Traumatología,2024-11-11,
+P2313,Patricia,41,,Los Olivos,Laboratorio,2021-09-10,NA
+P2314,Ana,64,,Lima,Cardiología,2021-12-10,0
+P2315,Rosa,12,M,Villa El Salvador,Emergencia,2025-09-07,NA
+P2316,Elena,86,,Surco,Cardiología,2023-07-09,
+P2317,Raúl,8,,San Juan de Lurigancho,Laboratorio,2024-01-28,
+P2318,Patricia,81,M,San Miguel,Cardiología,2025-07-06,
+P2319,Ana,31,NA,Callao,Cardiología,2025-11-12,NA
+P2320,Raúl,27,M,Callao,Pediatría,2021-09-19,
+P2321,Rosa,50,,San Isidro,Emergencia,2020-12-31,
+P2322,Raúl,70,,Comas,Odontología,2024-05-13,NA
+P2323,Pedro,46,F,Villa El Salvador,Ginecología,2025-11-23,
+P2324,Rosa,17,F,Lima,Cardiología,2025-04-09,NA
+P2325,Patricia,4,,San Miguel,Odontología,2022-12-19,0
+P2326,Luis,67,M,Miraflores,Cardiología,2024-09-20,0
+P2327,Ana,18,F,Lima,Traumatología,2021-07-22,1983.23
+P2328,Ana,15,,Callao,Pediatría,2023-12-05,192.19
+P2329,Ana,19,F,Villa El Salvador,Pediatría,2022-11-27,526.33
+P2330,Luis,74,NA,San Miguel,Odontología,2023-09-11,265.45
+P2331,Rosa,77,M,San Isidro,Laboratorio,2020-11-14,
+P2332,Lucía,2,M,Lima,Traumatología,2021-10-29,
+P2333,Raúl,55,M,Los Olivos,Traumatología,2022-07-31,0
+P2334,Pedro,39,,Surco,Emergencia,2022-08-24,NA
+P2335,Fernando,15,NA,Miraflores,Cardiología,2021-02-28,0
+P2336,Carlos,NA,,Surco,Traumatología,2024-03-03,0
+P2337,María,87,NA,San Miguel,Ginecología,2021-03-05,
+P2338,Luis,71,M,San Juan de Lurigancho,Laboratorio,2022-01-31,
+P2339,María,61,,San Isidro,Odontología,2024-05-08,1698.94
+P2340,Jorge,23,M,Callao,Laboratorio,2023-02-14,0
+P2341,Elena,90,,San Miguel,Pediatría,2020-07-15,
+P2342,Jorge,79,NA,San Isidro,Emergencia,2020-12-02,NA
+P2343,Lucía,80,NA,San Isidro,Emergencia,2022-02-03,
+P2344,Elena,83,,Los Olivos,Odontología,2021-01-01,213.72
+P2345,Rosa,30,NA,Lima,Laboratorio,2024-06-16,NA
+P2346,Raúl,10,NA,Los Olivos,Traumatología,2023-10-28,
+P2347,Luis,39,,Los Olivos,Ginecología,2025-06-13,0
+P2348,Fernando,66,NA,San Juan de Lurigancho,Odontología,2021-02-20,0
+P2349,Elena,38,F,San Miguel,Emergencia,2022-10-24,NA
+P2350,Elena,44,NA,Surco,Pediatría,2025-05-30,
+P2351,Raúl,85,F,San Isidro,Consulta General,2023-02-07,230.29
+P2352,Lucía,57,NA,Surco,Ginecología,2020-06-24,0
+P2353,Elena,,F,San Isidro,Pediatría,2024-04-08,
+P2354,Raúl,49,M,Villa El Salvador,Cardiología,2021-04-30,
+P2355,Rosa,4,,Villa El Salvador,Laboratorio,2023-08-28,
+P2356,María,48,NA,Lima,Ginecología,2025-05-22,0
+P2357,Pedro,34,F,Surco,Laboratorio,2020-09-14,1065.42
+P2358,Lucía,63,NA,Comas,Cardiología,2025-10-09,
+P2359,Ana,29,F,San Juan de Lurigancho,Consulta General,2025-04-27,NA
+P2360,Luis,1,,San Isidro,Consulta General,2022-09-18,0
+P2361,Ana,14,M,San Isidro,Cardiología,2024-02-05,
+P2362,Pedro,27,,San Miguel,Consulta General,2025-01-22,0
+P2363,Carlos,41,,Callao,Emergencia,2021-11-06,
+P2364,Fernando,44,M,San Isidro,Laboratorio,2025-08-08,
+P2365,Luis,62,M,San Juan de Lurigancho,Consulta General,2025-02-10,NA
+P2366,Raúl,18,,Lima,Consulta General,2023-10-07,
+P2367,Ana,26,NA,Los Olivos,Odontología,2020-06-11,
+P2368,Carlos,2,,Lima,Ginecología,2020-11-10,NA
+P2369,Pedro,62,F,San Miguel,Emergencia,2022-10-03,0
+P2370,Jorge,46,NA,Miraflores,Ginecología,2022-02-21,
+P2371,Rosa,8,,Surco,Odontología,2023-09-21,
+P2372,Lucía,35,,San Miguel,Laboratorio,2023-01-18,NA
+P2373,Luis,89,,Comas,Emergencia,2022-12-11,1739.15
+P2374,Raúl,4,,San Isidro,Consulta General,2020-06-01,
+P2375,Patricia,5,M,Lima,Emergencia,2022-06-13,1302.23
+P2376,Pedro,69,F,Comas,Ginecología,2020-10-13,
+P2377,Lucía,41,NA,Callao,Consulta General,2020-06-13,
+P2378,Patricia,66,F,San Juan de Lurigancho,Cardiología,2022-08-28,
+P2379,Elena,71,F,Los Olivos,Emergencia,2023-04-27,0
+P2380,Jorge,35,NA,Callao,Traumatología,2022-05-16,NA
+P2381,Luis,57,F,Los Olivos,Pediatría,2025-03-15,0
+P2382,Raúl,21,M,Surco,Odontología,2022-10-01,
+P2383,María,84,,San Isidro,Pediatría,2024-05-22,0
+P2384,Ana,25,NA,Villa El Salvador,Odontología,2023-07-27,
+P2385,Elena,23,F,Miraflores,Emergencia,2024-06-21,1741.43
+P2386,Elena,28,NA,San Miguel,Odontología,2025-11-12,1486.31
+P2387,María,70,F,San Miguel,Odontología,2022-06-01,
+P2388,Patricia,16,F,Miraflores,Consulta General,2021-01-15,
+P2389,Elena,61,F,Comas,Pediatría,2023-10-04,NA
+P2390,Raúl,42,F,San Juan de Lurigancho,Laboratorio,2020-06-13,
+P2391,Carlos,82,F,San Juan de Lurigancho,Ginecología,2025-05-29,NA
+P2392,Pedro,54,F,Miraflores,Traumatología,2024-04-25,0
+P2393,Ana,47,M,San Juan de Lurigancho,Pediatría,2021-09-09,562.24
+P2394,Jorge,39,M,Comas,Emergencia,2021-03-30,1820.13
+P2395,María,67,NA,Callao,Cardiología,2021-06-30,79.02
+P2396,Patricia,65,NA,Lima,Emergencia,2021-05-02,0
+P2397,Ana,28,M,Villa El Salvador,Cardiología,2025-07-12,NA
+P2398,Raúl,65,M,Los Olivos,Emergencia,2024-02-11,1902.92
+P2399,Raúl,84,,Lima,Emergencia,2025-10-30,
+P2400,Lucía,9,F,Miraflores,Odontología,2022-06-26,NA
+P2401,María,28,,Callao,Pediatría,2023-12-28,1878.61
+P2402,Patricia,59,,San Isidro,Cardiología,2025-06-15,0
+P2403,Jorge,16,,Surco,Laboratorio,2021-10-01,NA
+P2404,Elena,69,,Miraflores,Cardiología,2024-03-21,NA
+P2405,Fernando,65,,San Isidro,Ginecología,2024-12-16,0
+P2406,Luis,47,F,San Miguel,Ginecología,2023-09-03,NA
+P2407,Luis,78,M,Villa El Salvador,Odontología,2023-05-11,0
+P2408,Raúl,3,,Villa El Salvador,Ginecología,2025-06-15,NA
+P2409,Ana,55,NA,Villa El Salvador,Laboratorio,2021-09-03,
+P2410,Luis,89,,Miraflores,Consulta General,2020-09-12,
+P2411,Ana,30,F,Miraflores,Cardiología,2022-10-29,
+P2412,Luis,39,NA,Villa El Salvador,Odontología,2022-10-03,0
+P2413,Lucía,29,NA,Comas,Odontología,2022-08-01,
+P2414,Luis,81,F,Los Olivos,Cardiología,2022-09-21,0
+P2415,Ana,18,F,Villa El Salvador,Emergencia,2023-01-08,0
+P2416,Elena,49,M,Los Olivos,Cardiología,2022-11-13,0
+P2417,Fernando,60,NA,San Juan de Lurigancho,Ginecología,2023-06-28,NA
+P2418,Ana,47,M,Lima,Emergencia,2021-10-25,
+P2419,Jorge,34,,Los Olivos,Traumatología,2022-07-13,0
+P2420,Rosa,85,NA,Los Olivos,Traumatología,2022-01-11,0
+P2421,Elena,16,,Callao,Cardiología,2022-11-07,1837.26
+P2422,María,72,,San Isidro,Traumatología,2020-08-05,1601.39
+P2423,Luis,15,NA,Los Olivos,Ginecología,2023-01-24,1034.43
+P2424,Ana,8,NA,San Miguel,Consulta General,2023-09-23,
+P2425,Ana,18,,Los Olivos,Emergencia,2023-01-06,379.87
+P2426,María,32,,Lima,Cardiología,2020-01-13,0
+P2427,Rosa,55,NA,San Juan de Lurigancho,Emergencia,2025-01-05,
+P2428,Rosa,19,,Miraflores,Consulta General,2025-07-23,
+P2429,María,4,,San Juan de Lurigancho,Ginecología,2024-11-24,0
+P2430,Fernando,17,M,San Juan de Lurigancho,Consulta General,2022-07-12,NA
+P2431,Raúl,39,NA,Comas,Emergencia,2023-01-15,
+P2432,Ana,78,,Miraflores,Ginecología,2021-11-05,
+P2433,Elena,83,,San Miguel,Laboratorio,2023-05-22,1530.29
+P2434,María,57,,Callao,Odontología,2021-12-24,NA
+P2435,Ana,13,,San Miguel,Emergencia,2025-12-14,377.85
+P2436,Pedro,84,M,Villa El Salvador,Consulta General,2022-04-17,
+P2437,Fernando,9,F,Comas,Traumatología,2021-12-15,0
+P2438,Fernando,48,,San Miguel,Ginecología,2022-04-25,592.88
+P2439,Luis,79,NA,Callao,Cardiología,2020-01-13,532.41
+P2440,Raúl,65,,Callao,Pediatría,2024-01-24,
+P2441,Rosa,24,M,Los Olivos,Cardiología,2022-11-08,
+P2442,Pedro,71,,Miraflores,Traumatología,2020-06-02,NA
+P2443,Patricia,11,F,San Miguel,Pediatría,2024-03-18,NA
+P2444,Pedro,26,,San Isidro,Consulta General,2025-05-26,1290.14
+P2445,Pedro,37,F,San Isidro,Consulta General,2024-12-02,0
+P2446,Pedro,30,M,Callao,Pediatría,2021-11-30,1469.2
+P2447,Pedro,33,,Villa El Salvador,Traumatología,2022-09-25,
+P2448,Jorge,64,,Miraflores,Emergencia,2022-01-21,
+P2449,Raúl,15,,Miraflores,Traumatología,2025-09-17,69.84
+P2450,Luis,65,NA,Lima,Cardiología,2020-10-01,NA
+P2451,Carlos,67,NA,San Isidro,Laboratorio,2025-02-18,
+P2452,Jorge,71,,San Juan de Lurigancho,Ginecología,2023-08-15,
+P2453,Pedro,63,,Los Olivos,Odontología,2022-04-04,
+P2454,Luis,9,NA,Los Olivos,Ginecología,2025-01-12,
+P2455,Carlos,67,F,Callao,Odontología,2024-05-19,NA
+P2456,Raúl,77,F,Lima,Ginecología,2025-05-13,593.28
+P2457,Luis,64,M,Miraflores,Cardiología,2023-01-07,
+P2458,Elena,31,,San Isidro,Laboratorio,2025-12-08,
+P2459,Lucía,73,,Los Olivos,Odontología,2022-02-16,
+P2460,Raúl,16,M,Miraflores,Laboratorio,2022-07-19,
+P2461,Pedro,31,NA,San Miguel,Ginecología,2021-08-09,NA
+P2462,Rosa,8,NA,Lima,Emergencia,2023-04-15,0
+P2463,Ana,63,F,Los Olivos,Pediatría,2024-03-26,0
+P2464,María,28,F,Villa El Salvador,Pediatría,2022-06-21,
+P2465,Patricia,70,,San Juan de Lurigancho,Pediatría,2020-02-01,
+P2466,Carlos,49,,Surco,Cardiología,2024-11-03,0
+P2467,Raúl,35,NA,Los Olivos,Pediatría,2022-08-19,1182.56
+P2468,Raúl,62,,Villa El Salvador,Odontología,2025-08-20,NA
+P2469,Patricia,38,F,Villa El Salvador,Cardiología,2020-05-22,0
+P2470,Carlos,42,NA,San Juan de Lurigancho,Pediatría,2025-09-16,
+P2471,Fernando,66,,Callao,Ginecología,2023-06-04,0
+P2472,Patricia,30,M,Villa El Salvador,Pediatría,2020-03-29,
+P2473,Jorge,31,,Miraflores,Ginecología,2023-09-16,
+P2474,Fernando,1,,Miraflores,Pediatría,2022-12-10,0
+P2475,Luis,61,,Comas,Consulta General,2021-01-17,NA
+P2476,Patricia,39,NA,Lima,Pediatría,2023-05-14,NA
+P2477,Fernando,77,M,Lima,Pediatría,2024-03-31,
+P2478,Lucía,70,F,San Juan de Lurigancho,Pediatría,2023-09-30,0
+P2479,Ana,2,,Miraflores,Emergencia,2020-10-28,
+P2480,Pedro,8,,Surco,Ginecología,2022-12-28,NA
+P2481,Fernando,73,,Surco,Emergencia,2023-08-22,NA
+P2482,Rosa,30,M,Villa El Salvador,Consulta General,2024-03-22,
+P2483,Pedro,46,NA,Villa El Salvador,Pediatría,2021-07-22,NA
+P2484,Carlos,6,F,San Juan de Lurigancho,Consulta General,2021-09-19,
+P2485,Raúl,8,,Lima,Cardiología,2020-09-02,0
+P2486,Rosa,79,NA,San Miguel,Laboratorio,2020-08-10,0
+P2487,Ana,,,Lima,Consulta General,2024-09-21,NA
+P2488,Rosa,74,F,Villa El Salvador,Laboratorio,2022-08-22,
+P2489,Carlos,12,,San Juan de Lurigancho,Emergencia,2022-08-13,1120.43
+P2490,Luis,68,NA,Los Olivos,Traumatología,2022-02-17,
+P2491,Jorge,22,M,Villa El Salvador,Cardiología,2023-02-26,NA
+P2492,Luis,65,F,San Isidro,Odontología,2020-04-08,
+P2493,Raúl,33,M,Lima,Pediatría,2020-11-05,NA
+P2494,Lucía,26,,Lima,Traumatología,2025-05-20,
+P2495,Carlos,33,,San Isidro,Laboratorio,2021-05-26,0
+P2496,Fernando,18,F,San Juan de Lurigancho,Laboratorio,2025-02-22,528.1
+P2497,Rosa,28,M,Villa El Salvador,Odontología,2021-12-23,
+P2498,María,81,,San Isidro,Ginecología,2023-09-24,848.08
+P2499,Lucía,57,F,Surco,Laboratorio,2023-11-16,
+P2500,Luis,78,M,Surco,Ginecología,2025-11-12,NA
+P2501,Rosa,83,F,Comas,Odontología,2021-05-11,
+P2502,Elena,42,NA,Villa El Salvador,Traumatología,2020-12-29,NA
+P2503,Rosa,75,M,Surco,Odontología,2025-01-31,
+P2504,Fernando,14,,Surco,Consulta General,2020-09-13,
+P2505,Elena,46,NA,Surco,Traumatología,2024-05-21,514.15
+P2506,Elena,65,NA,Miraflores,Traumatología,2023-08-14,NA
+P2507,Patricia,44,NA,San Miguel,Consulta General,2025-11-07,114.57
+P2508,Ana,48,,Comas,Emergencia,2020-12-28,1279.85
+P2509,Pedro,82,,Villa El Salvador,Pediatría,2025-04-06,187.56
+P2510,Pedro,89,F,Villa El Salvador,Consulta General,2025-06-13,
+P2511,Patricia,87,F,Callao,Ginecología,2021-06-30,827.49
+P2512,Luis,42,NA,San Juan de Lurigancho,Traumatología,2024-05-13,NA
+P2513,María,38,,San Juan de Lurigancho,Odontología,2020-08-20,NA
+P2514,Ana,52,F,Surco,Traumatología,2020-03-23,
+P2515,María,6,NA,Villa El Salvador,Traumatología,2024-05-17,NA
+P2516,Elena,75,M,Callao,Odontología,2025-11-18,330.24
+P2517,Raúl,NA,M,Los Olivos,Ginecología,2020-07-08,
+P2518,Fernando,24,M,San Juan de Lurigancho,Odontología,2021-09-30,0
+P2519,Patricia,22,M,Callao,Emergencia,2024-02-04,NA
+P2520,Fernando,19,,Comas,Odontología,2024-06-25,
+P2521,Fernando,35,NA,Surco,Emergencia,2020-03-27,NA
+P2522,Patricia,71,NA,San Isidro,Emergencia,2025-05-20,
+P2523,Patricia,32,,Miraflores,Laboratorio,2023-11-22,
+P2524,Carlos,45,,Comas,Ginecología,2020-09-18,0
+P2525,Rosa,26,NA,Lima,Odontología,2023-09-01,
+P2526,Ana,88,F,Lima,Pediatría,2024-10-25,
+P2527,Carlos,1,F,Miraflores,Ginecología,2024-05-15,
+P2528,Patricia,53,NA,San Isidro,Pediatría,2021-09-10,310.42
+P2529,Luis,39,,Surco,Pediatría,2021-12-14,0
+P2530,Patricia,89,M,San Isidro,Odontología,2022-01-05,
+P2531,Carlos,42,,Surco,Traumatología,2021-01-03,
+P2532,Raúl,59,,Comas,Traumatología,2022-09-30,
+P2533,Elena,6,NA,San Juan de Lurigancho,Emergencia,2020-05-16,0
+P2534,Ana,18,NA,Lima,Odontología,2023-07-09,0
+P2535,Pedro,,F,San Juan de Lurigancho,Laboratorio,2021-08-19,0
+P2536,María,3,M,Los Olivos,Pediatría,2024-05-04,NA
+P2537,María,79,,San Juan de Lurigancho,Emergencia,2020-08-31,0
+P2538,Luis,51,,Miraflores,Pediatría,2020-11-20,1311.95
+P2539,María,NA,,Miraflores,Odontología,2024-06-21,
+P2540,Ana,88,,Surco,Laboratorio,2020-09-18,
+P2541,Raúl,14,,San Miguel,Traumatología,2024-11-29,NA
+P2542,Pedro,73,M,Villa El Salvador,Odontología,2024-03-05,0
+P2543,Jorge,56,NA,Lima,Consulta General,2021-11-05,
+P2544,Lucía,74,F,Miraflores,Ginecología,2020-09-05,1279.63
+P2545,Elena,73,M,Callao,Ginecología,2024-07-08,351.06
+P2546,Jorge,31,NA,Los Olivos,Odontología,2022-06-01,
+P2547,Jorge,35,F,Los Olivos,Laboratorio,2020-10-19,
+P2548,Jorge,7,F,Los Olivos,Emergencia,2023-08-09,NA
+P2549,Raúl,29,,San Miguel,Laboratorio,2024-07-22,
+P2550,Luis,26,,San Miguel,Emergencia,2025-04-15,
+P2551,Pedro,11,M,Surco,Laboratorio,2025-04-22,66.42
+P2552,Elena,25,F,San Juan de Lurigancho,Emergencia,2023-03-20,1149.8
+P2553,Elena,26,NA,Miraflores,Pediatría,2022-01-01,NA
+P2554,Carlos,67,,Surco,Laboratorio,2020-03-31,1420.07
+P2555,Fernando,27,NA,San Miguel,Ginecología,2023-02-11,NA
+P2556,Raúl,14,,San Miguel,Pediatría,2025-02-12,NA
+P2557,Carlos,46,NA,Surco,Emergencia,2022-11-27,752.44
+P2558,Lucía,62,M,San Miguel,Ginecología,2025-08-20,NA
+P2559,Lucía,27,,San Miguel,Cardiología,2022-01-21,0
+P2560,Rosa,23,,Comas,Traumatología,2021-03-10,
+P2561,Carlos,79,,Lima,Ginecología,2025-08-05,
+P2562,Lucía,14,M,San Juan de Lurigancho,Consulta General,2021-03-26,
+P2563,Patricia,24,M,Comas,Cardiología,2023-11-30,492.54
+P2564,Lucía,84,F,Comas,Emergencia,2023-07-04,898.08
+P2565,Carlos,84,,San Juan de Lurigancho,Ginecología,2021-05-29,
+P2566,Rosa,35,F,San Isidro,Emergencia,2022-05-10,
+P2567,Fernando,67,M,San Juan de Lurigancho,Pediatría,2022-03-26,1925.11
+P2568,Rosa,25,F,San Isidro,Ginecología,2021-03-27,0
+P2569,María,22,,San Juan de Lurigancho,Cardiología,2025-07-28,1978.16
+P2570,Jorge,3,,San Isidro,Consulta General,2022-02-16,0
+P2571,Elena,41,M,Miraflores,Ginecología,2021-07-13,NA
+P2572,Fernando,6,,Surco,Emergencia,2025-12-17,1124.44
+P2573,María,21,,Callao,Cardiología,2021-12-29,
+P2574,Carlos,NA,,Callao,Consulta General,2025-02-09,0
+P2575,Patricia,57,,Lima,Odontología,2020-04-16,
+P2576,Rosa,37,F,San Miguel,Pediatría,2020-10-22,
+P2577,Pedro,38,NA,Villa El Salvador,Consulta General,2022-01-29,NA
+P2578,Jorge,61,NA,Villa El Salvador,Emergencia,2020-08-14,0
+P2579,Fernando,85,,Los Olivos,Emergencia,2024-08-15,674.45
+P2580,Pedro,63,,San Isidro,Traumatología,2023-07-01,0
+P2581,Elena,51,,Los Olivos,Odontología,2024-05-28,0
+P2582,Pedro,38,,San Miguel,Ginecología,2020-09-12,634.7
+P2583,Rosa,83,NA,San Isidro,Consulta General,2023-08-05,1537.95
+P2584,Pedro,34,NA,Lima,Traumatología,2022-06-04,
+P2585,Fernando,72,F,Surco,Odontología,2022-10-22,NA
+P2586,Elena,45,,Callao,Ginecología,2025-10-06,0
+P2587,Lucía,32,M,Los Olivos,Pediatría,2025-10-25,0
+P2588,Pedro,89,,Los Olivos,Traumatología,2023-06-27,605.57
+P2589,Jorge,15,,Surco,Odontología,2023-03-28,
+P2590,Fernando,39,,Comas,Consulta General,2022-04-18,
+P2591,Ana,2,,San Juan de Lurigancho,Traumatología,2023-03-20,0
+P2592,Fernando,63,,San Miguel,Ginecología,2022-06-14,766.18
+P2593,Pedro,15,NA,Callao,Laboratorio,2023-03-30,1878.31
+P2594,Carlos,19,M,Lima,Cardiología,2021-09-20,
+P2595,María,11,M,Villa El Salvador,Laboratorio,2021-11-28,
+P2596,Raúl,56,,San Juan de Lurigancho,Emergencia,2020-02-02,
+P2597,Jorge,35,M,San Miguel,Odontología,2024-03-23,NA
+P2598,Fernando,38,,Surco,Emergencia,2025-09-04,0
+P2599,Carlos,21,,Los Olivos,Odontología,2022-06-12,NA
+P2600,Jorge,61,NA,San Juan de Lurigancho,Consulta General,2024-07-15,
+P2601,Jorge,1,M,Surco,Traumatología,2023-03-19,1787.24
+P2602,Lucía,25,F,San Isidro,Emergencia,2025-03-31,
+P2603,Fernando,75,M,Villa El Salvador,Ginecología,2020-02-19,NA
+P2604,Lucía,36,M,Los Olivos,Odontología,2022-01-15,473.79
+P2605,Ana,48,,Miraflores,Emergencia,2020-11-30,NA
+P2606,Elena,30,,Villa El Salvador,Traumatología,2022-04-13,
+P2607,Lucía,56,,Lima,Laboratorio,2020-10-31,
+P2608,Lucía,NA,,San Juan de Lurigancho,Laboratorio,2022-03-10,0
+P2609,Patricia,2,NA,San Juan de Lurigancho,Laboratorio,2020-06-23,703.44
+P2610,Elena,7,,Surco,Cardiología,2022-05-11,
+P2611,Pedro,2,M,Lima,Consulta General,2024-04-07,NA
+P2612,Jorge,57,F,Los Olivos,Consulta General,2023-11-30,1906.15
+P2613,Carlos,87,F,San Juan de Lurigancho,Cardiología,2023-07-14,1457.28
+P2614,Patricia,11,M,Surco,Emergencia,2021-12-21,NA
+P2615,Lucía,26,NA,Callao,Emergencia,2020-10-19,1058.0
+P2616,Raúl,34,F,San Isidro,Cardiología,2025-06-26,816.1
+P2617,Fernando,64,,Comas,Cardiología,2021-03-26,552.22
+P2618,Carlos,76,,Los Olivos,Emergencia,2021-08-30,
+P2619,Fernando,32,,Surco,Consulta General,2023-09-30,0
+P2620,Carlos,21,NA,Lima,Ginecología,2025-09-09,
+P2621,Ana,25,F,San Miguel,Emergencia,2025-09-06,0
+P2622,Raúl,40,M,San Isidro,Odontología,2025-10-13,
+P2623,Patricia,26,,Villa El Salvador,Traumatología,2023-03-31,1555.86
+P2624,Rosa,59,NA,Miraflores,Ginecología,2022-09-04,
+P2625,Patricia,67,NA,San Juan de Lurigancho,Emergencia,2024-07-29,0
+P2626,Fernando,8,,Miraflores,Odontología,2023-11-06,1580.79
+P2627,Luis,17,,Lima,Odontología,2020-10-11,1041.32
+P2628,Rosa,49,NA,Villa El Salvador,Ginecología,2023-10-28,795.49
+P2629,Luis,49,,Villa El Salvador,Pediatría,2023-03-26,NA
+P2630,Patricia,75,,Los Olivos,Odontología,2022-06-10,
+P2631,Rosa,1,,Comas,Pediatría,2025-06-16,
+P2632,Ana,78,,Villa El Salvador,Cardiología,2024-10-23,
+P2633,Elena,89,,Miraflores,Consulta General,2020-02-03,880.63
+P2634,Rosa,11,M,Miraflores,Ginecología,2023-12-01,
+P2635,Elena,15,,Los Olivos,Odontología,2024-03-12,
+P2636,Elena,66,NA,Surco,Consulta General,2023-12-25,239.71
+P2637,Fernando,24,,Comas,Traumatología,2024-07-30,96.51
+P2638,Lucía,20,,San Miguel,Odontología,2025-04-29,
+P2639,Lucía,90,M,San Miguel,Consulta General,2021-10-23,
+P2640,Patricia,36,F,Comas,Traumatología,2022-03-31,
+P2641,Rosa,20,M,San Miguel,Odontología,2025-06-19,NA
+P2642,Lucía,71,,Los Olivos,Consulta General,2023-05-28,NA
+P2643,Ana,73,,Lima,Pediatría,2023-09-10,
+P2644,Raúl,32,,San Isidro,Laboratorio,2024-06-29,
+P2645,Jorge,71,NA,Los Olivos,Laboratorio,2025-11-14,0
+P2646,Ana,42,,Comas,Cardiología,2025-03-18,
+P2647,Luis,56,M,San Isidro,Traumatología,2023-11-26,
+P2648,Patricia,69,NA,Callao,Laboratorio,2025-10-25,109.1
+P2649,Ana,66,,San Isidro,Odontología,2022-08-23,NA
+P2650,Lucía,47,,San Isidro,Consulta General,2022-07-30,
+P2651,María,84,,Surco,Odontología,2024-07-21,
+P2652,Rosa,83,NA,San Juan de Lurigancho,Cardiología,2023-10-31,763.68
+P2653,Elena,62,,San Miguel,Odontología,2021-04-02,0
+P2654,Jorge,29,,Miraflores,Cardiología,2024-06-01,0
+P2655,Rosa,86,F,Comas,Odontología,2023-03-18,
+P2656,Rosa,29,F,Comas,Pediatría,2023-02-04,
+P2657,Luis,54,F,Surco,Laboratorio,2024-11-28,
+P2658,María,35,M,Miraflores,Cardiología,2020-08-07,NA
+P2659,Raúl,66,,Callao,Consulta General,2023-12-10,0
+P2660,Carlos,88,M,Villa El Salvador,Laboratorio,2024-05-24,NA
+P2661,Rosa,41,NA,Miraflores,Ginecología,2022-06-27,1728.17
+P2662,Rosa,6,,Comas,Traumatología,2022-03-25,
+P2663,Ana,10,,Callao,Traumatología,2021-05-10,1707.59
+P2664,Rosa,80,,Villa El Salvador,Ginecología,2025-08-22,
+P2665,Rosa,,NA,San Miguel,Pediatría,2022-06-30,0
+P2666,Rosa,1,,Villa El Salvador,Ginecología,2023-10-28,0
+P2667,Rosa,88,F,Callao,Consulta General,2023-08-04,0
+P2668,María,29,M,Surco,Cardiología,2023-07-22,
+P2669,Jorge,55,M,Surco,Laboratorio,2021-11-15,327.65
+P2670,Lucía,68,NA,Surco,Odontología,2023-09-11,
+P2671,Elena,42,NA,Los Olivos,Ginecología,2020-06-19,0
+P2672,Pedro,45,NA,Lima,Consulta General,2022-04-22,612.29
+P2673,Elena,18,NA,Surco,Traumatología,2020-08-27,
+P2674,Luis,5,F,Callao,Ginecología,2023-05-21,
+P2675,Pedro,71,,Comas,Odontología,2024-10-11,0
+P2676,Lucía,53,M,San Juan de Lurigancho,Laboratorio,2023-12-23,
+P2677,Patricia,71,F,Villa El Salvador,Ginecología,2024-05-30,
+P2678,Rosa,58,NA,Miraflores,Laboratorio,2024-12-21,830.13
+P2679,Luis,8,M,Los Olivos,Emergencia,2021-08-13,
+P2680,Pedro,45,,Surco,Traumatología,2021-01-17,
+P2681,Fernando,29,NA,Surco,Consulta General,2025-01-29,NA
+P2682,Fernando,11,,Miraflores,Odontología,2022-07-20,
+P2683,Rosa,67,,Callao,Laboratorio,2024-01-21,
+P2684,María,89,NA,Surco,Laboratorio,2025-06-20,NA
+P2685,Pedro,32,NA,Comas,Consulta General,2022-12-07,
+P2686,Luis,14,NA,San Juan de Lurigancho,Consulta General,2022-02-27,
+P2687,Lucía,4,NA,Callao,Cardiología,2023-01-03,449.26
+P2688,Fernando,57,,Los Olivos,Laboratorio,2022-05-12,1543.23
+P2689,Elena,41,,San Miguel,Ginecología,2023-01-22,NA
+P2690,Rosa,70,,San Miguel,Odontología,2021-12-07,1066.23
+P2691,Raúl,70,F,San Juan de Lurigancho,Emergencia,2020-03-07,0
+P2692,Jorge,73,NA,Lima,Odontología,2023-04-02,
+P2693,Elena,50,M,Los Olivos,Traumatología,2024-04-04,NA
+P2694,Pedro,59,NA,San Miguel,Consulta General,2025-10-11,NA
+P2695,María,65,,Los Olivos,Emergencia,2025-03-10,NA
+P2696,Fernando,59,M,Los Olivos,Laboratorio,2022-05-27,1321.62
+P2697,Patricia,61,F,San Juan de Lurigancho,Consulta General,2025-06-22,902.4
+P2698,Lucía,80,NA,San Juan de Lurigancho,Emergencia,2025-08-09,
+P2699,Ana,3,,San Miguel,Emergencia,2022-04-05,0
+P2700,Lucía,3,,Villa El Salvador,Pediatría,2024-09-29,
+P2701,Raúl,34,,Lima,Odontología,2021-04-26,192.68
+P2702,Elena,29,,Los Olivos,Traumatología,2022-08-14,NA
+P2703,Rosa,8,,Lima,Laboratorio,2024-05-24,NA
+P2704,Luis,15,,Comas,Traumatología,2021-06-16,
+P2705,Ana,7,,Lima,Pediatría,2021-02-16,NA
+P2706,Jorge,48,,Villa El Salvador,Ginecología,2022-05-21,
+P2707,Carlos,39,M,San Juan de Lurigancho,Laboratorio,2024-03-12,
+P2708,Ana,19,NA,San Isidro,Pediatría,2025-03-03,
+P2709,Raúl,3,F,Surco,Ginecología,2023-03-06,NA
+P2710,Fernando,78,,Surco,Odontología,2022-03-24,1606.63
+P2711,Carlos,37,F,Comas,Cardiología,2021-03-28,
+P2712,Fernando,54,F,Miraflores,Pediatría,2021-06-03,607.91
+P2713,Raúl,80,F,San Isidro,Traumatología,2025-09-18,
+P2714,Carlos,55,F,Miraflores,Laboratorio,2021-11-20,1125.27
+P2715,Pedro,68,,San Isidro,Traumatología,2024-08-26,
+P2716,Fernando,19,,San Isidro,Cardiología,2020-02-05,NA
+P2717,Jorge,75,M,San Isidro,Pediatría,2025-06-13,NA
+P2718,Patricia,8,,Villa El Salvador,Pediatría,2020-07-04,
+P2719,Patricia,26,F,Lima,Ginecología,2022-11-17,0
+P2720,Pedro,80,M,San Juan de Lurigancho,Traumatología,2021-06-19,
+P2721,Patricia,39,NA,San Juan de Lurigancho,Emergencia,2020-02-09,
+P2722,Ana,13,M,Villa El Salvador,Odontología,2023-11-20,NA
+P2723,Pedro,55,F,San Isidro,Cardiología,2025-01-04,1691.62
+P2724,Elena,27,F,Comas,Traumatología,2023-03-29,1113.66
+P2725,Pedro,57,,Villa El Salvador,Pediatría,2023-03-19,526.85
+P2726,Raúl,61,F,Villa El Salvador,Pediatría,2024-01-16,
+P2727,Ana,5,,Miraflores,Odontología,2022-05-10,1479.37
+P2728,Patricia,68,,Los Olivos,Traumatología,2025-11-24,0
+P2729,Luis,3,,Villa El Salvador,Emergencia,2023-05-28,NA
+P2730,Elena,,F,San Miguel,Odontología,2021-08-23,
+P2731,Fernando,18,M,Villa El Salvador,Consulta General,2023-11-23,NA
+P2732,Luis,41,,Callao,Ginecología,2020-07-06,
+P2733,Luis,86,M,Miraflores,Pediatría,2020-10-18,1038.17
+P2734,Lucía,60,,Los Olivos,Laboratorio,2025-05-27,1416.24
+P2735,Pedro,59,NA,Villa El Salvador,Pediatría,2021-02-03,0
+P2736,Patricia,36,F,San Isidro,Cardiología,2023-05-30,0
+P2737,Patricia,60,F,Miraflores,Laboratorio,2025-07-14,
+P2738,Luis,10,,San Juan de Lurigancho,Traumatología,2022-10-14,1965.86
+P2739,Luis,77,NA,Comas,Consulta General,2023-06-01,
+P2740,Raúl,37,,Lima,Consulta General,2020-10-31,
+P2741,Patricia,42,,Lima,Laboratorio,2025-03-30,
+P2742,Fernando,48,NA,Los Olivos,Laboratorio,2023-11-27,0
+P2743,Luis,13,,Lima,Ginecología,2022-08-10,NA
+P2744,Carlos,62,NA,San Miguel,Ginecología,2023-08-25,
+P2745,Rosa,10,NA,Lima,Laboratorio,2022-05-18,554.67
+P2746,Ana,28,F,San Isidro,Ginecología,2022-01-29,
+P2747,Raúl,31,NA,Comas,Pediatría,2020-02-16,
+P2748,Patricia,6,NA,Villa El Salvador,Consulta General,2023-04-07,
+P2749,Fernando,57,M,Comas,Odontología,2022-06-13,NA
+P2750,Lucía,52,,Miraflores,Consulta General,2021-03-28,NA
+P2751,Elena,75,NA,Callao,Consulta General,2023-01-16,
+P2752,Raúl,35,F,San Miguel,Cardiología,2024-04-17,
+P2753,Fernando,16,,San Miguel,Cardiología,2021-05-17,1063.34
+P2754,Fernando,35,M,Comas,Odontología,2024-10-14,
+P2755,Jorge,14,M,San Juan de Lurigancho,Ginecología,2022-01-01,NA
+P2756,Patricia,55,F,Miraflores,Pediatría,2023-09-29,
+P2757,Elena,56,F,Lima,Ginecología,2020-01-31,881.35
+P2758,Jorge,85,F,Los Olivos,Pediatría,2023-05-01,
+P2759,Rosa,59,,Miraflores,Laboratorio,2020-09-15,
+P2760,Rosa,8,M,Comas,Odontología,2022-07-28,0
+P2761,Fernando,11,F,San Miguel,Consulta General,2022-10-27,NA
+P2762,Ana,37,F,San Miguel,Odontología,2024-06-22,1789.19
+P2763,Pedro,49,,San Miguel,Pediatría,2023-01-13,
+P2764,María,88,NA,Callao,Emergencia,2022-01-28,NA
+P2765,Raúl,57,F,San Isidro,Laboratorio,2023-12-03,NA
+P2766,Luis,37,,San Juan de Lurigancho,Emergencia,2023-07-15,186.16
+P2767,Lucía,27,F,Villa El Salvador,Cardiología,2024-08-18,
+P2768,Carlos,68,,Surco,Pediatría,2020-11-26,
+P2769,Jorge,87,,Los Olivos,Consulta General,2020-07-06,NA
+P2770,Ana,54,,Villa El Salvador,Cardiología,2024-12-03,
+P2771,Luis,50,F,Surco,Odontología,2024-11-19,NA
+P2772,Rosa,37,M,San Miguel,Laboratorio,2023-04-22,0
+P2773,Rosa,78,,Los Olivos,Cardiología,2021-01-10,
+P2774,Rosa,49,,Miraflores,Laboratorio,2021-11-18,NA
+P2775,Jorge,46,,Comas,Laboratorio,2024-12-20,1640.92
+P2776,Elena,50,,San Juan de Lurigancho,Ginecología,2023-06-30,
+P2777,Fernando,25,NA,Los Olivos,Cardiología,2024-11-30,227.14
+P2778,Rosa,19,F,Los Olivos,Traumatología,2020-05-28,324.03
+P2779,Rosa,68,,Callao,Ginecología,2023-08-29,1018.75
+P2780,Pedro,45,,Los Olivos,Emergencia,2024-10-31,
+P2781,Rosa,28,,Los Olivos,Emergencia,2025-07-17,
+P2782,Raúl,61,F,Villa El Salvador,Consulta General,2024-12-28,
+P2783,Jorge,50,M,Surco,Traumatología,2025-04-16,0
+P2784,Patricia,51,,Miraflores,Cardiología,2020-02-09,NA
+P2785,Jorge,87,,Callao,Odontología,2023-03-13,
+P2786,Carlos,16,F,San Isidro,Cardiología,2023-11-19,193.33
+P2787,Lucía,28,M,Surco,Odontología,2024-07-31,
+P2788,Luis,63,M,Surco,Odontología,2023-07-15,
+P2789,Rosa,60,M,San Miguel,Emergencia,2021-03-14,1589.84
+P2790,Ana,34,,San Miguel,Cardiología,2025-08-07,1824.35
+P2791,Pedro,12,,Los Olivos,Consulta General,2024-07-24,0
+P2792,Raúl,88,M,Miraflores,Odontología,2025-04-13,227.8
+P2793,Lucía,89,,Surco,Traumatología,2022-06-13,0
+P2794,Rosa,42,NA,Los Olivos,Odontología,2024-11-23,185.31
+P2795,Pedro,34,,San Isidro,Consulta General,2020-11-05,560.06
+P2796,Lucía,10,M,Callao,Laboratorio,2023-11-29,0
+P2797,Pedro,,F,Callao,Consulta General,2020-09-05,
+P2798,Raúl,47,,Surco,Laboratorio,2021-05-09,0
+P2799,Raúl,62,,Villa El Salvador,Odontología,2024-12-29,
+P2800,Elena,3,,Surco,Cardiología,2024-07-26,NA
+P2801,Luis,59,F,San Isidro,Consulta General,2025-09-27,
+P2802,Lucía,81,,Miraflores,Emergencia,2020-03-02,0
+P2803,María,36,,Surco,Pediatría,2023-11-29,230.58
+P2804,Rosa,20,M,Los Olivos,Ginecología,2024-10-08,
+P2805,Jorge,65,NA,Villa El Salvador,Consulta General,2023-12-11,0
+P2806,Elena,81,M,San Miguel,Emergencia,2024-06-07,1499.71
+P2807,Elena,45,,San Miguel,Consulta General,2022-04-14,NA
+P2808,Ana,90,M,Callao,Pediatría,2025-02-17,
+P2809,Raúl,18,,Miraflores,Laboratorio,2022-11-19,380.23
+P2810,Jorge,46,,Los Olivos,Consulta General,2020-10-15,NA
+P2811,Luis,17,,Comas,Pediatría,2025-11-19,0
+P2812,Fernando,31,,San Miguel,Pediatría,2025-03-17,
+P2813,Lucía,82,M,Surco,Laboratorio,2022-10-05,558.29
+P2814,Luis,84,,Los Olivos,Ginecología,2022-10-02,NA
+P2815,Carlos,31,NA,San Miguel,Traumatología,2025-06-09,
+P2816,Raúl,55,,Comas,Traumatología,2020-10-04,
+P2817,Pedro,87,NA,San Juan de Lurigancho,Traumatología,2022-11-09,
+P2818,Pedro,12,NA,San Isidro,Cardiología,2020-08-17,
+P2819,Patricia,84,,Miraflores,Ginecología,2023-08-28,1006.92
+P2820,Fernando,77,NA,San Juan de Lurigancho,Laboratorio,2020-03-13,360.57
+P2821,Elena,15,,Lima,Laboratorio,2021-06-25,415.42
+P2822,Patricia,58,,Lima,Traumatología,2021-10-30,1682.2
+P2823,Fernando,57,,Los Olivos,Ginecología,2022-05-12,
+P2824,Lucía,36,NA,Surco,Laboratorio,2023-01-01,267.18
+P2825,Fernando,18,M,Surco,Traumatología,2020-05-15,0
+P2826,Lucía,26,NA,Lima,Traumatología,2024-04-17,
+P2827,Raúl,51,NA,Los Olivos,Consulta General,2025-08-26,NA
+P2828,Lucía,87,,Surco,Consulta General,2024-04-21,0
+P2829,Luis,37,M,San Miguel,Traumatología,2023-11-26,1106.41
+P2830,Carlos,56,,Miraflores,Laboratorio,2024-07-12,
+P2831,Ana,14,F,Lima,Odontología,2025-10-23,NA
+P2832,Jorge,37,M,San Juan de Lurigancho,Pediatría,2020-03-24,
+P2833,Fernando,44,NA,San Juan de Lurigancho,Odontología,2024-04-02,
+P2834,Carlos,10,,Los Olivos,Cardiología,2025-02-17,NA
+P2835,Jorge,90,F,Los Olivos,Emergencia,2024-08-21,831.21
+P2836,Luis,90,,Los Olivos,Ginecología,2024-09-07,1861.15
+P2837,Lucía,51,F,San Juan de Lurigancho,Pediatría,2021-09-07,
+P2838,Raúl,8,F,Lima,Ginecología,2020-11-18,770.42
+P2839,Lucía,39,F,San Juan de Lurigancho,Laboratorio,2022-12-11,1291.28
+P2840,Luis,40,F,San Juan de Lurigancho,Consulta General,2024-02-27,NA
+P2841,Jorge,24,M,Villa El Salvador,Consulta General,2022-08-20,0
+P2842,Rosa,60,NA,Los Olivos,Consulta General,2021-05-01,
+P2843,Lucía,16,F,Villa El Salvador,Ginecología,2020-06-20,1274.68
+P2844,Rosa,70,NA,Los Olivos,Traumatología,2022-04-26,
+P2845,Fernando,86,NA,Miraflores,Laboratorio,2024-03-04,
+P2846,Pedro,45,NA,Lima,Emergencia,2020-12-26,
+P2847,Rosa,53,F,Comas,Ginecología,2022-12-17,305.33
+P2848,Luis,77,,Callao,Laboratorio,2022-02-07,68.13
+P2849,Patricia,11,,Villa El Salvador,Emergencia,2020-12-01,NA
+P2850,Fernando,86,M,Villa El Salvador,Traumatología,2022-12-16,
+P2851,Patricia,22,NA,Miraflores,Cardiología,2025-08-13,0
+P2852,Luis,78,,Lima,Traumatología,2023-02-06,
+P2853,Ana,55,F,Comas,Traumatología,2023-05-07,
+P2854,Elena,1,,San Juan de Lurigancho,Odontología,2024-07-17,NA
+P2855,Fernando,47,F,San Miguel,Pediatría,2020-07-19,
+P2856,María,81,NA,Comas,Cardiología,2020-09-05,
+P2857,Fernando,25,,Callao,Odontología,2024-06-11,1426.5
+P2858,Rosa,75,,Miraflores,Traumatología,2024-07-15,
+P2859,Elena,34,,San Isidro,Laboratorio,2021-04-25,
+P2860,María,21,,San Miguel,Laboratorio,2020-10-05,1194.83
+P2861,Patricia,61,,Surco,Emergencia,2023-05-25,1613.44
+P2862,María,24,M,San Isidro,Cardiología,2021-11-12,0
+P2863,Patricia,90,,Miraflores,Consulta General,2021-01-23,0
+P2864,Fernando,54,F,San Isidro,Cardiología,2024-06-05,NA
+P2865,Pedro,76,M,Villa El Salvador,Ginecología,2024-06-15,
+P2866,Elena,,,Comas,Cardiología,2021-02-19,0
+P2867,Patricia,73,,San Miguel,Emergencia,2025-03-07,0
+P2868,Jorge,81,F,Los Olivos,Traumatología,2023-02-01,
+P2869,Elena,63,,San Juan de Lurigancho,Traumatología,2023-05-02,
+P2870,Jorge,40,F,Villa El Salvador,Traumatología,2022-02-07,
+P2871,Carlos,28,NA,Surco,Cardiología,2022-07-25,NA
+P2872,Rosa,28,M,San Juan de Lurigancho,Emergencia,2022-07-13,NA
+P2873,María,17,F,Miraflores,Emergencia,2024-03-16,
+P2874,Rosa,79,,San Juan de Lurigancho,Laboratorio,2025-07-11,1192.79
+P2875,Jorge,74,,San Juan de Lurigancho,Consulta General,2024-04-01,0
+P2876,Raúl,NA,NA,Miraflores,Traumatología,2023-06-30,
+P2877,Fernando,,F,San Isidro,Consulta General,2022-10-27,
+P2878,Carlos,,F,Villa El Salvador,Emergencia,2025-06-14,
+P2879,Raúl,18,NA,Surco,Traumatología,2022-04-28,
+P2880,María,47,NA,Villa El Salvador,Odontología,2022-10-10,NA
+P2881,Rosa,11,,Los Olivos,Consulta General,2025-03-04,
+P2882,Elena,22,,Miraflores,Emergencia,2021-06-24,
+P2883,Pedro,37,F,San Juan de Lurigancho,Odontología,2023-12-08,NA
+P2884,Rosa,53,,Los Olivos,Laboratorio,2021-03-14,1871.66
+P2885,Carlos,77,NA,San Juan de Lurigancho,Odontología,2021-10-24,0
+P2886,Raúl,7,,Comas,Ginecología,2020-02-27,1862.12
+P2887,Rosa,71,,San Juan de Lurigancho,Emergencia,2024-08-04,1330.49
+P2888,Elena,78,NA,Los Olivos,Consulta General,2020-11-16,
+P2889,Raúl,79,,San Isidro,Emergencia,2025-10-22,
+P2890,Pedro,69,NA,Comas,Laboratorio,2020-02-16,1820.39
+P2891,Lucía,5,,Los Olivos,Cardiología,2022-05-10,NA
+P2892,Rosa,39,M,Surco,Pediatría,2023-12-15,517.01
+P2893,Carlos,79,,Los Olivos,Pediatría,2023-04-22,
+P2894,Elena,50,F,San Isidro,Traumatología,2024-10-04,
+P2895,Luis,7,M,San Isidro,Traumatología,2024-09-01,0
+P2896,Patricia,32,M,Comas,Pediatría,2021-04-18,
+P2897,Rosa,51,NA,San Miguel,Cardiología,2021-10-05,NA
+P2898,Luis,,F,Surco,Emergencia,2024-02-17,0
+P2899,Ana,21,F,Callao,Laboratorio,2024-10-08,NA
+P2900,Luis,59,,San Juan de Lurigancho,Ginecología,2023-01-08,1871.22
+P2901,Jorge,66,F,San Juan de Lurigancho,Pediatría,2023-05-09,
+P2902,Jorge,74,,Miraflores,Ginecología,2025-06-24,1682.03
+P2903,Carlos,86,F,Villa El Salvador,Traumatología,2020-09-24,1247.33
+P2904,Ana,79,,San Isidro,Ginecología,2022-09-25,
+P2905,Raúl,36,,San Miguel,Consulta General,2025-07-13,
+P2906,Raúl,23,M,Surco,Traumatología,2025-09-20,0
+P2907,Elena,25,,Lima,Odontología,2024-09-09,1380.52
+P2908,Raúl,8,,Lima,Emergencia,2025-11-16,681.52
+P2909,Ana,1,,Surco,Consulta General,2022-10-27,0
+P2910,Patricia,12,M,Surco,Ginecología,2025-04-28,1639.14
+P2911,Carlos,18,,Lima,Pediatría,2022-04-23,0
+P2912,Patricia,65,F,Callao,Cardiología,2025-11-23,
+P2913,Pedro,12,,Surco,Emergencia,2022-06-04,0
+P2914,Jorge,33,,San Juan de Lurigancho,Pediatría,2021-05-29,
+P2915,Lucía,70,F,Miraflores,Laboratorio,2021-10-11,
+P2916,María,36,M,Callao,Emergencia,2021-04-04,1787.15
+P2917,Ana,90,M,Miraflores,Emergencia,2025-11-16,0
+P2918,Pedro,72,NA,Surco,Pediatría,2023-08-31,
+P2919,Ana,30,M,Miraflores,Pediatría,2020-08-06,0
+P2920,Patricia,24,M,San Isidro,Ginecología,2020-07-04,NA
+P2921,Ana,78,M,Lima,Traumatología,2021-04-08,1490.49
+P2922,María,54,F,Lima,Consulta General,2024-11-10,
+P2923,Patricia,23,F,Comas,Cardiología,2021-07-17,984.55
+P2924,Pedro,30,F,Villa El Salvador,Consulta General,2025-08-03,
+P2925,María,27,F,Callao,Traumatología,2023-04-09,
+P2926,Jorge,41,F,Surco,Laboratorio,2025-03-28,1394.14
+P2927,Fernando,61,F,Miraflores,Traumatología,2022-11-30,NA
+P2928,Pedro,70,M,Miraflores,Emergencia,2022-10-22,0
+P2929,Carlos,76,M,Comas,Emergencia,2020-01-24,NA
+P2930,Ana,48,F,Comas,Laboratorio,2020-09-01,1184.66
+P2931,Fernando,46,M,San Juan de Lurigancho,Cardiología,2024-05-25,
+P2932,Luis,62,F,Surco,Pediatría,2021-01-13,
+P2933,Elena,21,,San Isidro,Odontología,2024-04-17,1370.29
+P2934,Pedro,25,,Comas,Traumatología,2022-04-20,1217.12
+P2935,Pedro,,F,San Isidro,Laboratorio,2022-08-28,
+P2936,Rosa,53,M,San Miguel,Ginecología,2021-08-31,0
+P2937,Carlos,46,,San Miguel,Pediatría,2024-12-12,
+P2938,Ana,83,,Lima,Laboratorio,2025-02-27,0
+P2939,Pedro,60,,Lima,Odontología,2022-12-04,
+P2940,Patricia,26,,Lima,Emergencia,2021-09-27,0
+P2941,Patricia,89,M,San Isidro,Traumatología,2022-10-21,0
+P2942,Fernando,11,,San Isidro,Odontología,2024-02-20,1226.39
+P2943,Lucía,85,,San Juan de Lurigancho,Pediatría,2022-04-19,0
+P2944,Patricia,56,,Miraflores,Cardiología,2020-08-19,
+P2945,Pedro,38,M,San Juan de Lurigancho,Odontología,2021-11-29,0
+P2946,Jorge,38,,Callao,Laboratorio,2025-05-10,0
+P2947,Patricia,8,NA,Miraflores,Cardiología,2024-03-12,0
+P2948,Rosa,27,F,Comas,Laboratorio,2021-04-22,
+P2949,Pedro,33,F,San Juan de Lurigancho,Laboratorio,2025-03-09,1040.14
+P2950,Elena,26,F,Surco,Cardiología,2021-01-27,
+P2951,Luis,76,M,Callao,Pediatría,2020-04-20,
+P2952,Carlos,90,F,Lima,Consulta General,2020-04-11,0
+P2953,Luis,84,F,Comas,Pediatría,2022-12-16,NA
+P2954,María,22,NA,Miraflores,Traumatología,2020-02-13,
+P2955,Carlos,10,F,Callao,Cardiología,2020-08-06,0
+P2956,Carlos,37,F,San Juan de Lurigancho,Pediatría,2021-05-31,0
+P2957,Pedro,4,F,Villa El Salvador,Odontología,2024-12-26,
+P2958,Fernando,54,,San Isidro,Emergencia,2024-10-29,
+P2959,Jorge,19,M,Villa El Salvador,Consulta General,2023-05-14,550.47
+P2960,María,35,NA,Callao,Consulta General,2023-04-17,0
+P2961,Luis,46,F,Villa El Salvador,Ginecología,2021-07-10,
+P2962,Ana,,,Callao,Traumatología,2022-02-27,0
+P2963,Elena,90,M,San Juan de Lurigancho,Ginecología,2025-11-08,1890.82
+P2964,Patricia,69,,Villa El Salvador,Ginecología,2023-09-19,
+P2965,Elena,48,F,Lima,Laboratorio,2023-05-25,
+P2966,Lucía,58,,Callao,Cardiología,2020-10-27,
+P2967,Pedro,7,,Surco,Laboratorio,2023-05-07,
+P2968,Elena,90,NA,San Miguel,Consulta General,2023-05-24,NA
+P2969,Ana,42,M,Villa El Salvador,Traumatología,2025-11-10,629.38
+P2970,Rosa,46,M,Callao,Consulta General,2020-03-16,
+P2971,Pedro,25,,San Miguel,Consulta General,2025-09-02,1473.47
+P2972,Raúl,65,M,Los Olivos,Odontología,2022-07-17,0
+P2973,Elena,62,F,Lima,Cardiología,2024-06-12,1727.84
+P2974,Elena,70,M,Surco,Traumatología,2024-01-21,0
+P2975,Rosa,47,F,Surco,Laboratorio,2020-10-06,
+P2976,Carlos,50,NA,Los Olivos,Pediatría,2021-05-19,NA
+P2977,Ana,51,,San Miguel,Pediatría,2023-02-26,NA
+P2978,Luis,,,Lima,Emergencia,2025-02-10,NA
+P2979,María,67,NA,Los Olivos,Consulta General,2020-06-25,NA
+P2980,Carlos,64,M,Miraflores,Laboratorio,2024-07-29,
+P2981,Fernando,70,F,Surco,Laboratorio,2021-03-30,
+P2982,Lucía,89,NA,San Juan de Lurigancho,Cardiología,2025-12-19,NA
+P2983,Lucía,28,NA,Miraflores,Ginecología,2025-05-29,
+P2984,Luis,83,,Callao,Consulta General,2024-10-19,441.55
+P2985,Raúl,67,M,Villa El Salvador,Ginecología,2025-04-23,0
+P2986,Carlos,,M,San Juan de Lurigancho,Cardiología,2025-02-10,
+P2987,Carlos,59,F,Lima,Consulta General,2022-05-04,0
+P2988,Carlos,45,F,Los Olivos,Emergencia,2025-11-24,
+P2989,Luis,82,NA,Callao,Ginecología,2020-03-27,
+P2990,Fernando,61,,San Isidro,Consulta General,2020-03-27,
+P2991,Patricia,42,F,Comas,Ginecología,2020-01-01,NA
+P2992,Lucía,57,M,San Miguel,Traumatología,2023-03-14,NA
+P2993,Fernando,87,F,Callao,Ginecología,2021-03-08,0
+P2994,Ana,13,NA,Callao,Traumatología,2021-09-21,0
+P2995,Elena,10,NA,Surco,Cardiología,2021-08-07,0
+P2996,Jorge,50,NA,Callao,Emergencia,2024-12-06,719.21
+P2997,Lucía,26,,San Isidro,Cardiología,2023-11-27,
+P2998,Luis,30,F,Villa El Salvador,Odontología,2021-01-29,0
+P2999,Patricia,18,M,San Miguel,Laboratorio,2022-07-09,NA
+P3000,Raúl,74,NA,San Juan de Lurigancho,Laboratorio,2022-05-23,
