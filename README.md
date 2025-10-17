@@ -47,8 +47,27 @@ SaludDigitalA_E1/
 │
 ├── README.md
 ```
-## 👨‍🏫 Autor
+## 🧠 Conclusiones
 
-Proyecto desarrollado aplicando conceptos de Big Data, Vs Code, Python, MongoDB y Jenkins.
-Arnold Michell Ocas Ruiz
-Fecha: 17.10.2025
+Este proyecto permitió aplicar de manera práctica los conocimientos adquiridos en **Big Data** y **Gestión de Información**, integrando el flujo completo de procesamiento de datos:  
+**desde la extracción y limpieza (ETL), hasta su carga en MongoDB y posterior análisis visual.**  
+
+Durante el desarrollo, se fortalecieron competencias en el uso de herramientas como **Python, Pandas, Matplotlib, MongoDB, Git/GitHub y Jenkins**, demostrando la importancia del versionamiento, la automatización y la reproducibilidad en entornos de datos reales.  
+
+En conjunto, el proyecto demuestra cómo un flujo de trabajo bien estructurado permite transformar datos dispersos en información útil para la toma de decisiones dentro del sector Salud. 
+
+---
+
+## 👨‍💻 Autor
+
+| 👤 Nombre | 📅 Fecha | 🧠 Proyecto |
+|------------|-----------|-------------|
+| **Arnold Michell Ocas Ruiz** | 17 de octubre de 2025 | *SaludDigitalA_E1 – Análisis de Pacientes con Big Data* |
+
+---
+
+## ⚖️ Derechos
+
+© 2025 **Arnold Michell Ocas Ruiz**  
+Todos los derechos reservados. 🛡️  
+Proyecto académico desarrollado para fines educativos, con fines de demostración técnica en **Big Data, Python y MongoDB**.
